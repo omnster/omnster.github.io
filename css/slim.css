@@ -189,6 +189,10 @@ button,
   transform: translateX(-100%);
   text-align: right; }
 
+.footnotes {
+	font-size:12px;
+}
+
 .nav-btn {
   display: inline-block;
   line-height: 16px; }
@@ -365,3 +369,11 @@ button,
 	color: #ccc;
 }
 
+sup, sub {
+vertical-align: baseline;
+position: relative;
+top: -0.4em;
+}
+sub {
+top: 0.4em;
+}
