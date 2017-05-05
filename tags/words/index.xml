@@ -2,11 +2,10 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Words on Потом придумаю</title>
-    <link>https://omnster.github.io/tags/words/</link>
+    <link>https://omnster.github.io/tags/words/index.xml</link>
     <description>Recent content in Words on Потом придумаю</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ru-ru</language>
-    <lastBuildDate>Tue, 14 Feb 2017 22:54:23 +0100</lastBuildDate>
     <atom:link href="https://omnster.github.io/tags/words/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
