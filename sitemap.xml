@@ -2,6 +2,11 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://omnster.github.io/post/organ/</loc>
+    <lastmod>2017-05-07T22:38:06+02:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://omnster.github.io/post/april_2/</loc>
     <lastmod>2017-05-05T22:31:02+02:00</lastmod>
   </url>
@@ -72,6 +77,18 @@
   </url>
   
   <url>
+    <loc>https://omnster.github.io/tags/church/</loc>
+    <lastmod>2017-05-07T22:38:06+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://omnster.github.io/tags/experience/</loc>
+    <lastmod>2017-05-07T22:38:06+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://omnster.github.io/tags/misc/</loc>
     <lastmod>2017-05-05T22:31:02+02:00</lastmod>
     <priority>0</priority>
@@ -90,8 +107,14 @@
   </url>
   
   <url>
+    <loc>https://omnster.github.io/tags/places/</loc>
+    <lastmod>2017-05-07T22:38:06+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://omnster.github.io/post/</loc>
-    <lastmod>2017-05-05T22:31:02+02:00</lastmod>
+    <lastmod>2017-05-07T22:38:06+02:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -126,7 +149,7 @@
   
   <url>
     <loc>https://omnster.github.io/</loc>
-    <lastmod>2017-05-05T22:31:02+02:00</lastmod>
+    <lastmod>2017-05-07T22:38:06+02:00</lastmod>
     <priority>0</priority>
   </url>
   
