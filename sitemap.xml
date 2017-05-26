@@ -2,6 +2,21 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://omnster.github.io/post/endofmay/</loc>
+    <lastmod>2017-05-27T00:08:48+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://omnster.github.io/om/</loc>
+    <lastmod>2017-05-17T15:33:03+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://omnster.github.io/optomechanics/</loc>
+    <lastmod>2017-05-17T15:02:03+02:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://omnster.github.io/post/organ/</loc>
     <lastmod>2017-05-07T22:38:06+02:00</lastmod>
   </url>
@@ -83,6 +98,12 @@
   </url>
   
   <url>
+    <loc>https://omnster.github.io/tags/digest/</loc>
+    <lastmod>2017-05-27T00:08:48+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://omnster.github.io/tags/experience/</loc>
     <lastmod>2017-05-07T22:38:06+02:00</lastmod>
     <priority>0</priority>
@@ -101,6 +122,12 @@
   </url>
   
   <url>
+    <loc>https://omnster.github.io/optomechanics/</loc>
+    <lastmod>2017-05-17T15:02:03+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://omnster.github.io/tags/phrases/</loc>
     <lastmod>2017-01-04T22:28:30+01:00</lastmod>
     <priority>0</priority>
@@ -114,7 +141,13 @@
   
   <url>
     <loc>https://omnster.github.io/post/</loc>
-    <lastmod>2017-05-07T22:38:06+02:00</lastmod>
+    <lastmod>2017-05-27T00:08:48+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://omnster.github.io/categories/science/</loc>
+    <lastmod>2017-05-17T15:33:03+02:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -149,7 +182,7 @@
   
   <url>
     <loc>https://omnster.github.io/</loc>
-    <lastmod>2017-05-07T22:38:06+02:00</lastmod>
+    <lastmod>2017-05-27T00:08:48+02:00</lastmod>
     <priority>0</priority>
   </url>
   
