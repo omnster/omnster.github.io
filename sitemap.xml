@@ -2,6 +2,11 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://omnster.github.io/post/running/</loc>
+    <lastmod>2017-06-07T13:45:02+02:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://omnster.github.io/post/endofmay/</loc>
     <lastmod>2017-05-27T00:08:48+02:00</lastmod>
   </url>
@@ -125,13 +130,19 @@
   
   <url>
     <loc>https://omnster.github.io/post/</loc>
-    <lastmod>2017-05-27T00:08:48+02:00</lastmod>
+    <lastmod>2017-06-07T13:45:02+02:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://omnster.github.io/tags/speech/</loc>
     <lastmod>2017-03-14T22:24:28+01:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://omnster.github.io/tags/sports/</loc>
+    <lastmod>2017-06-07T13:45:02+02:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -153,6 +164,12 @@
   </url>
   
   <url>
+    <loc>https://omnster.github.io/tags/turgenev/</loc>
+    <lastmod>2017-06-07T13:45:02+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://omnster.github.io/tags/words/</loc>
     <lastmod>2017-02-14T22:54:23+01:00</lastmod>
     <priority>0</priority>
@@ -160,7 +177,7 @@
   
   <url>
     <loc>https://omnster.github.io/</loc>
-    <lastmod>2017-05-27T00:08:48+02:00</lastmod>
+    <lastmod>2017-06-07T13:45:02+02:00</lastmod>
     <priority>0</priority>
   </url>
   
