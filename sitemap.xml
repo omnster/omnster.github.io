@@ -2,6 +2,11 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://omnster.github.io/post/excavator-2/</loc>
+    <lastmod>2017-06-27T00:05:56+02:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://omnster.github.io/post/beg/</loc>
     <lastmod>2017-06-20T23:26:11+02:00</lastmod>
   </url>
@@ -110,6 +115,18 @@
   </url>
   
   <url>
+    <loc>https://omnster.github.io/tags/games/</loc>
+    <lastmod>2017-06-27T00:05:56+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://omnster.github.io/tags/machinae-supremacy/</loc>
+    <lastmod>2017-06-27T00:05:56+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://omnster.github.io/tags/misc/</loc>
     <lastmod>2017-05-05T22:31:02+02:00</lastmod>
     <priority>0</priority>
@@ -141,7 +158,7 @@
   
   <url>
     <loc>https://omnster.github.io/post/</loc>
-    <lastmod>2017-06-20T23:26:11+02:00</lastmod>
+    <lastmod>2017-06-27T00:05:56+02:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -188,7 +205,7 @@
   
   <url>
     <loc>https://omnster.github.io/</loc>
-    <lastmod>2017-06-20T23:26:11+02:00</lastmod>
+    <lastmod>2017-06-27T00:05:56+02:00</lastmod>
     <priority>0</priority>
   </url>
   
