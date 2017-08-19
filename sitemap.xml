@@ -1,5 +1,11 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>https://omnster.github.io/post/mom/</loc>
+    <lastmod>2017-08-19T12:38:53+02:00</lastmod>
+  </url>
   
   <url>
     <loc>https://omnster.github.io/post/endofjune/</loc>
@@ -72,12 +78,12 @@
   </url>
   
   <url>
-    <loc>https://omnster.github.io/post/guards%20guards/</loc>
+    <loc>https://omnster.github.io/post/guards-guards/</loc>
     <lastmod>2017-01-15T23:34:10+01:00</lastmod>
   </url>
   
   <url>
-    <loc>https://omnster.github.io/post/je%20ne%20parle/</loc>
+    <loc>https://omnster.github.io/post/je-ne-parle/</loc>
     <lastmod>2017-01-04T22:28:30+01:00</lastmod>
   </url>
   
@@ -126,8 +132,20 @@
   </url>
   
   <url>
+    <loc>https://omnster.github.io/tags/guest/</loc>
+    <lastmod>2017-08-19T12:38:53+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://omnster.github.io/tags/machinae-supremacy/</loc>
     <lastmod>2017-06-27T00:05:56+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://omnster.github.io/tags/mamulia/</loc>
+    <lastmod>2017-08-19T12:38:53+02:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -163,7 +181,7 @@
   
   <url>
     <loc>https://omnster.github.io/post/</loc>
-    <lastmod>2017-07-06T14:27:37+02:00</lastmod>
+    <lastmod>2017-08-19T12:38:53+02:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -181,6 +199,7 @@
   
   <url>
     <loc>https://omnster.github.io/tags/</loc>
+    <lastmod>2017-05-07T22:38:06+02:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -210,7 +229,7 @@
   
   <url>
     <loc>https://omnster.github.io/</loc>
-    <lastmod>2017-07-06T14:27:37+02:00</lastmod>
+    <lastmod>2017-08-19T12:38:53+02:00</lastmod>
     <priority>0</priority>
   </url>
   
