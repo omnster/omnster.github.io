@@ -7,7 +7,9 @@ html {
   box-sizing: inherit; }
 
 body {
-  margin: 1em; }
+  margin: 2.5em; 
+  /* max-width:500px;  */
+  }
 
 a {
   background-color: transparent; }
@@ -39,11 +41,11 @@ tbody tr:nth-child(odd) th {
   background-color: #f9f9f9; }
 
 body {
-  color: #555;
+  color: #333;
   font-size: 100%;
   font-weight: 100;
-  font-family: 'Roboto Slab' , sans-serif;
-  line-height: 1.85;
+  font-family: 'PT Serif', 'Roboto Slab' , serif,  sans-serif;
+  /* line-height: 1.85; */
   letter-spacing: 0.01rem; }
 
 h1,
@@ -118,9 +120,9 @@ pre code {
   border: none; }
 
 blockquote {
-  padding: 0.5rem 1rem;
-  margin: 0.8rem 0 0.8rem -1.5rem;
-  color: #7a7a7a;
+  padding: 0.25rem 0.5rem;
+  margin: -1rem 0rem 0.4rem -1.5rem;
+  color: #555;
   border-left: 0.3rem solid #e5e5e5; }
   blockquote p:last-child {
     margin-bottom: 0; }
