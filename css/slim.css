@@ -121,7 +121,7 @@ pre code {
 
 blockquote {
   padding: 0.25rem 0.5rem;
-  margin: -1rem 0rem 0.4rem -1.5rem;
+  margin: -1rem 0rem 1rem -1.5rem;
   color: #555;
   border-left: 0.3rem solid #e5e5e5; }
   blockquote p:last-child {
