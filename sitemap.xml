@@ -3,6 +3,11 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://omnster.github.io/post/laskat/</loc>
+    <lastmod>2017-11-08T00:05:55+01:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://omnster.github.io/post/kompromiss/</loc>
     <lastmod>2017-10-31T22:46:24+01:00</lastmod>
   </url>
@@ -184,6 +189,12 @@
   </url>
   
   <url>
+    <loc>https://omnster.github.io/tags/language/</loc>
+    <lastmod>2017-11-08T00:05:55+01:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://omnster.github.io/tags/machinae-supremacy/</loc>
     <lastmod>2017-06-27T00:05:56+02:00</lastmod>
     <priority>0</priority>
@@ -214,6 +225,12 @@
   </url>
   
   <url>
+    <loc>https://omnster.github.io/tags/obnimashki/</loc>
+    <lastmod>2017-11-08T00:05:55+01:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://omnster.github.io/tags/one-day/</loc>
     <lastmod>2017-09-11T20:14:12+02:00</lastmod>
     <priority>0</priority>
@@ -233,13 +250,13 @@
   
   <url>
     <loc>https://omnster.github.io/post/</loc>
-    <lastmod>2017-10-31T22:46:24+01:00</lastmod>
+    <lastmod>2017-11-08T00:05:55+01:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://omnster.github.io/tags/speech/</loc>
-    <lastmod>2017-10-31T22:46:24+01:00</lastmod>
+    <lastmod>2017-11-08T00:05:55+01:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -287,7 +304,7 @@
   
   <url>
     <loc>https://omnster.github.io/</loc>
-    <lastmod>2017-10-31T22:46:24+01:00</lastmod>
+    <lastmod>2017-11-08T00:05:55+01:00</lastmod>
     <priority>0</priority>
   </url>
   

@@ -18,7 +18,7 @@ img {
   max-width: 100%;
   margin: 1rem 0 0 1rem;
   border: 0;
-  border-radius: 5px; }
+  border-radius: 10px; }
 
 button,
 input,
@@ -346,6 +346,7 @@ button,
   color: #ccc;
   font-size: 14px;
   margin-top: -25px;
+  margin-bottom: 1ex;
   display:block;
   position: relative; }
 
@@ -360,6 +361,7 @@ button,
   font-size: 14px;
   position: relative;
   margin-top: -25px;
+  /* margin-bottom: 1em; */
   margin-left: 125px;
   text-align: right;
   max-width: 525px;
