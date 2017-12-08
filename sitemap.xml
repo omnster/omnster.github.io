@@ -3,6 +3,11 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://omnster.github.io/post/hts_dec_2017/</loc>
+    <lastmod>2017-12-08T23:09:53+01:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://omnster.github.io/post/red/</loc>
     <lastmod>2017-11-15T21:49:46+01:00</lastmod>
   </url>
@@ -165,7 +170,7 @@
   
   <url>
     <loc>https://omnster.github.io/tags/digest/</loc>
-    <lastmod>2017-11-15T21:49:46+01:00</lastmod>
+    <lastmod>2017-12-08T23:09:53+01:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -202,6 +207,12 @@
   <url>
     <loc>https://omnster.github.io/tags/language/</loc>
     <lastmod>2017-11-08T00:05:55+01:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://omnster.github.io/tags/liubov-komsomol-i-vesna/</loc>
+    <lastmod>2017-12-08T23:09:53+01:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -261,7 +272,7 @@
   
   <url>
     <loc>https://omnster.github.io/post/</loc>
-    <lastmod>2017-11-15T21:49:46+01:00</lastmod>
+    <lastmod>2017-12-08T23:09:53+01:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -273,7 +284,7 @@
   
   <url>
     <loc>https://omnster.github.io/tags/speech/</loc>
-    <lastmod>2017-11-08T00:05:55+01:00</lastmod>
+    <lastmod>2017-12-08T23:09:53+01:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -321,7 +332,7 @@
   
   <url>
     <loc>https://omnster.github.io/</loc>
-    <lastmod>2017-11-15T21:49:46+01:00</lastmod>
+    <lastmod>2017-12-08T23:09:53+01:00</lastmod>
     <priority>0</priority>
   </url>
   

@@ -84,9 +84,9 @@ a {
   a:hover, a:focus {
     text-decoration: underline; }
 
-em {
-  text-emphasis-style: circle;
-  text-emphasis-position: under; }
+/* em { */
+/*   text-emphasis-style: circle; */
+/*   text-emphasis-position: under; } */
 
 code {
   font-family: monospace;
