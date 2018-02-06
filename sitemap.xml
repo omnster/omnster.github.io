@@ -3,6 +3,11 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://omnster.github.io/post/nosochki/</loc>
+    <lastmod>2018-02-05T20:17:08+01:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://omnster.github.io/post/hidenseek/</loc>
     <lastmod>2018-01-30T00:02:38+01:00</lastmod>
   </url>
@@ -190,7 +195,7 @@
   
   <url>
     <loc>https://omnster.github.io/tags/digest/</loc>
-    <lastmod>2018-01-30T00:02:38+01:00</lastmod>
+    <lastmod>2018-02-05T20:17:08+01:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -304,13 +309,19 @@
   
   <url>
     <loc>https://omnster.github.io/post/</loc>
-    <lastmod>2018-01-30T00:02:38+01:00</lastmod>
+    <lastmod>2018-02-05T20:17:08+01:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://omnster.github.io/tags/pozvoni-mne-pozvoni/</loc>
     <lastmod>2018-01-20T15:01:05+01:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://omnster.github.io/tags/prekrasnoe-daleko-ne-bud-ko-mne-zhestoko/</loc>
+    <lastmod>2018-02-05T20:17:08+01:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -382,7 +393,7 @@
   
   <url>
     <loc>https://omnster.github.io/</loc>
-    <lastmod>2018-01-30T00:02:38+01:00</lastmod>
+    <lastmod>2018-02-05T20:17:08+01:00</lastmod>
     <priority>0</priority>
   </url>
   
