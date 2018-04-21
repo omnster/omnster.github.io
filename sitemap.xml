@@ -3,6 +3,11 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://omnster.github.io/post/digest/</loc>
+    <lastmod>2018-04-21T15:29:58+02:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://omnster.github.io/post/sick/</loc>
     <lastmod>2018-03-06T11:54:36+01:00</lastmod>
   </url>
@@ -216,6 +221,12 @@
   </url>
   
   <url>
+    <loc>https://omnster.github.io/categories/digest/</loc>
+    <lastmod>2018-04-21T15:29:58+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://omnster.github.io/tags/digest/</loc>
     <lastmod>2018-02-20T09:49:43+01:00</lastmod>
     <priority>0</priority>
@@ -331,7 +342,7 @@
   
   <url>
     <loc>https://omnster.github.io/post/</loc>
-    <lastmod>2018-03-06T11:54:36+01:00</lastmod>
+    <lastmod>2018-04-21T15:29:58+02:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -396,6 +407,12 @@
   </url>
   
   <url>
+    <loc>https://omnster.github.io/tags/uvezu-tebia-ja-v-tundru/</loc>
+    <lastmod>2018-04-21T15:29:58+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://omnster.github.io/tags/vezi-menya-olen/</loc>
     <lastmod>2018-01-30T00:02:38+01:00</lastmod>
     <priority>0</priority>
@@ -415,7 +432,7 @@
   
   <url>
     <loc>https://omnster.github.io/</loc>
-    <lastmod>2018-03-06T11:54:36+01:00</lastmod>
+    <lastmod>2018-04-21T15:29:58+02:00</lastmod>
     <priority>0</priority>
   </url>
   
