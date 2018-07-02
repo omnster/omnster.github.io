@@ -3,6 +3,11 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://omnster.github.io/post/language/</loc>
+    <lastmod>2018-07-02T14:09:12+02:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://omnster.github.io/post/visatrip/</loc>
     <lastmod>2018-06-25T23:34:22+02:00</lastmod>
   </url>
@@ -251,14 +256,14 @@
   </url>
   
   <url>
-    <loc>https://omnster.github.io/categories/digest/</loc>
-    <lastmod>2018-06-11T17:54:30+02:00</lastmod>
+    <loc>https://omnster.github.io/tags/digest/</loc>
+    <lastmod>2018-02-20T09:49:43+01:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://omnster.github.io/tags/digest/</loc>
-    <lastmod>2018-02-20T09:49:43+01:00</lastmod>
+    <loc>https://omnster.github.io/categories/digest/</loc>
+    <lastmod>2018-06-11T17:54:30+02:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -414,7 +419,7 @@
   
   <url>
     <loc>https://omnster.github.io/post/</loc>
-    <lastmod>2018-06-25T23:34:22+02:00</lastmod>
+    <lastmod>2018-07-02T14:09:12+02:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -491,6 +496,12 @@
   </url>
   
   <url>
+    <loc>https://omnster.github.io/tags/ves-mir-u-nas-v-rukah-mi-zvezdi-kontinentov/</loc>
+    <lastmod>2018-07-02T14:09:12+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://omnster.github.io/tags/vezi-menya-olen/</loc>
     <lastmod>2018-01-30T00:02:38+01:00</lastmod>
     <priority>0</priority>
@@ -510,7 +521,7 @@
   
   <url>
     <loc>https://omnster.github.io/</loc>
-    <lastmod>2018-06-25T23:34:22+02:00</lastmod>
+    <lastmod>2018-07-02T14:09:12+02:00</lastmod>
     <priority>0</priority>
   </url>
   
