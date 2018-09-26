@@ -3,6 +3,11 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://omnster.github.io/post/orchard/</loc>
+    <lastmod>2018-09-25T18:00:17+02:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://omnster.github.io/post/ulia/</loc>
     <lastmod>2018-09-19T22:17:15+02:00</lastmod>
   </url>
@@ -243,6 +248,12 @@
   </url>
   
   <url>
+    <loc>https://omnster.github.io/tags/a-ljubovi-zolotaya-lestnitsa-bez-peril/</loc>
+    <lastmod>2018-09-25T18:00:17+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://omnster.github.io/tags/a-snitsya-nam-nie-rockot-cosmodroma/</loc>
     <lastmod>2018-03-06T11:54:36+01:00</lastmod>
     <priority>0</priority>
@@ -316,6 +327,12 @@
   <url>
     <loc>https://omnster.github.io/tags/i-lenin-takoy-molodoy/</loc>
     <lastmod>2017-11-15T21:49:46+01:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://omnster.github.io/tags/into-the-orchard-i-walk-peering-way-past-the-gate/</loc>
+    <lastmod>2018-09-25T18:00:17+02:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -435,7 +452,7 @@
   
   <url>
     <loc>https://omnster.github.io/post/</loc>
-    <lastmod>2018-09-19T22:17:15+02:00</lastmod>
+    <lastmod>2018-09-25T18:00:17+02:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -483,7 +500,7 @@
   
   <url>
     <loc>https://omnster.github.io/tags/</loc>
-    <lastmod>2018-03-06T11:54:36+01:00</lastmod>
+    <lastmod>2018-09-25T18:00:17+02:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -537,7 +554,7 @@
   
   <url>
     <loc>https://omnster.github.io/</loc>
-    <lastmod>2018-09-19T22:17:15+02:00</lastmod>
+    <lastmod>2018-09-25T18:00:17+02:00</lastmod>
     <priority>0</priority>
   </url>
   
