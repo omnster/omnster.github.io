@@ -3,6 +3,11 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://omnster.github.io/post/digest_2018-10-25/</loc>
+    <lastmod>2018-10-25T21:33:59+02:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://omnster.github.io/post/orchard/</loc>
     <lastmod>2018-09-25T18:00:17+02:00</lastmod>
   </url>
@@ -278,7 +283,7 @@
   
   <url>
     <loc>https://omnster.github.io/categories/digest/</loc>
-    <lastmod>2018-08-25T15:25:35+02:00</lastmod>
+    <lastmod>2018-10-25T21:33:59+02:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -452,7 +457,7 @@
   
   <url>
     <loc>https://omnster.github.io/post/</loc>
-    <lastmod>2018-09-25T18:00:17+02:00</lastmod>
+    <lastmod>2018-10-25T21:33:59+02:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -465,6 +470,12 @@
   <url>
     <loc>https://omnster.github.io/tags/prekrasnoe-daleko-ne-bud-ko-mne-zhestoko/</loc>
     <lastmod>2018-02-05T20:17:08+01:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://omnster.github.io/tags/scales-of-justice/</loc>
+    <lastmod>2018-10-25T21:33:59+02:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -541,6 +552,12 @@
   </url>
   
   <url>
+    <loc>https://omnster.github.io/tags/volny-kholodnoi-reki-nashi-khoroniat-mechty/</loc>
+    <lastmod>2018-10-25T21:33:59+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://omnster.github.io/tags/words/</loc>
     <lastmod>2017-02-14T22:54:23+01:00</lastmod>
     <priority>0</priority>
@@ -554,7 +571,7 @@
   
   <url>
     <loc>https://omnster.github.io/</loc>
-    <lastmod>2018-09-25T18:00:17+02:00</lastmod>
+    <lastmod>2018-10-25T21:33:59+02:00</lastmod>
     <priority>0</priority>
   </url>
   
