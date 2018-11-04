@@ -3,6 +3,11 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://omnster.github.io/post/2018-11-04/</loc>
+    <lastmod>2018-11-04T16:21:43+01:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://omnster.github.io/post/digest_2018-10-25/</loc>
     <lastmod>2018-10-25T21:33:59+02:00</lastmod>
   </url>
@@ -282,14 +287,14 @@
   </url>
   
   <url>
-    <loc>https://omnster.github.io/categories/digest/</loc>
-    <lastmod>2018-10-25T21:33:59+02:00</lastmod>
+    <loc>https://omnster.github.io/tags/digest/</loc>
+    <lastmod>2018-02-20T09:49:43+01:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://omnster.github.io/tags/digest/</loc>
-    <lastmod>2018-02-20T09:49:43+01:00</lastmod>
+    <loc>https://omnster.github.io/categories/digest/</loc>
+    <lastmod>2018-10-25T21:33:59+02:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -432,6 +437,12 @@
   </url>
   
   <url>
+    <loc>https://omnster.github.io/tags/odin-glupij-lesorub-znaete-takogo-zahotel-sebe-tulup-sdelat-bez-portnogo/</loc>
+    <lastmod>2018-11-04T16:21:43+01:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://omnster.github.io/tags/one-day/</loc>
     <lastmod>2018-06-25T23:34:22+02:00</lastmod>
     <priority>0</priority>
@@ -457,7 +468,7 @@
   
   <url>
     <loc>https://omnster.github.io/post/</loc>
-    <lastmod>2018-10-25T21:33:59+02:00</lastmod>
+    <lastmod>2018-11-04T16:21:43+01:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -571,7 +582,7 @@
   
   <url>
     <loc>https://omnster.github.io/</loc>
-    <lastmod>2018-10-25T21:33:59+02:00</lastmod>
+    <lastmod>2018-11-04T16:21:43+01:00</lastmod>
     <priority>0</priority>
   </url>
   
