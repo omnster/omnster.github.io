@@ -3,6 +3,11 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://omnster.github.io/post/kairat/</loc>
+    <lastmod>2018-11-16T20:37:55+01:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://omnster.github.io/post/2018-11-04/</loc>
     <lastmod>2018-11-04T16:21:43+01:00</lastmod>
   </url>
@@ -395,6 +400,12 @@
   </url>
   
   <url>
+    <loc>https://omnster.github.io/tags/mnie-poniatna-tvoja-vekovaia-pechalj-belovezhskaya-pushtcha/</loc>
+    <lastmod>2018-11-16T20:37:55+01:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://omnster.github.io/tags/moj-adres-ne-dom-i-ne-ulitza/</loc>
     <lastmod>2018-05-04T21:07:04+02:00</lastmod>
     <priority>0</priority>
@@ -468,7 +479,7 @@
   
   <url>
     <loc>https://omnster.github.io/post/</loc>
-    <lastmod>2018-11-04T16:21:43+01:00</lastmod>
+    <lastmod>2018-11-16T20:37:55+01:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -510,7 +521,7 @@
   
   <url>
     <loc>https://omnster.github.io/tags/sports/</loc>
-    <lastmod>2018-03-06T11:54:36+01:00</lastmod>
+    <lastmod>2018-11-16T20:37:55+01:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -582,7 +593,7 @@
   
   <url>
     <loc>https://omnster.github.io/</loc>
-    <lastmod>2018-11-04T16:21:43+01:00</lastmod>
+    <lastmod>2018-11-16T20:37:55+01:00</lastmod>
     <priority>0</priority>
   </url>
   
