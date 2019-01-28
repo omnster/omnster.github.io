@@ -3,6 +3,11 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://omnster.github.io/post/iv/</loc>
+    <lastmod>2019-01-28T06:00:00+01:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://omnster.github.io/post/digest_2019-01-17/</loc>
     <lastmod>2019-01-17T23:01:01+01:00</lastmod>
   </url>
@@ -268,6 +273,12 @@
   </url>
   
   <url>
+    <loc>https://omnster.github.io/categories/</loc>
+    <lastmod>2019-01-28T06:00:00+01:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://omnster.github.io/tags/a-ljubovi-zolotaya-lestnitsa-bez-peril/</loc>
     <lastmod>2018-09-25T18:00:17+02:00</lastmod>
     <priority>0</priority>
@@ -287,6 +298,7 @@
   
   <url>
     <loc>https://omnster.github.io/categories/</loc>
+    <lastmod>2019-01-28T06:00:00+01:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -490,7 +502,7 @@
   
   <url>
     <loc>https://omnster.github.io/post/</loc>
-    <lastmod>2019-01-17T23:01:01+01:00</lastmod>
+    <lastmod>2019-01-28T06:00:00+01:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -597,6 +609,12 @@
   </url>
   
   <url>
+    <loc>https://omnster.github.io/tags/zdravstvuj-zdravstvuj-siyayesh-siyayu-kotorij-tschas-dvenadtsatij-primerno/</loc>
+    <lastmod>2019-01-28T06:00:00+01:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://omnster.github.io/tags/zoo/</loc>
     <lastmod>2017-10-16T15:21:36+02:00</lastmod>
     <priority>0</priority>
@@ -604,7 +622,7 @@
   
   <url>
     <loc>https://omnster.github.io/</loc>
-    <lastmod>2019-01-17T23:01:01+01:00</lastmod>
+    <lastmod>2019-01-28T06:00:00+01:00</lastmod>
     <priority>0</priority>
   </url>
   
