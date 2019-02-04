@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Потом придумаю</title>
+    <title>Categories on Потом придумаю</title>
     <link>https://omnster.github.io/categories/</link>
-    <description>Recent content on Потом придумаю</description>
+    <description>Recent content in Categories on Потом придумаю</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ru-ru</language>
     <lastBuildDate>Mon, 28 Jan 2019 06:00:00 +0100</lastBuildDate>
@@ -12,13 +12,57 @@
     
     
     <item>
-      <title>IV</title>
-      <link>https://omnster.github.io/post/iv/</link>
+      <title></title>
+      <link>https://omnster.github.io/categories/</link>
       <pubDate>Mon, 28 Jan 2019 06:00:00 +0100</pubDate>
       
-      <guid>https://omnster.github.io/post/iv/</guid>
-      <description>Дорогие друзья, намедни Алексей Андреевич вступил своей маленькой ножкой в пятый год жизни. Маленький шажок для человечка, но большой для человечества. Леша вообще болел всю предыдущую неделю и в день рождения неважно себя чувствовал, поэтому праздничную церемонию мы отложили на один день. К счастью, он пока очень поверхностно знаком с календарем, и подмены не заметил.
-По поводу торжества мы отрядили экспедицию в супермаркет купить много маленькой фигни, чтобы порадовать карапуза. Оный пребывает все еще в том блаженном возрасте, когда количество подарков играет определяющую роль, практически независимо от их размера, поэтому один большой экскаватор проигрывает пяти крошечным.</description>
+      <guid>https://omnster.github.io/categories/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Digest</title>
+      <link>https://omnster.github.io/categories/digest/</link>
+      <pubDate>Mon, 04 Feb 2019 06:00:00 +0100</pubDate>
+      
+      <guid>https://omnster.github.io/categories/digest/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Emotions</title>
+      <link>https://omnster.github.io/categories/emotions/</link>
+      <pubDate>Mon, 04 Jun 2018 22:27:14 +0200</pubDate>
+      
+      <guid>https://omnster.github.io/categories/emotions/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Experiences</title>
+      <link>https://omnster.github.io/categories/experiences/</link>
+      <pubDate>Mon, 25 Jun 2018 23:34:22 +0200</pubDate>
+      
+      <guid>https://omnster.github.io/categories/experiences/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Myself</title>
+      <link>https://omnster.github.io/categories/myself/</link>
+      <pubDate>Mon, 11 Dec 2017 21:19:41 +0100</pubDate>
+      
+      <guid>https://omnster.github.io/categories/myself/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Tales</title>
+      <link>https://omnster.github.io/categories/tales/</link>
+      <pubDate>Sun, 05 Feb 2017 22:21:38 +0100</pubDate>
+      
+      <guid>https://omnster.github.io/categories/tales/</guid>
+      <description></description>
     </item>
     
   </channel>
