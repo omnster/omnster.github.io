@@ -340,14 +340,14 @@
   </url>
   
   <url>
-    <loc>https://omnster.github.io/tags/digest/</loc>
-    <lastmod>2018-02-20T09:49:43+01:00</lastmod>
+    <loc>https://omnster.github.io/categories/digest/</loc>
+    <lastmod>2019-07-01T06:00:00+02:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://omnster.github.io/categories/digest/</loc>
-    <lastmod>2019-07-01T06:00:00+02:00</lastmod>
+    <loc>https://omnster.github.io/tags/digest/</loc>
+    <lastmod>2018-02-20T09:49:43+01:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -462,12 +462,6 @@
   <url>
     <loc>https://omnster.github.io/tags/mnie-poniatna-tvoja-vekovaia-pechalj-belovezhskaya-pushtcha/</loc>
     <lastmod>2018-11-16T20:37:55+01:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://omnster.github.io/tags/moj-address-ne-dom-i-ne-ulitsa-moj-address-sovietskiy-soiyuz/</loc>
-    <lastmod>2019-07-01T06:00:00+02:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -630,6 +624,12 @@
   <url>
     <loc>https://omnster.github.io/tags/uvezu-tebia-ja-v-tundru/</loc>
     <lastmod>2018-04-21T15:29:58+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://omnster.github.io/tags/uzhe-zoviet-menya-v-poliyot-moj-delitaplan-moj-delitaplan/</loc>
+    <lastmod>2019-07-01T06:00:00+02:00</lastmod>
     <priority>0</priority>
   </url>
   
