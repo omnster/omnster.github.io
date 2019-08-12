@@ -3,6 +3,11 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://omnster.github.io/post/sobaken/</loc>
+    <lastmod>2019-08-12T10:38:08+02:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://omnster.github.io/post/%D1%85%D1%80%D0%BE%D0%BD%D0%B8%D0%BA%D0%B0-%D1%82%D0%B5%D0%BA%D1%83%D1%89%D0%B8%D1%85-%D1%81%D0%BE%D0%B1%D1%8B%D1%82%D0%B8%D0%B9-%D0%B8%D1%8E%D0%BB%D1%8C-2019/</loc>
     <lastmod>2019-07-01T06:00:00+02:00</lastmod>
   </url>
@@ -352,6 +357,12 @@
   </url>
   
   <url>
+    <loc>https://omnster.github.io/categories/doge/</loc>
+    <lastmod>2019-08-12T10:38:08+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://omnster.github.io/categories/emotions/</loc>
     <lastmod>2018-06-04T22:27:14+02:00</lastmod>
     <priority>0</priority>
@@ -545,13 +556,19 @@
   
   <url>
     <loc>https://omnster.github.io/post/</loc>
-    <lastmod>2019-07-01T06:00:00+02:00</lastmod>
+    <lastmod>2019-08-12T10:38:08+02:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://omnster.github.io/tags/pozvoni-mne-pozvoni/</loc>
     <lastmod>2018-01-20T15:01:05+01:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://omnster.github.io/tags/predannej-sobaki-veselej-sobaki-laskovej-sobaki-netu-suschchestva/</loc>
+    <lastmod>2019-08-12T10:38:08+02:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -677,7 +694,7 @@
   
   <url>
     <loc>https://omnster.github.io/</loc>
-    <lastmod>2019-07-01T06:00:00+02:00</lastmod>
+    <lastmod>2019-08-12T10:38:08+02:00</lastmod>
     <priority>0</priority>
   </url>
   
