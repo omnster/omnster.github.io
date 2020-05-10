@@ -3,22 +3,37 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://omnster.github.io/post/</loc>
+    <lastmod>2020-05-10T21:36:27+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://omnster.github.io/tags/</loc>
+    <lastmod>2020-05-10T21:36:27+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://omnster.github.io/tags/temnaja-noch-toliko-puli-svistyat-u-viska/</loc>
+    <lastmod>2020-05-10T21:36:27+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://omnster.github.io/post/2020-05-10/</loc>
+    <lastmod>2020-05-10T21:36:27+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://omnster.github.io/</loc>
+    <lastmod>2020-05-10T21:36:27+02:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://omnster.github.io/categories/</loc>
     <lastmod>2020-03-24T21:55:01+01:00</lastmod>
   </url>
   
   <url>
-    <loc>https://omnster.github.io/post/</loc>
-    <lastmod>2020-03-24T21:55:01+01:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://omnster.github.io/categories/qrntn/</loc>
-    <lastmod>2020-03-24T21:55:01+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://omnster.github.io/tags/</loc>
     <lastmod>2020-03-24T21:55:01+01:00</lastmod>
   </url>
   
@@ -29,11 +44,6 @@
   
   <url>
     <loc>https://omnster.github.io/post/2020-03-24/</loc>
-    <lastmod>2020-03-24T21:55:01+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://omnster.github.io/</loc>
     <lastmod>2020-03-24T21:55:01+01:00</lastmod>
   </url>
   
