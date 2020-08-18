@@ -357,7 +357,7 @@ button,
 /* styling for tags on homepage */
 
 .post-tags {
-  color: #ccc;
+  color: #efefef;
   display: block;
   font-size: 14px;
   position: relative;
@@ -369,7 +369,7 @@ button,
 }
 
 .post-tags a {
-	color: #ccc;
+	color: #efefef;
 }
 
 sup, sub {

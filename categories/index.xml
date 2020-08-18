@@ -6,10 +6,19 @@
     <description>Recent content in Categories on Потом придумаю</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ru-ru</language>
-    <lastBuildDate>Tue, 24 Mar 2020 21:55:01 +0100</lastBuildDate>
+    <lastBuildDate>Fri, 14 Aug 2020 03:00:00 +0200</lastBuildDate>
     
 	<atom:link href="https://omnster.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>digest</title>
+      <link>https://omnster.github.io/categories/digest/</link>
+      <pubDate>Fri, 14 Aug 2020 03:00:00 +0200</pubDate>
+      
+      <guid>https://omnster.github.io/categories/digest/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>qrntn</title>
@@ -17,15 +26,6 @@
       <pubDate>Tue, 24 Mar 2020 21:55:01 +0100</pubDate>
       
       <guid>https://omnster.github.io/categories/qrntn/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>digest</title>
-      <link>https://omnster.github.io/categories/digest/</link>
-      <pubDate>Sun, 19 Jan 2020 23:31:53 +0100</pubDate>
-      
-      <guid>https://omnster.github.io/categories/digest/</guid>
       <description></description>
     </item>
     
