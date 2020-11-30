@@ -7,9 +7,7 @@ html {
   box-sizing: inherit; }
 
 body {
-  margin: 2.5em; 
-  /* max-width:500px;  */
-  }
+  margin: 0; }
 
 a {
   background-color: transparent; }
@@ -18,13 +16,14 @@ img {
   max-width: 100%;
   margin: 1rem 0 0 1rem;
   border: 0;
-  border-radius: 10px; }
+  border-radius: 5px; }
 
 button,
 input,
 select,
 textarea {
-  margin: 20; }
+  font: inherit;
+  margin: 0; }
 
 table {
   border-collapse: collapse;
@@ -41,12 +40,11 @@ tbody tr:nth-child(odd) th {
   background-color: #f9f9f9; }
 
 body {
-  color: #333;
+  color: #555;
+  font-family: 'Source Sans Pro', 'Helvetica Neue', Helvetica, 'PingFang SC', 'Hiragino Sans GB', 'Microsoft YaHei', 'WenQuanYi Micro Hei', Arial, Serif;
   font-size: 100%;
-  font-weight: 100;
-  font-family: 'Noto Sans', 'Source Sans Pro', 'PT Sans', sans-serif ;
-  /* font-family: 'Source Serif Pro', 'PT Serif', 'Roboto Slab' , serif,  sans-serif; */
-  /* line-height: 1.85; */
+  font-weight: 400;
+  line-height: 1.85;
   letter-spacing: 0.01rem; }
 
 h1,
@@ -58,15 +56,17 @@ h6 {
   font-weight: 700;
   line-height: 1.25;
   margin-bottom: 0.75rem;
-  }
+  font-family: 'Source Sans Pro', 'PingFang SC', 'Hiragino Sans GB', 'Microsoft YaHei', 'WenQuanYi Micro Hei', 'Helvetica Neue', Helvetica, Arial, sans-serif; }
 
 h1 {
-  font-size: 1.25rem; }
+  font-size: 1.8rem; }
 
 h2 {
+  font-size: 1.5rem; }
+
+h3 {
   font-size: 1.25rem; }
 
-h3,
 h4,
 h5,
 h6 {
@@ -85,12 +85,12 @@ a {
   a:hover, a:focus {
     text-decoration: underline; }
 
-/* em { */
-/*   text-emphasis-style: circle; */
-/*   text-emphasis-position: under; } */
+em {
+  text-emphasis-style: circle;
+  text-emphasis-position: under; }
 
 code {
-  font-family: monospace;
+  font-family: 'Source Code Pro', Monaco, Courier, monospace;
   font-size: 0.85rem;
   color: #555;
   background-color: #f5f5f5;
@@ -104,7 +104,6 @@ pre {
   margin-bottom: 1rem;
   padding: 1rem;
   font-size: 0.8rem;
-  font-family: 'Source Code Pro', monospace ;
   line-height: 1.4;
   white-space: pre;
   white-space: pre-wrap;
@@ -113,17 +112,17 @@ pre {
   background-color: #f9f9f9; }
 
 pre code {
-  font-family: 'Source Code Pro', monospace;
-  font-size: 0.8rem;
+  font-family: 'Source Code Pro', Menlo, Monaco, Courier, monospace;
+  font-size: 0.7rem;
   padding: 0;
   color: inherit;
   background-color: transparent;
   border: none; }
 
 blockquote {
-  padding: 0.25rem 0.5rem;
-  margin: -1rem 0rem 1rem -1.5rem;
-  color: #555;
+  padding: 0.5rem 1rem;
+  margin: 0.8rem 0 0.8rem -1.5rem;
+  color: #7a7a7a;
   border-left: 0.3rem solid #e5e5e5; }
   blockquote p:last-child {
     margin-bottom: 0; }
@@ -189,10 +188,6 @@ button,
   left: -15px;
   transform: translateX(-100%);
   text-align: right; }
-
-.footnotes {
-	font-size:12px;
-}
 
 .nav-btn {
   display: inline-block;
@@ -347,7 +342,6 @@ button,
   color: #ccc;
   font-size: 14px;
   margin-top: -25px;
-  margin-bottom: 1ex;
   display:block;
   position: relative; }
 
@@ -357,26 +351,17 @@ button,
 /* styling for tags on homepage */
 
 .post-tags {
-  color: #efefef;
+  color: #ccc;
   display: block;
   font-size: 14px;
   position: relative;
   margin-top: -25px;
-  margin-bottom: 1em;
   margin-left: 125px;
   text-align: right;
   max-width: 525px;
 }
 
 .post-tags a {
-	color: #efefef;
+	color: #ccc;
 }
 
-sup, sub {
-vertical-align: baseline;
-position: relative;
-top: -0.4em;
-}
-sub {
-top: 0.4em;
-}
