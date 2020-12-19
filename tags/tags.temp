@@ -1,0 +1,1272 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_OUTPUT_FILESEP	slash	/slash or backslash/
+!_TAG_OUTPUT_MODE	u-ctags	/u-ctags or e-ctags/
+!_TAG_PROGRAM_AUTHOR	Universal Ctags Team	//
+!_TAG_PROGRAM_NAME	Universal Ctags	/Derived from Exuberant Ctags/
+!_TAG_PROGRAM_URL	https://ctags.io/	/official site/
+!_TAG_PROGRAM_VERSION	0.0.0	/a3c87ab5/
+*	css/slim.css	/^*,$/;"	s
+*:after	css/slim.css	/^*:after {$/;"	s
+*:before	css/slim.css	/^*:before,$/;"	s
+.apache .hljs-cbracket	css/highlight.min.css	/^.hljs{display:block;overflow-x:auto;padding:0.5em;background:#f9f9f9;-webkit-text-size-adjust:no/;"	c
+.apache .hljs-sqbracket	css/highlight.min.css	/^.hljs{display:block;overflow-x:auto;padding:0.5em;background:#f9f9f9;-webkit-text-size-adjust:no/;"	c
+.apache .hljs-tag	css/highlight.min.css	/^.hljs{display:block;overflow-x:auto;padding:0.5em;background:#f9f9f9;-webkit-text-size-adjust:no/;"	c
+.asciidoc .hljs-attribute	css/highlight.min.css	/^.hljs{display:block;overflow-x:auto;padding:0.5em;background:#f9f9f9;-webkit-text-size-adjust:no/;"	c
+.asciidoc .hljs-blockquote	css/highlight.min.css	/^.hljs{display:block;overflow-x:auto;padding:0.5em;background:#f9f9f9;-webkit-text-size-adjust:no/;"	c
+.asciidoc .hljs-bullet	css/highlight.min.css	/^.hljs{display:block;overflow-x:auto;padding:0.5em;background:#f9f9f9;-webkit-text-size-adjust:no/;"	c
+.asciidoc .hljs-emphasis	css/highlight.min.css	/^.hljs{display:block;overflow-x:auto;padding:0.5em;background:#f9f9f9;-webkit-text-size-adjust:no/;"	c
+.asciidoc .hljs-header	css/highlight.min.css	/^.hljs{display:block;overflow-x:auto;padding:0.5em;background:#f9f9f9;-webkit-text-size-adjust:no/;"	c
+.asciidoc .hljs-link_label	css/highlight.min.css	/^.hljs{display:block;overflow-x:auto;padding:0.5em;background:#f9f9f9;-webkit-text-size-adjust:no/;"	c
+.asciidoc .hljs-link_url	css/highlight.min.css	/^.hljs{display:block;overflow-x:auto;padding:0.5em;background:#f9f9f9;-webkit-text-size-adjust:no/;"	c
+.asciidoc .hljs-strong	css/highlight.min.css	/^.hljs{display:block;overflow-x:auto;padding:0.5em;background:#f9f9f9;-webkit-text-size-adjust:no/;"	c
+.bash .hljs-variable	css/highlight.min.css	/^.hljs{display:block;overflow-x:auto;padding:0.5em;background:#f9f9f9;-webkit-text-size-adjust:no/;"	c
+.btn	css/slim.css	/^.btn {$/;"	c
+.btn::-moz-focus-inner	css/slim.css	/^  .btn::-moz-focus-inner {$/;"	c
+.btn:active	css/slim.css	/^  .btn:active {$/;"	c
+.btn:focus	css/slim.css	/^  .btn:focus {$/;"	c
+.btn:hover	css/slim.css	/^  .btn:hover,$/;"	c
+.ci	css/slim.css	/^.ci {$/;"	c
+.ci-burger	css/slim.css	/^.ci-burger {$/;"	c
+.ci-burger:after	css/slim.css	/^  .ci-burger:after {$/;"	c
+.ci-burger:after	css/slim.css	/^  .ci-burger:before, .ci-burger:after {$/;"	c
+.ci-burger:before	css/slim.css	/^  .ci-burger:before {$/;"	c
+.ci-burger:before	css/slim.css	/^  .ci-burger:before, .ci-burger:after {$/;"	c
+.ci:after	css/slim.css	/^  .ci:before, .ci:after {$/;"	c
+.ci:before	css/slim.css	/^  .ci:before, .ci:after {$/;"	c
+.clojure .hljs-attribute	css/highlight.min.css	/^.hljs{display:block;overflow-x:auto;padding:0.5em;background:#f9f9f9;-webkit-text-size-adjust:no/;"	c
+.coffeescript .hljs-attribute	css/highlight.min.css	/^.hljs{display:block;overflow-x:auto;padding:0.5em;background:#f9f9f9;-webkit-text-size-adjust:no/;"	c
+.coffeescript .hljs-property	css/highlight.min.css	/^.hljs{display:block;overflow-x:auto;padding:0.5em;background:#f9f9f9;-webkit-text-size-adjust:no/;"	c
+.coffeescript .javascript	css/highlight.min.css	/^.hljs{display:block;overflow-x:auto;padding:0.5em;background:#f9f9f9;-webkit-text-size-adjust:no/;"	c
+.container	css/slim.css	/^.container {$/;"	c
+.container:after	css/slim.css	/^  .container:after {$/;"	c
+.container:after	css/slim.css	/^  .container:before, .container:after {$/;"	c
+.container:before	css/slim.css	/^  .container:before, .container:after {$/;"	c
+.css .hljs-tag	css/highlight.min.css	/^.hljs{display:block;overflow-x:auto;padding:0.5em;background:#f9f9f9;-webkit-text-size-adjust:no/;"	c
+.diff .hljs-header	css/highlight.min.css	/^.hljs{display:block;overflow-x:auto;padding:0.5em;background:#f9f9f9;-webkit-text-size-adjust:no/;"	c
+.django .hljs-variable	css/highlight.min.css	/^.hljs{display:block;overflow-x:auto;padding:0.5em;background:#f9f9f9;-webkit-text-size-adjust:no/;"	c
+.erlang_repl .hljs-function_or_atom	css/highlight.min.css	/^.hljs{display:block;overflow-x:auto;padding:0.5em;background:#f9f9f9;-webkit-text-size-adjust:no/;"	c
+.erlang_repl .hljs-reserved	css/highlight.min.css	/^.hljs{display:block;overflow-x:auto;padding:0.5em;background:#f9f9f9;-webkit-text-size-adjust:no/;"	c
+.footer	css/slim.css	/^.footer {$/;"	c
+.footer a	css/slim.css	/^  .footer a {$/;"	s
+.go .hljs-constant	css/highlight.min.css	/^.hljs{display:block;overflow-x:auto;padding:0.5em;background:#f9f9f9;-webkit-text-size-adjust:no/;"	c
+.haml .hljs-bullet	css/highlight.min.css	/^.hljs{display:block;overflow-x:auto;padding:0.5em;background:#f9f9f9;-webkit-text-size-adjust:no/;"	c
+.haml .hljs-symbol	css/highlight.min.css	/^.hljs{display:block;overflow-x:auto;padding:0.5em;background:#f9f9f9;-webkit-text-size-adjust:no/;"	c
+.header	css/slim.css	/^.header {$/;"	c
+.hljs	css/highlight.min.css	/^.hljs{display:block;overflow-x:auto;padding:0.5em;background:#f9f9f9;-webkit-text-size-adjust:no/;"	c
+.hljs-addition	css/highlight.min.css	/^.hljs{display:block;overflow-x:auto;padding:0.5em;background:#f9f9f9;-webkit-text-size-adjust:no/;"	c
+.hljs-annotation	css/highlight.min.css	/^.hljs{display:block;overflow-x:auto;padding:0.5em;background:#f9f9f9;-webkit-text-size-adjust:no/;"	c
+.hljs-array	css/highlight.min.css	/^.hljs{display:block;overflow-x:auto;padding:0.5em;background:#f9f9f9;-webkit-text-size-adjust:no/;"	c
+.hljs-attr_selector	css/highlight.min.css	/^.hljs{display:block;overflow-x:auto;padding:0.5em;background:#f9f9f9;-webkit-text-size-adjust:no/;"	c
+.hljs-built_in	css/highlight.min.css	/^.hljs{display:block;overflow-x:auto;padding:0.5em;background:#f9f9f9;-webkit-text-size-adjust:no/;"	c
+.hljs-change	css/highlight.min.css	/^.hljs{display:block;overflow-x:auto;padding:0.5em;background:#f9f9f9;-webkit-text-size-adjust:no/;"	c
+.hljs-chunk	css/highlight.min.css	/^.hljs{display:block;overflow-x:auto;padding:0.5em;background:#f9f9f9;-webkit-text-size-adjust:no/;"	c
+.hljs-comment	css/highlight.min.css	/^.hljs{display:block;overflow-x:auto;padding:0.5em;background:#f9f9f9;-webkit-text-size-adjust:no/;"	c
+.hljs-constant	css/highlight.min.css	/^.hljs{display:block;overflow-x:auto;padding:0.5em;background:#f9f9f9;-webkit-text-size-adjust:no/;"	c
+.hljs-dartdoc	css/highlight.min.css	/^.hljs{display:block;overflow-x:auto;padding:0.5em;background:#f9f9f9;-webkit-text-size-adjust:no/;"	c
+.hljs-date	css/highlight.min.css	/^.hljs{display:block;overflow-x:auto;padding:0.5em;background:#f9f9f9;-webkit-text-size-adjust:no/;"	c
+.hljs-decorator	css/highlight.min.css	/^.hljs{display:block;overflow-x:auto;padding:0.5em;background:#f9f9f9;-webkit-text-size-adjust:no/;"	c
+.hljs-deletion	css/highlight.min.css	/^.hljs{display:block;overflow-x:auto;padding:0.5em;background:#f9f9f9;-webkit-text-size-adjust:no/;"	c
+.hljs-doctype	css/highlight.min.css	/^.hljs{display:block;overflow-x:auto;padding:0.5em;background:#f9f9f9;-webkit-text-size-adjust:no/;"	c
+.hljs-envvar	css/highlight.min.css	/^.hljs{display:block;overflow-x:auto;padding:0.5em;background:#f9f9f9;-webkit-text-size-adjust:no/;"	c
+.hljs-filter .hljs-argument	css/highlight.min.css	/^.hljs{display:block;overflow-x:auto;padding:0.5em;background:#f9f9f9;-webkit-text-size-adjust:no/;"	c
+.hljs-flow	css/highlight.min.css	/^.hljs{display:block;overflow-x:auto;padding:0.5em;background:#f9f9f9;-webkit-text-size-adjust:no/;"	c
+.hljs-hexcolor	css/highlight.min.css	/^.hljs{display:block;overflow-x:auto;padding:0.5em;background:#f9f9f9;-webkit-text-size-adjust:no/;"	c
+.hljs-id	css/highlight.min.css	/^.hljs{display:block;overflow-x:auto;padding:0.5em;background:#f9f9f9;-webkit-text-size-adjust:no/;"	c
+.hljs-important	css/highlight.min.css	/^.hljs{display:block;overflow-x:auto;padding:0.5em;background:#f9f9f9;-webkit-text-size-adjust:no/;"	c
+.hljs-javadoc	css/highlight.min.css	/^.hljs{display:block;overflow-x:auto;padding:0.5em;background:#f9f9f9;-webkit-text-size-adjust:no/;"	c
+.hljs-javadoctag	css/highlight.min.css	/^.hljs{display:block;overflow-x:auto;padding:0.5em;background:#f9f9f9;-webkit-text-size-adjust:no/;"	c
+.hljs-keyword	css/highlight.min.css	/^.hljs{display:block;overflow-x:auto;padding:0.5em;background:#f9f9f9;-webkit-text-size-adjust:no/;"	c
+.hljs-label	css/highlight.min.css	/^.hljs{display:block;overflow-x:auto;padding:0.5em;background:#f9f9f9;-webkit-text-size-adjust:no/;"	c
+.hljs-literal	css/highlight.min.css	/^.hljs{display:block;overflow-x:auto;padding:0.5em;background:#f9f9f9;-webkit-text-size-adjust:no/;"	c
+.hljs-localvars	css/highlight.min.css	/^.hljs{display:block;overflow-x:auto;padding:0.5em;background:#f9f9f9;-webkit-text-size-adjust:no/;"	c
+.hljs-name	css/highlight.min.css	/^.hljs{display:block;overflow-x:auto;padding:0.5em;background:#f9f9f9;-webkit-text-size-adjust:no/;"	c
+.hljs-number	css/highlight.min.css	/^.hljs{display:block;overflow-x:auto;padding:0.5em;background:#f9f9f9;-webkit-text-size-adjust:no/;"	c
+.hljs-parent	css/highlight.min.css	/^.hljs{display:block;overflow-x:auto;padding:0.5em;background:#f9f9f9;-webkit-text-size-adjust:no/;"	c
+.hljs-phony	css/highlight.min.css	/^.hljs{display:block;overflow-x:auto;padding:0.5em;background:#f9f9f9;-webkit-text-size-adjust:no/;"	c
+.hljs-phpdoc	css/highlight.min.css	/^.hljs{display:block;overflow-x:auto;padding:0.5em;background:#f9f9f9;-webkit-text-size-adjust:no/;"	c
+.hljs-pi	css/highlight.min.css	/^.hljs{display:block;overflow-x:auto;padding:0.5em;background:#f9f9f9;-webkit-text-size-adjust:no/;"	c
+.hljs-pragma	css/highlight.min.css	/^.hljs{display:block;overflow-x:auto;padding:0.5em;background:#f9f9f9;-webkit-text-size-adjust:no/;"	c
+.hljs-preprocessor	css/highlight.min.css	/^.hljs{display:block;overflow-x:auto;padding:0.5em;background:#f9f9f9;-webkit-text-size-adjust:no/;"	c
+.hljs-prompt	css/highlight.min.css	/^.hljs{display:block;overflow-x:auto;padding:0.5em;background:#f9f9f9;-webkit-text-size-adjust:no/;"	c
+.hljs-pseudo	css/highlight.min.css	/^.hljs{display:block;overflow-x:auto;padding:0.5em;background:#f9f9f9;-webkit-text-size-adjust:no/;"	c
+.hljs-regexp	css/highlight.min.css	/^.hljs{display:block;overflow-x:auto;padding:0.5em;background:#f9f9f9;-webkit-text-size-adjust:no/;"	c
+.hljs-request	css/highlight.min.css	/^.hljs{display:block;overflow-x:auto;padding:0.5em;background:#f9f9f9;-webkit-text-size-adjust:no/;"	c
+.hljs-rule .hljs-value	css/highlight.min.css	/^.hljs{display:block;overflow-x:auto;padding:0.5em;background:#f9f9f9;-webkit-text-size-adjust:no/;"	c
+.hljs-shebang	css/highlight.min.css	/^.hljs{display:block;overflow-x:auto;padding:0.5em;background:#f9f9f9;-webkit-text-size-adjust:no/;"	c
+.hljs-status	css/highlight.min.css	/^.hljs{display:block;overflow-x:auto;padding:0.5em;background:#f9f9f9;-webkit-text-size-adjust:no/;"	c
+.hljs-stream	css/highlight.min.css	/^.hljs{display:block;overflow-x:auto;padding:0.5em;background:#f9f9f9;-webkit-text-size-adjust:no/;"	c
+.hljs-string	css/highlight.min.css	/^.hljs{display:block;overflow-x:auto;padding:0.5em;background:#f9f9f9;-webkit-text-size-adjust:no/;"	c
+.hljs-subst	css/highlight.min.css	/^.hljs{display:block;overflow-x:auto;padding:0.5em;background:#f9f9f9;-webkit-text-size-adjust:no/;"	c
+.hljs-tag .hljs-title	css/highlight.min.css	/^.hljs{display:block;overflow-x:auto;padding:0.5em;background:#f9f9f9;-webkit-text-size-adjust:no/;"	c
+.hljs-tag .hljs-value	css/highlight.min.css	/^.hljs{display:block;overflow-x:auto;padding:0.5em;background:#f9f9f9;-webkit-text-size-adjust:no/;"	c
+.hljs-template_tag	css/highlight.min.css	/^.hljs{display:block;overflow-x:auto;padding:0.5em;background:#f9f9f9;-webkit-text-size-adjust:no/;"	c
+.hljs-title	css/highlight.min.css	/^.hljs{display:block;overflow-x:auto;padding:0.5em;background:#f9f9f9;-webkit-text-size-adjust:no/;"	c
+.hljs-type	css/highlight.min.css	/^.hljs{display:block;overflow-x:auto;padding:0.5em;background:#f9f9f9;-webkit-text-size-adjust:no/;"	c
+.hljs-typename	css/highlight.min.css	/^.hljs{display:block;overflow-x:auto;padding:0.5em;background:#f9f9f9;-webkit-text-size-adjust:no/;"	c
+.hljs-winutils	css/highlight.min.css	/^.hljs{display:block;overflow-x:auto;padding:0.5em;background:#f9f9f9;-webkit-text-size-adjust:no/;"	c
+.hljs-yardoctag	css/highlight.min.css	/^.hljs{display:block;overflow-x:auto;padding:0.5em;background:#f9f9f9;-webkit-text-size-adjust:no/;"	c
+.javascript .xml	css/highlight.min.css	/^.hljs{display:block;overflow-x:auto;padding:0.5em;background:#f9f9f9;-webkit-text-size-adjust:no/;"	c
+.lasso .hljs-attribute	css/highlight.min.css	/^.hljs{display:block;overflow-x:auto;padding:0.5em;background:#f9f9f9;-webkit-text-size-adjust:no/;"	c
+.lasso .hljs-variable	css/highlight.min.css	/^.hljs{display:block;overflow-x:auto;padding:0.5em;background:#f9f9f9;-webkit-text-size-adjust:no/;"	c
+.lasso .markup	css/highlight.min.css	/^.hljs{display:block;overflow-x:auto;padding:0.5em;background:#f9f9f9;-webkit-text-size-adjust:no/;"	c
+.makefile .hljs-variable	css/highlight.min.css	/^.hljs{display:block;overflow-x:auto;padding:0.5em;background:#f9f9f9;-webkit-text-size-adjust:no/;"	c
+.markdown .hljs-blockquote	css/highlight.min.css	/^.hljs{display:block;overflow-x:auto;padding:0.5em;background:#f9f9f9;-webkit-text-size-adjust:no/;"	c
+.markdown .hljs-bullet	css/highlight.min.css	/^.hljs{display:block;overflow-x:auto;padding:0.5em;background:#f9f9f9;-webkit-text-size-adjust:no/;"	c
+.markdown .hljs-emphasis	css/highlight.min.css	/^.hljs{display:block;overflow-x:auto;padding:0.5em;background:#f9f9f9;-webkit-text-size-adjust:no/;"	c
+.markdown .hljs-header	css/highlight.min.css	/^.hljs{display:block;overflow-x:auto;padding:0.5em;background:#f9f9f9;-webkit-text-size-adjust:no/;"	c
+.markdown .hljs-link_label	css/highlight.min.css	/^.hljs{display:block;overflow-x:auto;padding:0.5em;background:#f9f9f9;-webkit-text-size-adjust:no/;"	c
+.markdown .hljs-link_url	css/highlight.min.css	/^.hljs{display:block;overflow-x:auto;padding:0.5em;background:#f9f9f9;-webkit-text-size-adjust:no/;"	c
+.markdown .hljs-strong	css/highlight.min.css	/^.hljs{display:block;overflow-x:auto;padding:0.5em;background:#f9f9f9;-webkit-text-size-adjust:no/;"	c
+.nav	css/slim.css	/^.nav {$/;"	c
+.nav-btn	css/slim.css	/^.nav-btn {$/;"	c
+.nav-btn.is-on + .nav-list	css/slim.css	/^  .nav-btn.is-on + .nav-list {$/;"	c
+.nav-btn.is-on .ci-burger	css/slim.css	/^  .nav-btn.is-on .ci-burger {$/;"	c
+.nav-btn.is-on .ci-burger::after	css/slim.css	/^  .nav-btn.is-on .ci-burger::after {$/;"	c
+.nav-btn.is-on .ci-burger::before	css/slim.css	/^  .nav-btn.is-on .ci-burger::before {$/;"	c
+.nav-list	css/slim.css	/^.nav-list {$/;"	c
+.nav-list .spacer	css/slim.css	/^.nav-list .spacer {$/;"	c
+.nginx .hljs-built_in	css/highlight.min.css	/^.hljs{display:block;overflow-x:auto;padding:0.5em;background:#f9f9f9;-webkit-text-size-adjust:no/;"	c
+.nginx .hljs-title	css/highlight.min.css	/^.hljs{display:block;overflow-x:auto;padding:0.5em;background:#f9f9f9;-webkit-text-size-adjust:no/;"	c
+.pagination	css/slim.css	/^.pagination {$/;"	c
+.pagination .next	css/slim.css	/^  .pagination .next {$/;"	c
+.pagination .previous	css/slim.css	/^  .pagination .previous {$/;"	c
+.pagination:after	css/slim.css	/^  .pagination:after {$/;"	c
+.pagination:after	css/slim.css	/^  .pagination:before, .pagination:after {$/;"	c
+.pagination:before	css/slim.css	/^  .pagination:before, .pagination:after {$/;"	c
+.pf .hljs-variable	css/highlight.min.css	/^.hljs{display:block;overflow-x:auto;padding:0.5em;background:#f9f9f9;-webkit-text-size-adjust:no/;"	c
+.post	css/slim.css	/^.post {$/;"	c
+.post-content	css/slim.css	/^.post-content {$/;"	c
+.post-date	css/slim.css	/^.post-date {$/;"	c
+.post-tags	css/slim.css	/^.post-tags {$/;"	c
+.post-tags a	css/slim.css	/^.post-tags a {$/;"	s
+.post-title a	css/slim.css	/^.post-title a {$/;"	s
+.post-title a:after	css/slim.css	/^  .post-title a:after {$/;"	s
+.post-title a:after	css/slim.css	/^  .post-title a:after, .post-title a:before {$/;"	s
+.post-title a:before	css/slim.css	/^  .post-title a:after, .post-title a:before {$/;"	s
+.post-title a:before	css/slim.css	/^  .post-title a:before {$/;"	s
+.post-title a:hover:after	css/slim.css	/^  .post-title a:hover:after {$/;"	s
+.post-title a:hover:after	css/slim.css	/^  .post-title a:hover:before, .post-title a:hover:after {$/;"	s
+.post-title a:hover:before	css/slim.css	/^  .post-title a:hover:before {$/;"	s
+.post-title a:hover:before	css/slim.css	/^  .post-title a:hover:before, .post-title a:hover:after {$/;"	s
+.post-title:after	css/slim.css	/^.post-title:after {$/;"	c
+.ruby .hljs-string	css/highlight.min.css	/^.hljs{display:block;overflow-x:auto;padding:0.5em;background:#f9f9f9;-webkit-text-size-adjust:no/;"	c
+.ruby .hljs-symbol	css/highlight.min.css	/^.hljs{display:block;overflow-x:auto;padding:0.5em;background:#f9f9f9;-webkit-text-size-adjust:no/;"	c
+.ruby .hljs-symbol .hljs-string	css/highlight.min.css	/^.hljs{display:block;overflow-x:auto;padding:0.5em;background:#f9f9f9;-webkit-text-size-adjust:no/;"	c
+.site-title	css/slim.css	/^.site-title {$/;"	c
+.site-title a	css/slim.css	/^  .site-title a {$/;"	s
+.smalltalk .hljs-char	css/highlight.min.css	/^.hljs{display:block;overflow-x:auto;padding:0.5em;background:#f9f9f9;-webkit-text-size-adjust:no/;"	c
+.smalltalk .hljs-class	css/highlight.min.css	/^.hljs{display:block;overflow-x:auto;padding:0.5em;background:#f9f9f9;-webkit-text-size-adjust:no/;"	c
+.smalltalk .hljs-symbol	css/highlight.min.css	/^.hljs{display:block;overflow-x:auto;padding:0.5em;background:#f9f9f9;-webkit-text-size-adjust:no/;"	c
+.smartquote	css/highlight.min.css	/^.hljs{display:block;overflow-x:auto;padding:0.5em;background:#f9f9f9;-webkit-text-size-adjust:no/;"	c
+.tex .hljs-command	css/highlight.min.css	/^.hljs{display:block;overflow-x:auto;padding:0.5em;background:#f9f9f9;-webkit-text-size-adjust:no/;"	c
+.tex .hljs-formula	css/highlight.min.css	/^.hljs{display:block;overflow-x:auto;padding:0.5em;background:#f9f9f9;-webkit-text-size-adjust:no/;"	c
+.tex .hljs-special	css/highlight.min.css	/^.hljs{display:block;overflow-x:auto;padding:0.5em;background:#f9f9f9;-webkit-text-size-adjust:no/;"	c
+.vhdl .hljs-attribute	css/highlight.min.css	/^.hljs{display:block;overflow-x:auto;padding:0.5em;background:#f9f9f9;-webkit-text-size-adjust:no/;"	c
+.xml .css	css/highlight.min.css	/^.hljs{display:block;overflow-x:auto;padding:0.5em;background:#f9f9f9;-webkit-text-size-adjust:no/;"	c
+.xml .hljs-cdata	css/highlight.min.css	/^.hljs{display:block;overflow-x:auto;padding:0.5em;background:#f9f9f9;-webkit-text-size-adjust:no/;"	c
+.xml .javascript	css/highlight.min.css	/^.hljs{display:block;overflow-x:auto;padding:0.5em;background:#f9f9f9;-webkit-text-size-adjust:no/;"	c
+.xml .vbscript	css/highlight.min.css	/^.hljs{display:block;overflow-x:auto;padding:0.5em;background:#f9f9f9;-webkit-text-size-adjust:no/;"	c
+31	categories/myself/index.html	/^          <h2 class="post-title"><a href="https:\/\/omnster.github.io\/post\/31\/">31<\/a><\/h2>$/;"	i
+31	page/4/index.html	/^          <h2 class="post-title"><a href="https:\/\/omnster.github.io\/post\/31\/">31<\/a><\/h2>$/;"	i
+31	post/31/index.html	/^          <h2 class="post-title"><a href="https:\/\/omnster.github.io\/post\/31\/">31<\/a><\/h2>$/;"	i
+31	post/page/4/index.html	/^          <h2 class="post-title"><a href="https:\/\/omnster.github.io\/post\/31\/">31<\/a><\/h2>$/;"	i
+31	tags/nakoli-mne-kupola/index.html	/^          <h2 class="post-title"><a href="https:\/\/omnster.github.io\/post\/31\/">31<\/a><\/h2>$/;"	i
+AnonymousFunction907f61660100	js/highlight.min.js	/^!function(e){"undefined"!=typeof exports?e(exports):(window.hljs=e({}),"function"==typeof define/;"	f
+AnonymousFunction907f61660200	js/highlight.min.js	/^!function(e){"undefined"!=typeof exports?e(exports):(window.hljs=e({}),"function"==typeof define/;"	f
+AnonymousFunction907f61660300	js/highlight.min.js	/^!function(e){"undefined"!=typeof exports?e(exports):(window.hljs=e({}),"function"==typeof define/;"	f	function:AnonymousFunction907f61660200.a
+AnonymousFunction907f61660400	js/highlight.min.js	/^!function(e){"undefined"!=typeof exports?e(exports):(window.hljs=e({}),"function"==typeof define/;"	f
+AnonymousFunction907f61660500	js/highlight.min.js	/^!function(e){"undefined"!=typeof exports?e(exports):(window.hljs=e({}),"function"==typeof define/;"	f
+AnonymousFunction907f61660600	js/highlight.min.js	/^!function(e){"undefined"!=typeof exports?e(exports):(window.hljs=e({}),"function"==typeof define/;"	f	function:AnonymousFunction907f61660200.o.n
+AnonymousFunction907f61660700	js/highlight.min.js	/^!function(e){"undefined"!=typeof exports?e(exports):(window.hljs=e({}),"function"==typeof define/;"	f
+AnonymousFunction907f61660800	js/highlight.min.js	/^!function(e){"undefined"!=typeof exports?e(exports):(window.hljs=e({}),"function"==typeof define/;"	f
+AnonymousFunction907f61660900	js/highlight.min.js	/^!function(e){"undefined"!=typeof exports?e(exports):(window.hljs=e({}),"function"==typeof define/;"	f
+AnonymousFunction907f61660a00	js/highlight.min.js	/^!function(e){"undefined"!=typeof exports?e(exports):(window.hljs=e({}),"function"==typeof define/;"	f	function:AnonymousFunction907f61660200
+AnonymousFunction907f61660b00	js/highlight.min.js	/^!function(e){"undefined"!=typeof exports?e(exports):(window.hljs=e({}),"function"==typeof define/;"	f
+AnonymousFunction907f61660c00	js/highlight.min.js	/^!function(e){"undefined"!=typeof exports?e(exports):(window.hljs=e({}),"function"==typeof define/;"	f
+AnonymousFunction907f61660d00	js/highlight.min.js	/^!function(e){"undefined"!=typeof exports?e(exports):(window.hljs=e({}),"function"==typeof define/;"	f
+AnonymousFunction907f61660e00	js/highlight.min.js	/^!function(e){"undefined"!=typeof exports?e(exports):(window.hljs=e({}),"function"==typeof define/;"	f
+AnonymousFunction907f61660f00	js/highlight.min.js	/^!function(e){"undefined"!=typeof exports?e(exports):(window.hljs=e({}),"function"==typeof define/;"	f
+AnonymousFunction907f61661000	js/highlight.min.js	/^!function(e){"undefined"!=typeof exports?e(exports):(window.hljs=e({}),"function"==typeof define/;"	f
+AnonymousFunction907f61661100	js/highlight.min.js	/^!function(e){"undefined"!=typeof exports?e(exports):(window.hljs=e({}),"function"==typeof define/;"	f
+AnonymousFunction907f61661200	js/highlight.min.js	/^!function(e){"undefined"!=typeof exports?e(exports):(window.hljs=e({}),"function"==typeof define/;"	f
+AnonymousFunction907f61661300	js/highlight.min.js	/^!function(e){"undefined"!=typeof exports?e(exports):(window.hljs=e({}),"function"==typeof define/;"	f
+AnonymousFunction907f61661400	js/highlight.min.js	/^!function(e){"undefined"!=typeof exports?e(exports):(window.hljs=e({}),"function"==typeof define/;"	f
+AnonymousFunction907f61661500	js/highlight.min.js	/^!function(e){"undefined"!=typeof exports?e(exports):(window.hljs=e({}),"function"==typeof define/;"	f
+AnonymousFunction907f61661600	js/highlight.min.js	/^!function(e){"undefined"!=typeof exports?e(exports):(window.hljs=e({}),"function"==typeof define/;"	f
+AnonymousFunction907f61661700	js/highlight.min.js	/^!function(e){"undefined"!=typeof exports?e(exports):(window.hljs=e({}),"function"==typeof define/;"	f
+AnonymousFunction907f61661800	js/highlight.min.js	/^!function(e){"undefined"!=typeof exports?e(exports):(window.hljs=e({}),"function"==typeof define/;"	f
+AnonymousFunction907f61661900	js/highlight.min.js	/^!function(e){"undefined"!=typeof exports?e(exports):(window.hljs=e({}),"function"==typeof define/;"	f
+AnonymousFunction907f61661a00	js/highlight.min.js	/^!function(e){"undefined"!=typeof exports?e(exports):(window.hljs=e({}),"function"==typeof define/;"	f
+AnonymousFunction907f61661b00	js/highlight.min.js	/^!function(e){"undefined"!=typeof exports?e(exports):(window.hljs=e({}),"function"==typeof define/;"	f
+AnonymousFunction907f61661c00	js/highlight.min.js	/^!function(e){"undefined"!=typeof exports?e(exports):(window.hljs=e({}),"function"==typeof define/;"	f
+AnonymousFunction907f61661d00	js/highlight.min.js	/^!function(e){"undefined"!=typeof exports?e(exports):(window.hljs=e({}),"function"==typeof define/;"	f
+AnonymousFunction907f61661e00	js/highlight.min.js	/^!function(e){"undefined"!=typeof exports?e(exports):(window.hljs=e({}),"function"==typeof define/;"	f
+AnonymousFunction907f61661f00	js/highlight.min.js	/^!function(e){"undefined"!=typeof exports?e(exports):(window.hljs=e({}),"function"==typeof define/;"	f
+AnonymousFunction907f61662000	js/highlight.min.js	/^!function(e){"undefined"!=typeof exports?e(exports):(window.hljs=e({}),"function"==typeof define/;"	f
+AnonymousFunction907f61662100	js/highlight.min.js	/^!function(e){"undefined"!=typeof exports?e(exports):(window.hljs=e({}),"function"==typeof define/;"	f
+AnonymousFunction907f61662200	js/highlight.min.js	/^!function(e){"undefined"!=typeof exports?e(exports):(window.hljs=e({}),"function"==typeof define/;"	f
+AnonymousFunction907f61662300	js/highlight.min.js	/^!function(e){"undefined"!=typeof exports?e(exports):(window.hljs=e({}),"function"==typeof define/;"	f
+AnonymousFunction907f61662400	js/highlight.min.js	/^!function(e){"undefined"!=typeof exports?e(exports):(window.hljs=e({}),"function"==typeof define/;"	f
+Array	js/highlight.min.js	/^!function(e){"undefined"!=typeof exports?e(exports):(window.hljs=e({}),"function"==typeof define/;"	c
+IV	categories/annual/index.html	/^          <h2 class="post-title"><a href="https:\/\/omnster.github.io\/post\/iv\/">IV<\/a><\/h2>$/;"	i
+IV	page/2/index.html	/^          <h2 class="post-title"><a href="https:\/\/omnster.github.io\/post\/iv\/">IV<\/a><\/h2>$/;"	i
+IV	post/iv/index.html	/^          <h2 class="post-title"><a href="https:\/\/omnster.github.io\/post\/iv\/">IV<\/a><\/h2>$/;"	i
+IV	post/page/2/index.html	/^          <h2 class="post-title"><a href="https:\/\/omnster.github.io\/post\/iv\/">IV<\/a><\/h2>$/;"	i
+IV	tags/zdravstvuj-zdravstvuj-siyayesh-siyayu-kotorij-tschas-dvenadtsatij-primerno/index.html	/^          <h2 class="post-title"><a href="https:\/\/omnster.github.io\/post\/iv\/">IV<\/a><\/h2>$/;"	i
+Jak se jmenueš?	page/3/index.html	/^<h3 id="jak-se-jmenueš">Jak se jmenueš?<\/h3>$/;"	j
+Jak se jmenueš?	post/page/3/index.html	/^<h3 id="jak-se-jmenueš">Jak se jmenueš?<\/h3>$/;"	j
+Jak se jmenueš?	post/ulia/index.html	/^<h3 id="jak-se-jmenueš">Jak se jmenueš?<\/h3>$/;"	j
+Jak se jmenueš?	tags/guest/index.html	/^<h3 id="jak-se-jmenueš">Jak se jmenueš?<\/h3>$/;"	j
+Jak se jmenueš?	tags/mamulia/index.html	/^<h3 id="jak-se-jmenueš">Jak se jmenueš?<\/h3>$/;"	j
+_	js/highlight.min.js	/^!function(e){"undefined"!=typeof exports?e(exports):(window.hljs=e({}),"function"==typeof define/;"	f
+_	js/highlight.min.js	/^!function(e){"undefined"!=typeof exports?e(exports):(window.hljs=e({}),"function"==typeof define/;"	f	function:l
+a	css/slim.css	/^a {$/;"	s
+a	js/highlight.min.js	/^!function(e){"undefined"!=typeof exports?e(exports):(window.hljs=e({}),"function"==typeof define/;"	c	class:AnonymousFunction907f61661800
+a	js/highlight.min.js	/^!function(e){"undefined"!=typeof exports?e(exports):(window.hljs=e({}),"function"==typeof define/;"	c	class:AnonymousFunction907f61661a00
+a	js/highlight.min.js	/^!function(e){"undefined"!=typeof exports?e(exports):(window.hljs=e({}),"function"==typeof define/;"	c	class:AnonymousFunction907f61662000
+a	js/highlight.min.js	/^!function(e){"undefined"!=typeof exports?e(exports):(window.hljs=e({}),"function"==typeof define/;"	c	class:AnonymousFunction907f61662100
+a	js/highlight.min.js	/^!function(e){"undefined"!=typeof exports?e(exports):(window.hljs=e({}),"function"==typeof define/;"	c	class:AnonymousFunction907f61662200
+a	js/highlight.min.js	/^!function(e){"undefined"!=typeof exports?e(exports):(window.hljs=e({}),"function"==typeof define/;"	c	class:AnonymousFunction907f61662300
+a	js/highlight.min.js	/^!function(e){"undefined"!=typeof exports?e(exports):(window.hljs=e({}),"function"==typeof define/;"	f	function:AnonymousFunction907f61660200
+a:focus	css/slim.css	/^  a:hover, a:focus {$/;"	s
+a:hover	css/slim.css	/^  a:hover, a:focus {$/;"	s
+atom	categories/annual/index.xml	/^<rss version="2.0" xmlns:atom="http:\/\/www.w3.org\/2005\/Atom">$/;"	n	uri:http://www.w3.org/2005/Atom
+atom	categories/digest/index.xml	/^<rss version="2.0" xmlns:atom="http:\/\/www.w3.org\/2005\/Atom">$/;"	n	uri:http://www.w3.org/2005/Atom
+atom	categories/doge/index.xml	/^<rss version="2.0" xmlns:atom="http:\/\/www.w3.org\/2005\/Atom">$/;"	n	uri:http://www.w3.org/2005/Atom
+atom	categories/emotions/index.xml	/^<rss version="2.0" xmlns:atom="http:\/\/www.w3.org\/2005\/Atom">$/;"	n	uri:http://www.w3.org/2005/Atom
+atom	categories/engine/index.xml	/^<rss version="2.0" xmlns:atom="http:\/\/www.w3.org\/2005\/Atom">$/;"	n	uri:http://www.w3.org/2005/Atom
+atom	categories/experiences/index.xml	/^<rss version="2.0" xmlns:atom="http:\/\/www.w3.org\/2005\/Atom">$/;"	n	uri:http://www.w3.org/2005/Atom
+atom	categories/index.xml	/^<rss version="2.0" xmlns:atom="http:\/\/www.w3.org\/2005\/Atom">$/;"	n	uri:http://www.w3.org/2005/Atom
+atom	categories/myself/index.xml	/^<rss version="2.0" xmlns:atom="http:\/\/www.w3.org\/2005\/Atom">$/;"	n	uri:http://www.w3.org/2005/Atom
+atom	categories/qrntn/index.xml	/^<rss version="2.0" xmlns:atom="http:\/\/www.w3.org\/2005\/Atom">$/;"	n	uri:http://www.w3.org/2005/Atom
+atom	categories/tales/index.xml	/^<rss version="2.0" xmlns:atom="http:\/\/www.w3.org\/2005\/Atom">$/;"	n	uri:http://www.w3.org/2005/Atom
+atom	index.xml	/^<rss version="2.0" xmlns:atom="http:\/\/www.w3.org\/2005\/Atom">$/;"	n	uri:http://www.w3.org/2005/Atom
+atom	post/index.xml	/^<rss version="2.0" xmlns:atom="http:\/\/www.w3.org\/2005\/Atom">$/;"	n	uri:http://www.w3.org/2005/Atom
+atom	tags/a-ljubovi-zolotaya-lestnitsa-bez-peril/index.xml	/^<rss version="2.0" xmlns:atom="http:\/\/www.w3.org\/2005\/Atom">$/;"	n	uri:http://www.w3.org/2005/Atom
+atom	tags/a-snitsya-nam-nie-rockot-cosmodroma/index.xml	/^<rss version="2.0" xmlns:atom="http:\/\/www.w3.org\/2005\/Atom">$/;"	n	uri:http://www.w3.org/2005/Atom
+atom	tags/akh-kakoye-blazhenstvo-akh-kakoye-blazhenstvo-znati-shto-ti-sovershenstvo-znati-shto-ti-ideal/index.xml	/^<rss version="2.0" xmlns:atom="http:\/\/www.w3.org\/2005\/Atom">$/;"	n	uri:http://www.w3.org/2005/Atom
+atom	tags/bielyi-aist-lietit-nad-beliosim-polesiem-letit/index.xml	/^<rss version="2.0" xmlns:atom="http:\/\/www.w3.org\/2005\/Atom">$/;"	n	uri:http://www.w3.org/2005/Atom
+atom	tags/budet-zemlya-krasivoy-i-molodoy/index.xml	/^<rss version="2.0" xmlns:atom="http:\/\/www.w3.org\/2005\/Atom">$/;"	n	uri:http://www.w3.org/2005/Atom
+atom	tags/church/index.xml	/^<rss version="2.0" xmlns:atom="http:\/\/www.w3.org\/2005\/Atom">$/;"	n	uri:http://www.w3.org/2005/Atom
+atom	tags/digest/index.xml	/^<rss version="2.0" xmlns:atom="http:\/\/www.w3.org\/2005\/Atom">$/;"	n	uri:http://www.w3.org/2005/Atom
+atom	tags/excavator/index.xml	/^<rss version="2.0" xmlns:atom="http:\/\/www.w3.org\/2005\/Atom">$/;"	n	uri:http://www.w3.org/2005/Atom
+atom	tags/experience/index.xml	/^<rss version="2.0" xmlns:atom="http:\/\/www.w3.org\/2005\/Atom">$/;"	n	uri:http://www.w3.org/2005/Atom
+atom	tags/games/index.xml	/^<rss version="2.0" xmlns:atom="http:\/\/www.w3.org\/2005\/Atom">$/;"	n	uri:http://www.w3.org/2005/Atom
+atom	tags/guest/index.xml	/^<rss version="2.0" xmlns:atom="http:\/\/www.w3.org\/2005\/Atom">$/;"	n	uri:http://www.w3.org/2005/Atom
+atom	tags/i-lenin-takoy-molodoy/index.xml	/^<rss version="2.0" xmlns:atom="http:\/\/www.w3.org\/2005\/Atom">$/;"	n	uri:http://www.w3.org/2005/Atom
+atom	tags/index.xml	/^<rss version="2.0" xmlns:atom="http:\/\/www.w3.org\/2005\/Atom">$/;"	n	uri:http://www.w3.org/2005/Atom
+atom	tags/into-the-orchard-i-walk-peering-way-past-the-gate/index.xml	/^<rss version="2.0" xmlns:atom="http:\/\/www.w3.org\/2005\/Atom">$/;"	n	uri:http://www.w3.org/2005/Atom
+atom	tags/ja-bi-prishol-k-vam-na-svidanie-za-polchasa-do-vesni/index.xml	/^<rss version="2.0" xmlns:atom="http:\/\/www.w3.org\/2005\/Atom">$/;"	n	uri:http://www.w3.org/2005/Atom
+atom	tags/jabloki-na-snegu-rozovie-na-belom/index.xml	/^<rss version="2.0" xmlns:atom="http:\/\/www.w3.org\/2005\/Atom">$/;"	n	uri:http://www.w3.org/2005/Atom
+atom	tags/jei-khvatit-odnoi-intonatsii-khvatit-chtob-plamja-do-njeba-razhzhech/index.xml	/^<rss version="2.0" xmlns:atom="http:\/\/www.w3.org\/2005\/Atom">$/;"	n	uri:http://www.w3.org/2005/Atom
+atom	tags/jesli-pravda-na-vsekh-odna-na-vsekh-i-pechal-odna/index.xml	/^<rss version="2.0" xmlns:atom="http:\/\/www.w3.org\/2005\/Atom">$/;"	n	uri:http://www.w3.org/2005/Atom
+atom	tags/language/index.xml	/^<rss version="2.0" xmlns:atom="http:\/\/www.w3.org\/2005\/Atom">$/;"	n	uri:http://www.w3.org/2005/Atom
+atom	tags/liubov-komsomol-i-vesna/index.xml	/^<rss version="2.0" xmlns:atom="http:\/\/www.w3.org\/2005\/Atom">$/;"	n	uri:http://www.w3.org/2005/Atom
+atom	tags/machinae-supremacy/index.xml	/^<rss version="2.0" xmlns:atom="http:\/\/www.w3.org\/2005\/Atom">$/;"	n	uri:http://www.w3.org/2005/Atom
+atom	tags/mamulia/index.xml	/^<rss version="2.0" xmlns:atom="http:\/\/www.w3.org\/2005\/Atom">$/;"	n	uri:http://www.w3.org/2005/Atom
+atom	tags/misc/index.xml	/^<rss version="2.0" xmlns:atom="http:\/\/www.w3.org\/2005\/Atom">$/;"	n	uri:http://www.w3.org/2005/Atom
+atom	tags/mnie-poniatna-tvoja-vekovaia-pechalj-belovezhskaya-pushtcha/index.xml	/^<rss version="2.0" xmlns:atom="http:\/\/www.w3.org\/2005\/Atom">$/;"	n	uri:http://www.w3.org/2005/Atom
+atom	tags/moj-address-ne-dom-i-ne-ulitsa-moj-address-sovietskiy-soiyuz/index.xml	/^<rss version="2.0" xmlns:atom="http:\/\/www.w3.org\/2005\/Atom">$/;"	n	uri:http://www.w3.org/2005/Atom
+atom	tags/moj-adres-ne-dom-i-ne-ulitza/index.xml	/^<rss version="2.0" xmlns:atom="http:\/\/www.w3.org\/2005\/Atom">$/;"	n	uri:http://www.w3.org/2005/Atom
+atom	tags/morals-and-manners/index.xml	/^<rss version="2.0" xmlns:atom="http:\/\/www.w3.org\/2005\/Atom">$/;"	n	uri:http://www.w3.org/2005/Atom
+atom	tags/music/index.xml	/^<rss version="2.0" xmlns:atom="http:\/\/www.w3.org\/2005\/Atom">$/;"	n	uri:http://www.w3.org/2005/Atom
+atom	tags/nakoli-mne-kupola/index.xml	/^<rss version="2.0" xmlns:atom="http:\/\/www.w3.org\/2005\/Atom">$/;"	n	uri:http://www.w3.org/2005/Atom
+atom	tags/nasha-sluzhba-i-opasna-i-trudna-i-na-pierviy-vzgliad-kak-budto-ne-vidna/index.xml	/^<rss version="2.0" xmlns:atom="http:\/\/www.w3.org\/2005\/Atom">$/;"	n	uri:http://www.w3.org/2005/Atom
+atom	tags/ne-dumaj-o-sekundakh-svisoka-nastupit-vremija-sam-pojmesh-navernoe/index.xml	/^<rss version="2.0" xmlns:atom="http:\/\/www.w3.org\/2005\/Atom">$/;"	n	uri:http://www.w3.org/2005/Atom
+atom	tags/nichto-na-zemle-ne-prohodit-bessledno/index.xml	/^<rss version="2.0" xmlns:atom="http:\/\/www.w3.org\/2005\/Atom">$/;"	n	uri:http://www.w3.org/2005/Atom
+atom	tags/obnimashki/index.xml	/^<rss version="2.0" xmlns:atom="http:\/\/www.w3.org\/2005\/Atom">$/;"	n	uri:http://www.w3.org/2005/Atom
+atom	tags/odin-glupij-lesorub-znaete-takogo-zahotel-sebe-tulup-sdelat-bez-portnogo/index.xml	/^<rss version="2.0" xmlns:atom="http:\/\/www.w3.org\/2005\/Atom">$/;"	n	uri:http://www.w3.org/2005/Atom
+atom	tags/ogromnoe-nebo-ogromnoe-nebo-ogromnoe-nebo-odno-na-dvoikh/index.xml	/^<rss version="2.0" xmlns:atom="http:\/\/www.w3.org\/2005\/Atom">$/;"	n	uri:http://www.w3.org/2005/Atom
+atom	tags/on-okruzhen-liudskoj-molvoj-on-ne-igrushka-on-zhivoj/index.xml	/^<rss version="2.0" xmlns:atom="http:\/\/www.w3.org\/2005\/Atom">$/;"	n	uri:http://www.w3.org/2005/Atom
+atom	tags/one-day/index.xml	/^<rss version="2.0" xmlns:atom="http:\/\/www.w3.org\/2005\/Atom">$/;"	n	uri:http://www.w3.org/2005/Atom
+atom	tags/otchizne-v-dar-ostanutsja-rabochiej-slavy-stancii/index.xml	/^<rss version="2.0" xmlns:atom="http:\/\/www.w3.org\/2005\/Atom">$/;"	n	uri:http://www.w3.org/2005/Atom
+atom	tags/phrases/index.xml	/^<rss version="2.0" xmlns:atom="http:\/\/www.w3.org\/2005\/Atom">$/;"	n	uri:http://www.w3.org/2005/Atom
+atom	tags/places/index.xml	/^<rss version="2.0" xmlns:atom="http:\/\/www.w3.org\/2005\/Atom">$/;"	n	uri:http://www.w3.org/2005/Atom
+atom	tags/po-pereulkam-brodit-leto-solntse-ljiotsya-priamo-s-krysh/index.xml	/^<rss version="2.0" xmlns:atom="http:\/\/www.w3.org\/2005\/Atom">$/;"	n	uri:http://www.w3.org/2005/Atom
+atom	tags/podbjeru-muziku-k-tebje-podbjeru-muziku-k-glazam/index.xml	/^<rss version="2.0" xmlns:atom="http:\/\/www.w3.org\/2005\/Atom">$/;"	n	uri:http://www.w3.org/2005/Atom
+atom	tags/pozvoni-mne-pozvoni/index.xml	/^<rss version="2.0" xmlns:atom="http:\/\/www.w3.org\/2005\/Atom">$/;"	n	uri:http://www.w3.org/2005/Atom
+atom	tags/predannej-sobaki-veselej-sobaki-laskovej-sobaki-netu-suschchestva/index.xml	/^<rss version="2.0" xmlns:atom="http:\/\/www.w3.org\/2005\/Atom">$/;"	n	uri:http://www.w3.org/2005/Atom
+atom	tags/prekrasnoe-daleko-ne-bud-ko-mne-zhestoko/index.xml	/^<rss version="2.0" xmlns:atom="http:\/\/www.w3.org\/2005\/Atom">$/;"	n	uri:http://www.w3.org/2005/Atom
+atom	tags/scales-of-justice/index.xml	/^<rss version="2.0" xmlns:atom="http:\/\/www.w3.org\/2005\/Atom">$/;"	n	uri:http://www.w3.org/2005/Atom
+atom	tags/shiroka-strana-moya-rodnaya/index.xml	/^<rss version="2.0" xmlns:atom="http:\/\/www.w3.org\/2005\/Atom">$/;"	n	uri:http://www.w3.org/2005/Atom
+atom	tags/short/index.xml	/^<rss version="2.0" xmlns:atom="http:\/\/www.w3.org\/2005\/Atom">$/;"	n	uri:http://www.w3.org/2005/Atom
+atom	tags/speech/index.xml	/^<rss version="2.0" xmlns:atom="http:\/\/www.w3.org\/2005\/Atom">$/;"	n	uri:http://www.w3.org/2005/Atom
+atom	tags/sports/index.xml	/^<rss version="2.0" xmlns:atom="http:\/\/www.w3.org\/2005\/Atom">$/;"	n	uri:http://www.w3.org/2005/Atom
+atom	tags/stanj-moei-melodiej-porvannie-struni-ozhivi/index.xml	/^<rss version="2.0" xmlns:atom="http:\/\/www.w3.org\/2005\/Atom">$/;"	n	uri:http://www.w3.org/2005/Atom
+atom	tags/temnaja-noch-toliko-puli-svistyat-u-viska/index.xml	/^<rss version="2.0" xmlns:atom="http:\/\/www.w3.org\/2005\/Atom">$/;"	n	uri:http://www.w3.org/2005/Atom
+atom	tags/toys/index.xml	/^<rss version="2.0" xmlns:atom="http:\/\/www.w3.org\/2005\/Atom">$/;"	n	uri:http://www.w3.org/2005/Atom
+atom	tags/turgenev/index.xml	/^<rss version="2.0" xmlns:atom="http:\/\/www.w3.org\/2005\/Atom">$/;"	n	uri:http://www.w3.org/2005/Atom
+atom	tags/uvezu-tebia-ja-v-tundru/index.xml	/^<rss version="2.0" xmlns:atom="http:\/\/www.w3.org\/2005\/Atom">$/;"	n	uri:http://www.w3.org/2005/Atom
+atom	tags/uzhe-zoviet-menya-v-poliyot-moj-delitaplan-moj-delitaplan/index.xml	/^<rss version="2.0" xmlns:atom="http:\/\/www.w3.org\/2005\/Atom">$/;"	n	uri:http://www.w3.org/2005/Atom
+atom	tags/ves-mir-u-nas-v-rukah-mi-zvezdi-kontinentov/index.xml	/^<rss version="2.0" xmlns:atom="http:\/\/www.w3.org\/2005\/Atom">$/;"	n	uri:http://www.w3.org/2005/Atom
+atom	tags/vezi-menya-olen/index.xml	/^<rss version="2.0" xmlns:atom="http:\/\/www.w3.org\/2005\/Atom">$/;"	n	uri:http://www.w3.org/2005/Atom
+atom	tags/volny-kholodnoi-reki-nashi-khoroniat-mechty/index.xml	/^<rss version="2.0" xmlns:atom="http:\/\/www.w3.org\/2005\/Atom">$/;"	n	uri:http://www.w3.org/2005/Atom
+atom	tags/words/index.xml	/^<rss version="2.0" xmlns:atom="http:\/\/www.w3.org\/2005\/Atom">$/;"	n	uri:http://www.w3.org/2005/Atom
+atom	tags/zakaliajsja-esli-khochesh-bity-zdorov-postarajsia-pozabyti-pro-doktoroff/index.xml	/^<rss version="2.0" xmlns:atom="http:\/\/www.w3.org\/2005\/Atom">$/;"	n	uri:http://www.w3.org/2005/Atom
+atom	tags/zdravstvuj-zdravstvuj-siyayesh-siyayu-kotorij-tschas-dvenadtsatij-primerno/index.xml	/^<rss version="2.0" xmlns:atom="http:\/\/www.w3.org\/2005\/Atom">$/;"	n	uri:http://www.w3.org/2005/Atom
+atom	tags/zoo/index.xml	/^<rss version="2.0" xmlns:atom="http:\/\/www.w3.org\/2005\/Atom">$/;"	n	uri:http://www.w3.org/2005/Atom
+atom	tags/zovi-menija-s-soboj-v-stranu-nesbyvshikhsija-snov/index.xml	/^<rss version="2.0" xmlns:atom="http:\/\/www.w3.org\/2005\/Atom">$/;"	n	uri:http://www.w3.org/2005/Atom
+b	js/highlight.min.js	/^!function(e){"undefined"!=typeof exports?e(exports):(window.hljs=e({}),"function"==typeof define/;"	f
+b	js/highlight.min.js	/^!function(e){"undefined"!=typeof exports?e(exports):(window.hljs=e({}),"function"==typeof define/;"	f	function:l
+b	js/highlight.min.js	/^!function(e){"undefined"!=typeof exports?e(exports):(window.hljs=e({}),"function"==typeof define/;"	p	class:AnonymousFunction907f61660f00.t
+b	js/highlight.min.js	/^!function(e){"undefined"!=typeof exports?e(exports):(window.hljs=e({}),"function"==typeof define/;"	p	class:AnonymousFunction907f61661000.n
+b	js/highlight.min.js	/^!function(e){"undefined"!=typeof exports?e(exports):(window.hljs=e({}),"function"==typeof define/;"	p	class:AnonymousFunction907f61661000.r
+b	js/highlight.min.js	/^!function(e){"undefined"!=typeof exports?e(exports):(window.hljs=e({}),"function"==typeof define/;"	p	class:AnonymousFunction907f61661100.c
+b	js/highlight.min.js	/^!function(e){"undefined"!=typeof exports?e(exports):(window.hljs=e({}),"function"==typeof define/;"	p	class:AnonymousFunction907f61661100.n
+b	js/highlight.min.js	/^!function(e){"undefined"!=typeof exports?e(exports):(window.hljs=e({}),"function"==typeof define/;"	p	class:AnonymousFunction907f61661400.n
+b	js/highlight.min.js	/^!function(e){"undefined"!=typeof exports?e(exports):(window.hljs=e({}),"function"==typeof define/;"	p	class:AnonymousFunction907f61661400.r
+b	js/highlight.min.js	/^!function(e){"undefined"!=typeof exports?e(exports):(window.hljs=e({}),"function"==typeof define/;"	p	class:AnonymousFunction907f61661800.a
+b	js/highlight.min.js	/^!function(e){"undefined"!=typeof exports?e(exports):(window.hljs=e({}),"function"==typeof define/;"	p	class:AnonymousFunction907f61661a00.a
+b	js/highlight.min.js	/^!function(e){"undefined"!=typeof exports?e(exports):(window.hljs=e({}),"function"==typeof define/;"	p	class:AnonymousFunction907f61661a00.i
+b	js/highlight.min.js	/^!function(e){"undefined"!=typeof exports?e(exports):(window.hljs=e({}),"function"==typeof define/;"	p	class:AnonymousFunction907f61661b00.t
+b	js/highlight.min.js	/^!function(e){"undefined"!=typeof exports?e(exports):(window.hljs=e({}),"function"==typeof define/;"	p	class:AnonymousFunction907f61661c00.r
+b	js/highlight.min.js	/^!function(e){"undefined"!=typeof exports?e(exports):(window.hljs=e({}),"function"==typeof define/;"	p	class:AnonymousFunction907f61661f00.t
+b	js/highlight.min.js	/^!function(e){"undefined"!=typeof exports?e(exports):(window.hljs=e({}),"function"==typeof define/;"	p	class:AnonymousFunction907f61662000.n
+b	js/highlight.min.js	/^!function(e){"undefined"!=typeof exports?e(exports):(window.hljs=e({}),"function"==typeof define/;"	p	class:AnonymousFunction907f61662000.r
+b	js/highlight.min.js	/^!function(e){"undefined"!=typeof exports?e(exports):(window.hljs=e({}),"function"==typeof define/;"	p	class:AnonymousFunction907f61662100.r
+b	js/highlight.min.js	/^!function(e){"undefined"!=typeof exports?e(exports):(window.hljs=e({}),"function"==typeof define/;"	p	class:AnonymousFunction907f61662100.t
+b	js/highlight.min.js	/^!function(e){"undefined"!=typeof exports?e(exports):(window.hljs=e({}),"function"==typeof define/;"	p	class:AnonymousFunction907f61662200.a
+b	js/highlight.min.js	/^!function(e){"undefined"!=typeof exports?e(exports):(window.hljs=e({}),"function"==typeof define/;"	p	class:AnonymousFunction907f61662200.t
+b	js/highlight.min.js	/^!function(e){"undefined"!=typeof exports?e(exports):(window.hljs=e({}),"function"==typeof define/;"	p	class:AnonymousFunction907f61662300.a
+b	js/highlight.min.js	/^!function(e){"undefined"!=typeof exports?e(exports):(window.hljs=e({}),"function"==typeof define/;"	p	class:AnonymousFunction907f61662300.n
+b	js/highlight.min.js	/^!function(e){"undefined"!=typeof exports?e(exports):(window.hljs=e({}),"function"==typeof define/;"	p	class:AnonymousFunction907f61662300.o
+b	js/highlight.min.js	/^!function(e){"undefined"!=typeof exports?e(exports):(window.hljs=e({}),"function"==typeof define/;"	p	class:AnonymousFunction907f61662300.s
+blockquote	css/slim.css	/^blockquote {$/;"	s
+blockquote p:last-child	css/slim.css	/^  blockquote p:last-child {$/;"	s
+body	css/slim.css	/^body {$/;"	s
+built_in	js/highlight.min.js	/^!function(e){"undefined"!=typeof exports?e(exports):(window.hljs=e({}),"function"==typeof define/;"	p	class:AnonymousFunction907f61661100.t
+built_in	js/highlight.min.js	/^!function(e){"undefined"!=typeof exports?e(exports):(window.hljs=e({}),"function"==typeof define/;"	p	class:AnonymousFunction907f61661200.t
+built_in	js/highlight.min.js	/^!function(e){"undefined"!=typeof exports?e(exports):(window.hljs=e({}),"function"==typeof define/;"	p	class:AnonymousFunction907f61661e00.r.k
+built_in	js/highlight.min.js	/^!function(e){"undefined"!=typeof exports?e(exports):(window.hljs=e({}),"function"==typeof define/;"	p	class:AnonymousFunction907f61661f00.r
+button	css/slim.css	/^button,$/;"	s
+button::-moz-focus-inner	css/slim.css	/^  button::-moz-focus-inner,$/;"	s
+button:active	css/slim.css	/^  button:active,$/;"	s
+button:focus	css/slim.css	/^  button:hover, button:focus,$/;"	s
+button:hover	css/slim.css	/^  button:hover, button:focus,$/;"	s
+c	js/highlight.min.js	/^!function(e){"undefined"!=typeof exports?e(exports):(window.hljs=e({}),"function"==typeof define/;"	c	class:AnonymousFunction907f61661100
+c	js/highlight.min.js	/^!function(e){"undefined"!=typeof exports?e(exports):(window.hljs=e({}),"function"==typeof define/;"	c	class:AnonymousFunction907f61662300
+c	js/highlight.min.js	/^!function(e){"undefined"!=typeof exports?e(exports):(window.hljs=e({}),"function"==typeof define/;"	f	function:AnonymousFunction907f61660200
+c	js/highlight.min.js	/^!function(e){"undefined"!=typeof exports?e(exports):(window.hljs=e({}),"function"==typeof define/;"	f	function:AnonymousFunction907f61660200.c
+c	js/highlight.min.js	/^!function(e){"undefined"!=typeof exports?e(exports):(window.hljs=e({}),"function"==typeof define/;"	f	function:l
+c	js/highlight.min.js	/^!function(e){"undefined"!=typeof exports?e(exports):(window.hljs=e({}),"function"==typeof define/;"	p	class:AnonymousFunction907f61661000.r
+c	js/highlight.min.js	/^!function(e){"undefined"!=typeof exports?e(exports):(window.hljs=e({}),"function"==typeof define/;"	p	class:AnonymousFunction907f61661100.c
+c	js/highlight.min.js	/^!function(e){"undefined"!=typeof exports?e(exports):(window.hljs=e({}),"function"==typeof define/;"	p	class:AnonymousFunction907f61661400.n
+c	js/highlight.min.js	/^!function(e){"undefined"!=typeof exports?e(exports):(window.hljs=e({}),"function"==typeof define/;"	p	class:AnonymousFunction907f61661a00.a
+c	js/highlight.min.js	/^!function(e){"undefined"!=typeof exports?e(exports):(window.hljs=e({}),"function"==typeof define/;"	p	class:AnonymousFunction907f61661a00.i
+c	js/highlight.min.js	/^!function(e){"undefined"!=typeof exports?e(exports):(window.hljs=e({}),"function"==typeof define/;"	p	class:AnonymousFunction907f61661a00.n
+c	js/highlight.min.js	/^!function(e){"undefined"!=typeof exports?e(exports):(window.hljs=e({}),"function"==typeof define/;"	p	class:AnonymousFunction907f61661b00.t
+c	js/highlight.min.js	/^!function(e){"undefined"!=typeof exports?e(exports):(window.hljs=e({}),"function"==typeof define/;"	p	class:AnonymousFunction907f61661c00.n
+c	js/highlight.min.js	/^!function(e){"undefined"!=typeof exports?e(exports):(window.hljs=e({}),"function"==typeof define/;"	p	class:AnonymousFunction907f61661e00.r
+c	js/highlight.min.js	/^!function(e){"undefined"!=typeof exports?e(exports):(window.hljs=e({}),"function"==typeof define/;"	p	class:AnonymousFunction907f61662100.n
+c	js/highlight.min.js	/^!function(e){"undefined"!=typeof exports?e(exports):(window.hljs=e({}),"function"==typeof define/;"	p	class:AnonymousFunction907f61662200.a
+c	js/highlight.min.js	/^!function(e){"undefined"!=typeof exports?e(exports):(window.hljs=e({}),"function"==typeof define/;"	p	class:AnonymousFunction907f61662200.r
+c	js/highlight.min.js	/^!function(e){"undefined"!=typeof exports?e(exports):(window.hljs=e({}),"function"==typeof define/;"	p	class:AnonymousFunction907f61662300.c
+cN	js/highlight.min.js	/^!function(e){"undefined"!=typeof exports?e(exports):(window.hljs=e({}),"function"==typeof define/;"	p	class:AnonymousFunction907f61660f00.t
+cN	js/highlight.min.js	/^!function(e){"undefined"!=typeof exports?e(exports):(window.hljs=e({}),"function"==typeof define/;"	p	class:AnonymousFunction907f61661000.n
+cN	js/highlight.min.js	/^!function(e){"undefined"!=typeof exports?e(exports):(window.hljs=e({}),"function"==typeof define/;"	p	class:AnonymousFunction907f61661000.r
+cN	js/highlight.min.js	/^!function(e){"undefined"!=typeof exports?e(exports):(window.hljs=e({}),"function"==typeof define/;"	p	class:AnonymousFunction907f61661000.t
+cN	js/highlight.min.js	/^!function(e){"undefined"!=typeof exports?e(exports):(window.hljs=e({}),"function"==typeof define/;"	p	class:AnonymousFunction907f61661100.c
+cN	js/highlight.min.js	/^!function(e){"undefined"!=typeof exports?e(exports):(window.hljs=e({}),"function"==typeof define/;"	p	class:AnonymousFunction907f61661100.n
+cN	js/highlight.min.js	/^!function(e){"undefined"!=typeof exports?e(exports):(window.hljs=e({}),"function"==typeof define/;"	p	class:AnonymousFunction907f61661400.n
+cN	js/highlight.min.js	/^!function(e){"undefined"!=typeof exports?e(exports):(window.hljs=e({}),"function"==typeof define/;"	p	class:AnonymousFunction907f61661400.r
+cN	js/highlight.min.js	/^!function(e){"undefined"!=typeof exports?e(exports):(window.hljs=e({}),"function"==typeof define/;"	p	class:AnonymousFunction907f61661800.a
+cN	js/highlight.min.js	/^!function(e){"undefined"!=typeof exports?e(exports):(window.hljs=e({}),"function"==typeof define/;"	p	class:AnonymousFunction907f61661a00.n
+cN	js/highlight.min.js	/^!function(e){"undefined"!=typeof exports?e(exports):(window.hljs=e({}),"function"==typeof define/;"	p	class:AnonymousFunction907f61661b00.t
+cN	js/highlight.min.js	/^!function(e){"undefined"!=typeof exports?e(exports):(window.hljs=e({}),"function"==typeof define/;"	p	class:AnonymousFunction907f61661e00.t
+cN	js/highlight.min.js	/^!function(e){"undefined"!=typeof exports?e(exports):(window.hljs=e({}),"function"==typeof define/;"	p	class:AnonymousFunction907f61661f00.t
+cN	js/highlight.min.js	/^!function(e){"undefined"!=typeof exports?e(exports):(window.hljs=e({}),"function"==typeof define/;"	p	class:AnonymousFunction907f61662000.a
+cN	js/highlight.min.js	/^!function(e){"undefined"!=typeof exports?e(exports):(window.hljs=e({}),"function"==typeof define/;"	p	class:AnonymousFunction907f61662000.r
+cN	js/highlight.min.js	/^!function(e){"undefined"!=typeof exports?e(exports):(window.hljs=e({}),"function"==typeof define/;"	p	class:AnonymousFunction907f61662100.n
+cN	js/highlight.min.js	/^!function(e){"undefined"!=typeof exports?e(exports):(window.hljs=e({}),"function"==typeof define/;"	p	class:AnonymousFunction907f61662100.r
+cN	js/highlight.min.js	/^!function(e){"undefined"!=typeof exports?e(exports):(window.hljs=e({}),"function"==typeof define/;"	p	class:AnonymousFunction907f61662100.t
+cN	js/highlight.min.js	/^!function(e){"undefined"!=typeof exports?e(exports):(window.hljs=e({}),"function"==typeof define/;"	p	class:AnonymousFunction907f61662200.a
+cN	js/highlight.min.js	/^!function(e){"undefined"!=typeof exports?e(exports):(window.hljs=e({}),"function"==typeof define/;"	p	class:AnonymousFunction907f61662200.n
+cN	js/highlight.min.js	/^!function(e){"undefined"!=typeof exports?e(exports):(window.hljs=e({}),"function"==typeof define/;"	p	class:AnonymousFunction907f61662200.r
+cN	js/highlight.min.js	/^!function(e){"undefined"!=typeof exports?e(exports):(window.hljs=e({}),"function"==typeof define/;"	p	class:AnonymousFunction907f61662200.t
+cN	js/highlight.min.js	/^!function(e){"undefined"!=typeof exports?e(exports):(window.hljs=e({}),"function"==typeof define/;"	p	class:AnonymousFunction907f61662300.a
+cN	js/highlight.min.js	/^!function(e){"undefined"!=typeof exports?e(exports):(window.hljs=e({}),"function"==typeof define/;"	p	class:AnonymousFunction907f61662300.c
+cN	js/highlight.min.js	/^!function(e){"undefined"!=typeof exports?e(exports):(window.hljs=e({}),"function"==typeof define/;"	p	class:AnonymousFunction907f61662300.n
+cN	js/highlight.min.js	/^!function(e){"undefined"!=typeof exports?e(exports):(window.hljs=e({}),"function"==typeof define/;"	p	class:AnonymousFunction907f61662300.o
+cN	js/highlight.min.js	/^!function(e){"undefined"!=typeof exports?e(exports):(window.hljs=e({}),"function"==typeof define/;"	p	class:AnonymousFunction907f61662300.s
+code	css/slim.css	/^code {$/;"	s
+d	js/highlight.min.js	/^!function(e){"undefined"!=typeof exports?e(exports):(window.hljs=e({}),"function"==typeof define/;"	f
+d	js/highlight.min.js	/^!function(e){"undefined"!=typeof exports?e(exports):(window.hljs=e({}),"function"==typeof define/;"	f	function:l
+dl	css/slim.css	/^dl,$/;"	s
+e	js/highlight.min.js	/^!function(e){"undefined"!=typeof exports?e(exports):(window.hljs=e({}),"function"==typeof define/;"	p	class:AnonymousFunction907f61661000.n
+e	js/highlight.min.js	/^!function(e){"undefined"!=typeof exports?e(exports):(window.hljs=e({}),"function"==typeof define/;"	p	class:AnonymousFunction907f61661000.r
+e	js/highlight.min.js	/^!function(e){"undefined"!=typeof exports?e(exports):(window.hljs=e({}),"function"==typeof define/;"	p	class:AnonymousFunction907f61661100.n
+e	js/highlight.min.js	/^!function(e){"undefined"!=typeof exports?e(exports):(window.hljs=e({}),"function"==typeof define/;"	p	class:AnonymousFunction907f61661400.n
+e	js/highlight.min.js	/^!function(e){"undefined"!=typeof exports?e(exports):(window.hljs=e({}),"function"==typeof define/;"	p	class:AnonymousFunction907f61661400.r
+e	js/highlight.min.js	/^!function(e){"undefined"!=typeof exports?e(exports):(window.hljs=e({}),"function"==typeof define/;"	p	class:AnonymousFunction907f61661a00.a
+e	js/highlight.min.js	/^!function(e){"undefined"!=typeof exports?e(exports):(window.hljs=e({}),"function"==typeof define/;"	p	class:AnonymousFunction907f61661a00.i
+e	js/highlight.min.js	/^!function(e){"undefined"!=typeof exports?e(exports):(window.hljs=e({}),"function"==typeof define/;"	p	class:AnonymousFunction907f61661a00.n
+e	js/highlight.min.js	/^!function(e){"undefined"!=typeof exports?e(exports):(window.hljs=e({}),"function"==typeof define/;"	p	class:AnonymousFunction907f61661b00.t
+e	js/highlight.min.js	/^!function(e){"undefined"!=typeof exports?e(exports):(window.hljs=e({}),"function"==typeof define/;"	p	class:AnonymousFunction907f61661c00.r
+e	js/highlight.min.js	/^!function(e){"undefined"!=typeof exports?e(exports):(window.hljs=e({}),"function"==typeof define/;"	p	class:AnonymousFunction907f61662000.n
+e	js/highlight.min.js	/^!function(e){"undefined"!=typeof exports?e(exports):(window.hljs=e({}),"function"==typeof define/;"	p	class:AnonymousFunction907f61662000.r
+e	js/highlight.min.js	/^!function(e){"undefined"!=typeof exports?e(exports):(window.hljs=e({}),"function"==typeof define/;"	p	class:AnonymousFunction907f61662200.a
+e	js/highlight.min.js	/^!function(e){"undefined"!=typeof exports?e(exports):(window.hljs=e({}),"function"==typeof define/;"	p	class:AnonymousFunction907f61662300.a
+e	js/highlight.min.js	/^!function(e){"undefined"!=typeof exports?e(exports):(window.hljs=e({}),"function"==typeof define/;"	p	class:AnonymousFunction907f61662300.o
+e	js/highlight.min.js	/^!function(e){"undefined"!=typeof exports?e(exports):(window.hljs=e({}),"function"==typeof define/;"	p	class:AnonymousFunction907f61662300.s
+eE	js/highlight.min.js	/^!function(e){"undefined"!=typeof exports?e(exports):(window.hljs=e({}),"function"==typeof define/;"	p	class:AnonymousFunction907f61661400.r
+eE	js/highlight.min.js	/^!function(e){"undefined"!=typeof exports?e(exports):(window.hljs=e({}),"function"==typeof define/;"	p	class:AnonymousFunction907f61661a00.n
+eW	js/highlight.min.js	/^!function(e){"undefined"!=typeof exports?e(exports):(window.hljs=e({}),"function"==typeof define/;"	p	class:AnonymousFunction907f61661400.n
+eW	js/highlight.min.js	/^!function(e){"undefined"!=typeof exports?e(exports):(window.hljs=e({}),"function"==typeof define/;"	p	class:AnonymousFunction907f61661a00.n
+eW	js/highlight.min.js	/^!function(e){"undefined"!=typeof exports?e(exports):(window.hljs=e({}),"function"==typeof define/;"	p	class:AnonymousFunction907f61661c00.n
+eW	js/highlight.min.js	/^!function(e){"undefined"!=typeof exports?e(exports):(window.hljs=e({}),"function"==typeof define/;"	p	class:AnonymousFunction907f61661e00.r
+em	css/slim.css	/^em {$/;"	s
+f	js/highlight.min.js	/^!function(e){"undefined"!=typeof exports?e(exports):(window.hljs=e({}),"function"==typeof define/;"	f
+f	js/highlight.min.js	/^!function(e){"undefined"!=typeof exports?e(exports):(window.hljs=e({}),"function"==typeof define/;"	f	function:l
+fn:1	categories/digest/index.html	/^<li id="fn:1" role="doc-endnote">$/;"	I
+fn:1	categories/doge/index.html	/^<li id="fn:1" role="doc-endnote">$/;"	I
+fn:1	categories/myself/index.html	/^<li id="fn:1" role="doc-endnote">$/;"	I
+fn:1	index.html	/^<li id="fn:1" role="doc-endnote">$/;"	I
+fn:1	page/3/index.html	/^<li id="fn:1" role="doc-endnote">$/;"	I
+fn:1	page/4/index.html	/^<li id="fn:1" role="doc-endnote">$/;"	I
+fn:1	page/5/index.html	/^<li id="fn:1" role="doc-endnote">$/;"	I
+fn:1	page/6/index.html	/^<li id="fn:1" role="doc-endnote">$/;"	I
+fn:1	page/7/index.html	/^<li id="fn:1" role="doc-endnote">$/;"	I
+fn:1	post/2017-10-09/index.html	/^<li id="fn:1" role="doc-endnote">$/;"	I
+fn:1	post/2020-07-21/index.html	/^<li id="fn:1" role="doc-endnote">$/;"	I
+fn:1	post/2020-08-14/index.html	/^<li id="fn:1" role="doc-endnote">$/;"	I
+fn:1	post/31/index.html	/^<li id="fn:1" role="doc-endnote">$/;"	I
+fn:1	post/april/index.html	/^<li id="fn:1" role="doc-endnote">$/;"	I
+fn:1	post/april_2/index.html	/^<li id="fn:1" role="doc-endnote">$/;"	I
+fn:1	post/index.html	/^<li id="fn:1" role="doc-endnote">$/;"	I
+fn:1	post/language/index.html	/^<li id="fn:1" role="doc-endnote">$/;"	I
+fn:1	post/laskat/index.html	/^<li id="fn:1" role="doc-endnote">$/;"	I
+fn:1	post/music/index.html	/^<li id="fn:1" role="doc-endnote">$/;"	I
+fn:1	post/page/3/index.html	/^<li id="fn:1" role="doc-endnote">$/;"	I
+fn:1	post/page/4/index.html	/^<li id="fn:1" role="doc-endnote">$/;"	I
+fn:1	post/page/5/index.html	/^<li id="fn:1" role="doc-endnote">$/;"	I
+fn:1	post/page/6/index.html	/^<li id="fn:1" role="doc-endnote">$/;"	I
+fn:1	post/page/7/index.html	/^<li id="fn:1" role="doc-endnote">$/;"	I
+fn:1	post/prodolzhim/index.html	/^<li id="fn:1" role="doc-endnote">$/;"	I
+fn:1	post/sobaken/index.html	/^<li id="fn:1" role="doc-endnote">$/;"	I
+fn:1	tags/bielyi-aist-lietit-nad-beliosim-polesiem-letit/index.html	/^<li id="fn:1" role="doc-endnote">$/;"	I
+fn:1	tags/digest/index.html	/^<li id="fn:1" role="doc-endnote">$/;"	I
+fn:1	tags/language/index.html	/^<li id="fn:1" role="doc-endnote">$/;"	I
+fn:1	tags/misc/index.html	/^<li id="fn:1" role="doc-endnote">$/;"	I
+fn:1	tags/music/index.html	/^<li id="fn:1" role="doc-endnote">$/;"	I
+fn:1	tags/nakoli-mne-kupola/index.html	/^<li id="fn:1" role="doc-endnote">$/;"	I
+fn:1	tags/obnimashki/index.html	/^<li id="fn:1" role="doc-endnote">$/;"	I
+fn:1	tags/ogromnoe-nebo-ogromnoe-nebo-ogromnoe-nebo-odno-na-dvoikh/index.html	/^<li id="fn:1" role="doc-endnote">$/;"	I
+fn:1	tags/predannej-sobaki-veselej-sobaki-laskovej-sobaki-netu-suschchestva/index.html	/^<li id="fn:1" role="doc-endnote">$/;"	I
+fn:1	tags/speech/index.html	/^<li id="fn:1" role="doc-endnote">$/;"	I
+fn:1	tags/ves-mir-u-nas-v-rukah-mi-zvezdi-kontinentov/index.html	/^<li id="fn:1" role="doc-endnote">$/;"	I
+fn:1	tags/words/index.html	/^<li id="fn:1" role="doc-endnote">$/;"	I
+fn:2	index.html	/^<li id="fn:2" role="doc-endnote">$/;"	I
+fn:2	post/2020-07-21/index.html	/^<li id="fn:2" role="doc-endnote">$/;"	I
+fn:2	post/index.html	/^<li id="fn:2" role="doc-endnote">$/;"	I
+fn:2	tags/ogromnoe-nebo-ogromnoe-nebo-ogromnoe-nebo-odno-na-dvoikh/index.html	/^<li id="fn:2" role="doc-endnote">$/;"	I
+fnref:1	categories/digest/index.html	/^<p>Главное открытие лета, похоже, велосипед.  Открытие/;"	I
+fnref:1	categories/doge/index.html	/^				<p>Дорогие друзья, в нашем доме завелась собака, и эт/;"	I
+fnref:1	categories/myself/index.html	/^<li>выступил с приглашенным докладом в центре теорети/;"	I
+fnref:1	index.html	/^				<p>Дорогие друзья, в нашем доме завелась собака, и эт/;"	I
+fnref:1	index.html	/^<p>Главное открытие лета, похоже, велосипед.  Открытие/;"	I
+fnref:1	index.html	/^<p>Леша стал потихоньку носить домой детальки от конс/;"	I
+fnref:1	page/3/index.html	/^<p>С чешским языком довольно странная ситуация; вроде/;"	I
+fnref:1	page/4/index.html	/^<li>выступил с приглашенным докладом в центре теорети/;"	I
+fnref:1	page/4/index.html	/^<p>Вообще у нас нечеловеческий подъем в отношениях с с/;"	I
+fnref:1	page/5/index.html	/^<p>Сегодня<sup id="fnref:1"><a href="#fn:1" class="footnote-ref" role="doc-noteref">1<\/a/;"	I
+fnref:1	page/6/index.html	/^<p>Играет за своим столиком в <a href="https:\/\/en.wikipedia.org\/Kinetic/;"	I
+fnref:1	page/6/index.html	/^<p>Леша все еще путает цвета, называет любимый экскава/;"	I
+fnref:1	page/6/index.html	/^<p>Понятно, что речь все более и более прогрессирует.  /;"	I
+fnref:1	page/7/index.html	/^<p>Месяц назад нам<sup id="fnref:1"><a href="#fn:1" class="footnote-ref" role="doc-/;"	I
+fnref:1	post/2017-10-09/index.html	/^<p>Сегодня<sup id="fnref:1"><a href="#fn:1" class="footnote-ref" role="doc-noteref">1<\/a/;"	I
+fnref:1	post/2020-07-21/index.html	/^<p>Леша стал потихоньку носить домой детальки от конс/;"	I
+fnref:1	post/2020-08-14/index.html	/^<p>Главное открытие лета, похоже, велосипед.  Открытие/;"	I
+fnref:1	post/31/index.html	/^<li>выступил с приглашенным докладом в центре теорети/;"	I
+fnref:1	post/april/index.html	/^<p>Леша все еще путает цвета, называет любимый экскава/;"	I
+fnref:1	post/april_2/index.html	/^<p>Понятно, что речь все более и более прогрессирует.  /;"	I
+fnref:1	post/index.html	/^				<p>Дорогие друзья, в нашем доме завелась собака, и эт/;"	I
+fnref:1	post/index.html	/^<p>Главное открытие лета, похоже, велосипед.  Открытие/;"	I
+fnref:1	post/index.html	/^<p>Леша стал потихоньку носить домой детальки от конс/;"	I
+fnref:1	post/language/index.html	/^<p>С чешским языком довольно странная ситуация; вроде/;"	I
+fnref:1	post/laskat/index.html	/^<p>Вообще у нас нечеловеческий подъем в отношениях с с/;"	I
+fnref:1	post/music/index.html	/^<p>Месяц назад нам<sup id="fnref:1"><a href="#fn:1" class="footnote-ref" role="doc-/;"	I
+fnref:1	post/page/3/index.html	/^<p>С чешским языком довольно странная ситуация; вроде/;"	I
+fnref:1	post/page/4/index.html	/^<li>выступил с приглашенным докладом в центре теорети/;"	I
+fnref:1	post/page/4/index.html	/^<p>Вообще у нас нечеловеческий подъем в отношениях с с/;"	I
+fnref:1	post/page/5/index.html	/^<p>Сегодня<sup id="fnref:1"><a href="#fn:1" class="footnote-ref" role="doc-noteref">1<\/a/;"	I
+fnref:1	post/page/6/index.html	/^<p>Играет за своим столиком в <a href="https:\/\/en.wikipedia.org\/Kinetic/;"	I
+fnref:1	post/page/6/index.html	/^<p>Леша все еще путает цвета, называет любимый экскава/;"	I
+fnref:1	post/page/6/index.html	/^<p>Понятно, что речь все более и более прогрессирует.  /;"	I
+fnref:1	post/page/7/index.html	/^<p>Месяц назад нам<sup id="fnref:1"><a href="#fn:1" class="footnote-ref" role="doc-/;"	I
+fnref:1	post/prodolzhim/index.html	/^<p>Играет за своим столиком в <a href="https:\/\/en.wikipedia.org\/Kinetic/;"	I
+fnref:1	post/sobaken/index.html	/^            <p>Дорогие друзья, в нашем доме завелась собака/;"	I
+fnref:1	tags/bielyi-aist-lietit-nad-beliosim-polesiem-letit/index.html	/^<p>Главное открытие лета, похоже, велосипед.  Открытие/;"	I
+fnref:1	tags/digest/index.html	/^<p>Сегодня<sup id="fnref:1"><a href="#fn:1" class="footnote-ref" role="doc-noteref">1<\/a/;"	I
+fnref:1	tags/language/index.html	/^<p>Вообще у нас нечеловеческий подъем в отношениях с с/;"	I
+fnref:1	tags/misc/index.html	/^<p>Леша все еще путает цвета, называет любимый экскава/;"	I
+fnref:1	tags/misc/index.html	/^<p>Понятно, что речь все более и более прогрессирует.  /;"	I
+fnref:1	tags/music/index.html	/^<p>Месяц назад нам<sup id="fnref:1"><a href="#fn:1" class="footnote-ref" role="doc-/;"	I
+fnref:1	tags/nakoli-mne-kupola/index.html	/^<li>выступил с приглашенным докладом в центре теорети/;"	I
+fnref:1	tags/obnimashki/index.html	/^<p>Вообще у нас нечеловеческий подъем в отношениях с с/;"	I
+fnref:1	tags/ogromnoe-nebo-ogromnoe-nebo-ogromnoe-nebo-odno-na-dvoikh/index.html	/^<p>Леша стал потихоньку носить домой детальки от конс/;"	I
+fnref:1	tags/predannej-sobaki-veselej-sobaki-laskovej-sobaki-netu-suschchestva/index.html	/^				<p>Дорогие друзья, в нашем доме завелась собака, и эт/;"	I
+fnref:1	tags/speech/index.html	/^<p>Вообще у нас нечеловеческий подъем в отношениях с с/;"	I
+fnref:1	tags/ves-mir-u-nas-v-rukah-mi-zvezdi-kontinentov/index.html	/^<p>С чешским языком довольно странная ситуация; вроде/;"	I
+fnref:1	tags/words/index.html	/^<p>Играет за своим столиком в <a href="https:\/\/en.wikipedia.org\/Kinetic/;"	I
+fnref:2	index.html	/^<sup id="fnref:2"><a href="#fn:2" class="footnote-ref" role="doc-noteref">2<\/a><\/sup>$/;"	I
+fnref:2	post/2020-07-21/index.html	/^<sup id="fnref:2"><a href="#fn:2" class="footnote-ref" role="doc-noteref">2<\/a><\/sup>$/;"	I
+fnref:2	post/index.html	/^<sup id="fnref:2"><a href="#fn:2" class="footnote-ref" role="doc-noteref">2<\/a><\/sup>$/;"	I
+fnref:2	tags/ogromnoe-nebo-ogromnoe-nebo-ogromnoe-nebo-odno-na-dvoikh/index.html	/^<sup id="fnref:2"><a href="#fn:2" class="footnote-ref" role="doc-noteref">2<\/a><\/sup>$/;"	I
+forEach	js/highlight.min.js	/^!function(e){"undefined"!=typeof exports?e(exports):(window.hljs=e({}),"function"==typeof define/;"	m	class:Array
+g	js/highlight.min.js	/^!function(e){"undefined"!=typeof exports?e(exports):(window.hljs=e({}),"function"==typeof define/;"	f
+g	js/highlight.min.js	/^!function(e){"undefined"!=typeof exports?e(exports):(window.hljs=e({}),"function"==typeof define/;"	f	function:l
+h	js/highlight.min.js	/^!function(e){"undefined"!=typeof exports?e(exports):(window.hljs=e({}),"function"==typeof define/;"	f
+h	js/highlight.min.js	/^!function(e){"undefined"!=typeof exports?e(exports):(window.hljs=e({}),"function"==typeof define/;"	f	function:l
+h1	css/slim.css	/^h1 {$/;"	s
+h1	css/slim.css	/^h1,$/;"	s
+h2	css/slim.css	/^h2 {$/;"	s
+h2	css/slim.css	/^h2,$/;"	s
+h3	css/slim.css	/^h3 {$/;"	s
+h3	css/slim.css	/^h3,$/;"	s
+h4	css/slim.css	/^h4,$/;"	s
+h5	css/slim.css	/^h5,$/;"	s
+h6	css/slim.css	/^h6 {$/;"	s
+hr	css/slim.css	/^hr {$/;"	s
+html	css/slim.css	/^html {$/;"	s
+i	js/highlight.min.js	/^!function(e){"undefined"!=typeof exports?e(exports):(window.hljs=e({}),"function"==typeof define/;"	c	class:AnonymousFunction907f61661a00
+i	js/highlight.min.js	/^!function(e){"undefined"!=typeof exports?e(exports):(window.hljs=e({}),"function"==typeof define/;"	f	function:AnonymousFunction907f61660200
+i	js/highlight.min.js	/^!function(e){"undefined"!=typeof exports?e(exports):(window.hljs=e({}),"function"==typeof define/;"	f	function:AnonymousFunction907f61660200.c
+i	js/highlight.min.js	/^!function(e){"undefined"!=typeof exports?e(exports):(window.hljs=e({}),"function"==typeof define/;"	p	class:AnonymousFunction907f61661a00.a
+i	js/highlight.min.js	/^!function(e){"undefined"!=typeof exports?e(exports):(window.hljs=e({}),"function"==typeof define/;"	p	class:AnonymousFunction907f61661a00.i
+i	js/highlight.min.js	/^!function(e){"undefined"!=typeof exports?e(exports):(window.hljs=e({}),"function"==typeof define/;"	p	class:AnonymousFunction907f61661c00.n
+i	js/highlight.min.js	/^!function(e){"undefined"!=typeof exports?e(exports):(window.hljs=e({}),"function"==typeof define/;"	p	class:AnonymousFunction907f61661e00.r
+img	css/slim.css	/^img {$/;"	s
+input	css/slim.css	/^input,$/;"	s
+jak-se-jmenueš	page/3/index.html	/^<h3 id="jak-se-jmenueš">Jak se jmenueš?<\/h3>$/;"	I
+jak-se-jmenueš	post/page/3/index.html	/^<h3 id="jak-se-jmenueš">Jak se jmenueš?<\/h3>$/;"	I
+jak-se-jmenueš	post/ulia/index.html	/^<h3 id="jak-se-jmenueš">Jak se jmenueš?<\/h3>$/;"	I
+jak-se-jmenueš	tags/guest/index.html	/^<h3 id="jak-se-jmenueš">Jak se jmenueš?<\/h3>$/;"	I
+jak-se-jmenueš	tags/mamulia/index.html	/^<h3 id="jak-se-jmenueš">Jak se jmenueš?<\/h3>$/;"	I
+k	js/highlight.min.js	/^!function(e){"undefined"!=typeof exports?e(exports):(window.hljs=e({}),"function"==typeof define/;"	c	class:AnonymousFunction907f61661e00.r
+k	js/highlight.min.js	/^!function(e){"undefined"!=typeof exports?e(exports):(window.hljs=e({}),"function"==typeof define/;"	p	class:AnonymousFunction907f61661100.n
+k	js/highlight.min.js	/^!function(e){"undefined"!=typeof exports?e(exports):(window.hljs=e({}),"function"==typeof define/;"	p	class:AnonymousFunction907f61661a00.n
+k	js/highlight.min.js	/^!function(e){"undefined"!=typeof exports?e(exports):(window.hljs=e({}),"function"==typeof define/;"	p	class:AnonymousFunction907f61662000.r
+k	js/highlight.min.js	/^!function(e){"undefined"!=typeof exports?e(exports):(window.hljs=e({}),"function"==typeof define/;"	p	class:AnonymousFunction907f61662300.o
+k	js/highlight.min.js	/^!function(e){"undefined"!=typeof exports?e(exports):(window.hljs=e({}),"function"==typeof define/;"	p	class:AnonymousFunction907f61662300.s
+keyword	js/highlight.min.js	/^!function(e){"undefined"!=typeof exports?e(exports):(window.hljs=e({}),"function"==typeof define/;"	p	class:AnonymousFunction907f61661100.t
+keyword	js/highlight.min.js	/^!function(e){"undefined"!=typeof exports?e(exports):(window.hljs=e({}),"function"==typeof define/;"	p	class:AnonymousFunction907f61661200.t
+keyword	js/highlight.min.js	/^!function(e){"undefined"!=typeof exports?e(exports):(window.hljs=e({}),"function"==typeof define/;"	p	class:AnonymousFunction907f61661f00.r
+l	js/highlight.min.js	/^!function(e){"undefined"!=typeof exports?e(exports):(window.hljs=e({}),"function"==typeof define/;"	f
+l	js/highlight.min.js	/^!function(e){"undefined"!=typeof exports?e(exports):(window.hljs=e({}),"function"==typeof define/;"	p	class:AnonymousFunction907f61661e00.r
+language	js/highlight.min.js	/^!function(e){"undefined"!=typeof exports?e(exports):(window.hljs=e({}),"function"==typeof define/;"	p	class:e.result
+literal	js/highlight.min.js	/^!function(e){"undefined"!=typeof exports?e(exports):(window.hljs=e({}),"function"==typeof define/;"	p	class:AnonymousFunction907f61661100.t
+literal	js/highlight.min.js	/^!function(e){"undefined"!=typeof exports?e(exports):(window.hljs=e({}),"function"==typeof define/;"	p	class:AnonymousFunction907f61661a00.t
+literal	js/highlight.min.js	/^!function(e){"undefined"!=typeof exports?e(exports):(window.hljs=e({}),"function"==typeof define/;"	p	class:AnonymousFunction907f61661f00.r
+m	js/highlight.min.js	/^!function(e){"undefined"!=typeof exports?e(exports):(window.hljs=e({}),"function"==typeof define/;"	f
+m	js/highlight.min.js	/^!function(e){"undefined"!=typeof exports?e(exports):(window.hljs=e({}),"function"==typeof define/;"	f	function:l
+n	js/highlight.min.js	/^!function(e){"undefined"!=typeof exports?e(exports):(window.hljs=e({}),"function"==typeof define/;"	c	class:AnonymousFunction907f61661000
+n	js/highlight.min.js	/^!function(e){"undefined"!=typeof exports?e(exports):(window.hljs=e({}),"function"==typeof define/;"	c	class:AnonymousFunction907f61661100
+n	js/highlight.min.js	/^!function(e){"undefined"!=typeof exports?e(exports):(window.hljs=e({}),"function"==typeof define/;"	c	class:AnonymousFunction907f61661400
+n	js/highlight.min.js	/^!function(e){"undefined"!=typeof exports?e(exports):(window.hljs=e({}),"function"==typeof define/;"	c	class:AnonymousFunction907f61661a00
+n	js/highlight.min.js	/^!function(e){"undefined"!=typeof exports?e(exports):(window.hljs=e({}),"function"==typeof define/;"	c	class:AnonymousFunction907f61661c00
+n	js/highlight.min.js	/^!function(e){"undefined"!=typeof exports?e(exports):(window.hljs=e({}),"function"==typeof define/;"	c	class:AnonymousFunction907f61662000
+n	js/highlight.min.js	/^!function(e){"undefined"!=typeof exports?e(exports):(window.hljs=e({}),"function"==typeof define/;"	c	class:AnonymousFunction907f61662100
+n	js/highlight.min.js	/^!function(e){"undefined"!=typeof exports?e(exports):(window.hljs=e({}),"function"==typeof define/;"	c	class:AnonymousFunction907f61662200
+n	js/highlight.min.js	/^!function(e){"undefined"!=typeof exports?e(exports):(window.hljs=e({}),"function"==typeof define/;"	c	class:AnonymousFunction907f61662300
+n	js/highlight.min.js	/^!function(e){"undefined"!=typeof exports?e(exports):(window.hljs=e({}),"function"==typeof define/;"	c	class:u
+n	js/highlight.min.js	/^!function(e){"undefined"!=typeof exports?e(exports):(window.hljs=e({}),"function"==typeof define/;"	f	function:AnonymousFunction907f61660200
+n	js/highlight.min.js	/^!function(e){"undefined"!=typeof exports?e(exports):(window.hljs=e({}),"function"==typeof define/;"	f	function:AnonymousFunction907f61660200.c.s
+n	js/highlight.min.js	/^!function(e){"undefined"!=typeof exports?e(exports):(window.hljs=e({}),"function"==typeof define/;"	f	function:AnonymousFunction907f61660200.o
+n	js/highlight.min.js	/^!function(e){"undefined"!=typeof exports?e(exports):(window.hljs=e({}),"function"==typeof define/;"	f	function:AnonymousFunction907f61660200.s
+ns2b972dd70101	sitemap.xml	/^  xmlns:xhtml="http:\/\/www.w3.org\/1999\/xhtml">$/;"	n	uri:http://www.sitemaps.org/schemas/sitemap/0.9
+o	js/highlight.min.js	/^!function(e){"undefined"!=typeof exports?e(exports):(window.hljs=e({}),"function"==typeof define/;"	c	class:AnonymousFunction907f61662300
+o	js/highlight.min.js	/^!function(e){"undefined"!=typeof exports?e(exports):(window.hljs=e({}),"function"==typeof define/;"	f	function:AnonymousFunction907f61660200
+o	js/highlight.min.js	/^!function(e){"undefined"!=typeof exports?e(exports):(window.hljs=e({}),"function"==typeof define/;"	f	function:AnonymousFunction907f61660200.c
+o	js/highlight.min.js	/^!function(e){"undefined"!=typeof exports?e(exports):(window.hljs=e({}),"function"==typeof define/;"	f	function:AnonymousFunction907f61660200.o.n
+ol	css/slim.css	/^ol,$/;"	s
+onclick	js/slim.js	/^document.querySelector('.nav-btn').onclick = function(e) {$/;"	c	class:document.querySelector
+p	css/slim.css	/^p,$/;"	s
+p	js/highlight.min.js	/^!function(e){"undefined"!=typeof exports?e(exports):(window.hljs=e({}),"function"==typeof define/;"	f
+p	js/highlight.min.js	/^!function(e){"undefined"!=typeof exports?e(exports):(window.hljs=e({}),"function"==typeof define/;"	f	function:l
+pre	css/slim.css	/^pre {$/;"	s
+pre code	css/slim.css	/^pre code {$/;"	s
+r	js/highlight.min.js	/^!function(e){"undefined"!=typeof exports?e(exports):(window.hljs=e({}),"function"==typeof define/;"	c	class:AnonymousFunction907f61661000
+r	js/highlight.min.js	/^!function(e){"undefined"!=typeof exports?e(exports):(window.hljs=e({}),"function"==typeof define/;"	c	class:AnonymousFunction907f61661400
+r	js/highlight.min.js	/^!function(e){"undefined"!=typeof exports?e(exports):(window.hljs=e({}),"function"==typeof define/;"	c	class:AnonymousFunction907f61661c00
+r	js/highlight.min.js	/^!function(e){"undefined"!=typeof exports?e(exports):(window.hljs=e({}),"function"==typeof define/;"	c	class:AnonymousFunction907f61661e00
+r	js/highlight.min.js	/^!function(e){"undefined"!=typeof exports?e(exports):(window.hljs=e({}),"function"==typeof define/;"	c	class:AnonymousFunction907f61661f00
+r	js/highlight.min.js	/^!function(e){"undefined"!=typeof exports?e(exports):(window.hljs=e({}),"function"==typeof define/;"	c	class:AnonymousFunction907f61662000
+r	js/highlight.min.js	/^!function(e){"undefined"!=typeof exports?e(exports):(window.hljs=e({}),"function"==typeof define/;"	c	class:AnonymousFunction907f61662100
+r	js/highlight.min.js	/^!function(e){"undefined"!=typeof exports?e(exports):(window.hljs=e({}),"function"==typeof define/;"	c	class:AnonymousFunction907f61662200
+r	js/highlight.min.js	/^!function(e){"undefined"!=typeof exports?e(exports):(window.hljs=e({}),"function"==typeof define/;"	f	function:AnonymousFunction907f61660200
+r	js/highlight.min.js	/^!function(e){"undefined"!=typeof exports?e(exports):(window.hljs=e({}),"function"==typeof define/;"	f	function:AnonymousFunction907f61660200.o
+r	js/highlight.min.js	/^!function(e){"undefined"!=typeof exports?e(exports):(window.hljs=e({}),"function"==typeof define/;"	p	class:AnonymousFunction907f61661800.a
+r	js/highlight.min.js	/^!function(e){"undefined"!=typeof exports?e(exports):(window.hljs=e({}),"function"==typeof define/;"	p	class:AnonymousFunction907f61661c00.n
+r	js/highlight.min.js	/^!function(e){"undefined"!=typeof exports?e(exports):(window.hljs=e({}),"function"==typeof define/;"	p	class:AnonymousFunction907f61661e00.r
+r	js/highlight.min.js	/^!function(e){"undefined"!=typeof exports?e(exports):(window.hljs=e({}),"function"==typeof define/;"	p	class:AnonymousFunction907f61662200.n
+r	js/highlight.min.js	/^!function(e){"undefined"!=typeof exports?e(exports):(window.hljs=e({}),"function"==typeof define/;"	p	class:u.n
+rB	js/highlight.min.js	/^!function(e){"undefined"!=typeof exports?e(exports):(window.hljs=e({}),"function"==typeof define/;"	p	class:AnonymousFunction907f61661100.c
+rB	js/highlight.min.js	/^!function(e){"undefined"!=typeof exports?e(exports):(window.hljs=e({}),"function"==typeof define/;"	p	class:AnonymousFunction907f61661400.n
+rB	js/highlight.min.js	/^!function(e){"undefined"!=typeof exports?e(exports):(window.hljs=e({}),"function"==typeof define/;"	p	class:AnonymousFunction907f61661400.r
+re	js/highlight.min.js	/^!function(e){"undefined"!=typeof exports?e(exports):(window.hljs=e({}),"function"==typeof define/;"	p	class:e.result
+reserved	js/highlight.min.js	/^!function(e){"undefined"!=typeof exports?e(exports):(window.hljs=e({}),"function"==typeof define/;"	p	class:AnonymousFunction907f61661100.t
+result	js/highlight.min.js	/^!function(e){"undefined"!=typeof exports?e(exports):(window.hljs=e({}),"function"==typeof define/;"	c	class:e
+s	js/highlight.min.js	/^!function(e){"undefined"!=typeof exports?e(exports):(window.hljs=e({}),"function"==typeof define/;"	c	class:AnonymousFunction907f61662300
+s	js/highlight.min.js	/^!function(e){"undefined"!=typeof exports?e(exports):(window.hljs=e({}),"function"==typeof define/;"	f	function:AnonymousFunction907f61660200
+s	js/highlight.min.js	/^!function(e){"undefined"!=typeof exports?e(exports):(window.hljs=e({}),"function"==typeof define/;"	f	function:AnonymousFunction907f61660200.c
+s	js/highlight.min.js	/^!function(e){"undefined"!=typeof exports?e(exports):(window.hljs=e({}),"function"==typeof define/;"	f	function:l
+sL	js/highlight.min.js	/^!function(e){"undefined"!=typeof exports?e(exports):(window.hljs=e({}),"function"==typeof define/;"	p	class:AnonymousFunction907f61661c00.r
+select	css/slim.css	/^select,$/;"	s
+subLanguageMode	js/highlight.min.js	/^!function(e){"undefined"!=typeof exports?e(exports):(window.hljs=e({}),"function"==typeof define/;"	p	class:AnonymousFunction907f61661c00.r
+t	js/highlight.min.js	/^!function(e){"undefined"!=typeof exports?e(exports):(window.hljs=e({}),"function"==typeof define/;"	c	class:AnonymousFunction907f61660f00
+t	js/highlight.min.js	/^!function(e){"undefined"!=typeof exports?e(exports):(window.hljs=e({}),"function"==typeof define/;"	c	class:AnonymousFunction907f61661000
+t	js/highlight.min.js	/^!function(e){"undefined"!=typeof exports?e(exports):(window.hljs=e({}),"function"==typeof define/;"	c	class:AnonymousFunction907f61661100
+t	js/highlight.min.js	/^!function(e){"undefined"!=typeof exports?e(exports):(window.hljs=e({}),"function"==typeof define/;"	c	class:AnonymousFunction907f61661200
+t	js/highlight.min.js	/^!function(e){"undefined"!=typeof exports?e(exports):(window.hljs=e({}),"function"==typeof define/;"	c	class:AnonymousFunction907f61661a00
+t	js/highlight.min.js	/^!function(e){"undefined"!=typeof exports?e(exports):(window.hljs=e({}),"function"==typeof define/;"	c	class:AnonymousFunction907f61661b00
+t	js/highlight.min.js	/^!function(e){"undefined"!=typeof exports?e(exports):(window.hljs=e({}),"function"==typeof define/;"	c	class:AnonymousFunction907f61661e00
+t	js/highlight.min.js	/^!function(e){"undefined"!=typeof exports?e(exports):(window.hljs=e({}),"function"==typeof define/;"	c	class:AnonymousFunction907f61661f00
+t	js/highlight.min.js	/^!function(e){"undefined"!=typeof exports?e(exports):(window.hljs=e({}),"function"==typeof define/;"	c	class:AnonymousFunction907f61662100
+t	js/highlight.min.js	/^!function(e){"undefined"!=typeof exports?e(exports):(window.hljs=e({}),"function"==typeof define/;"	c	class:AnonymousFunction907f61662200
+t	js/highlight.min.js	/^!function(e){"undefined"!=typeof exports?e(exports):(window.hljs=e({}),"function"==typeof define/;"	f	function:AnonymousFunction907f61660200
+t	js/highlight.min.js	/^!function(e){"undefined"!=typeof exports?e(exports):(window.hljs=e({}),"function"==typeof define/;"	f	function:AnonymousFunction907f61660200.o
+table	css/slim.css	/^table {$/;"	s
+tbody tr:nth-child(odd) td	css/slim.css	/^tbody tr:nth-child(odd) td,$/;"	s
+tbody tr:nth-child(odd) th	css/slim.css	/^tbody tr:nth-child(odd) th {$/;"	s
+td	css/slim.css	/^td,$/;"	s
+textarea	css/slim.css	/^textarea {$/;"	s
+th	css/slim.css	/^th {$/;"	s
+u	js/highlight.min.js	/^!function(e){"undefined"!=typeof exports?e(exports):(window.hljs=e({}),"function"==typeof define/;"	f
+ul	css/slim.css	/^ul {$/;"	s
+v	js/highlight.min.js	/^!function(e){"undefined"!=typeof exports?e(exports):(window.hljs=e({}),"function"==typeof define/;"	f
+v	js/highlight.min.js	/^!function(e){"undefined"!=typeof exports?e(exports):(window.hljs=e({}),"function"==typeof define/;"	p	class:AnonymousFunction907f61661000.t
+v	js/highlight.min.js	/^!function(e){"undefined"!=typeof exports?e(exports):(window.hljs=e({}),"function"==typeof define/;"	p	class:AnonymousFunction907f61661e00.t
+v	js/highlight.min.js	/^!function(e){"undefined"!=typeof exports?e(exports):(window.hljs=e({}),"function"==typeof define/;"	p	class:AnonymousFunction907f61662000.a
+v	js/highlight.min.js	/^!function(e){"undefined"!=typeof exports?e(exports):(window.hljs=e({}),"function"==typeof define/;"	p	class:AnonymousFunction907f61662100.a
+v	js/highlight.min.js	/^!function(e){"undefined"!=typeof exports?e(exports):(window.hljs=e({}),"function"==typeof define/;"	p	class:AnonymousFunction907f61662100.n
+v	js/highlight.min.js	/^!function(e){"undefined"!=typeof exports?e(exports):(window.hljs=e({}),"function"==typeof define/;"	p	class:AnonymousFunction907f61662200.n
+v	js/highlight.min.js	/^!function(e){"undefined"!=typeof exports?e(exports):(window.hljs=e({}),"function"==typeof define/;"	p	class:AnonymousFunction907f61662200.r
+v	js/highlight.min.js	/^!function(e){"undefined"!=typeof exports?e(exports):(window.hljs=e({}),"function"==typeof define/;"	p	class:AnonymousFunction907f61662300.c
+value	js/highlight.min.js	/^!function(e){"undefined"!=typeof exports?e(exports):(window.hljs=e({}),"function"==typeof define/;"	p	class:u.n
+xhtml	sitemap.xml	/^  xmlns:xhtml="http:\/\/www.w3.org\/1999\/xhtml">$/;"	n	uri:http://www.w3.org/1999/xhtml
+Алексей и Музыка	page/7/index.html	/^          <h2 class="post-title"><a href="https:\/\/omnster.github.io\/post\/music\/">Алекс/;"	i
+Алексей и Музыка	post/music/index.html	/^          <h2 class="post-title"><a href="https:\/\/omnster.github.io\/post\/music\/">Алекс/;"	i
+Алексей и Музыка	post/page/7/index.html	/^          <h2 class="post-title"><a href="https:\/\/omnster.github.io\/post\/music\/">Алекс/;"	i
+Алексей и Музыка	tags/music/index.html	/^          <h2 class="post-title"><a href="https:\/\/omnster.github.io\/post\/music\/">Алекс/;"	i
+Бег и самостоятельность	page/6/index.html	/^          <h2 class="post-title"><a href="https:\/\/omnster.github.io\/post\/running\/">Бег и/;"	i
+Бег и самостоятельность	post/page/6/index.html	/^          <h2 class="post-title"><a href="https:\/\/omnster.github.io\/post\/running\/">Бег и/;"	i
+Бег и самостоятельность	post/running/index.html	/^          <h2 class="post-title"><a href="https:\/\/omnster.github.io\/post\/running\/">Бег и/;"	i
+Бег и самостоятельность	tags/sports/index.html	/^          <h2 class="post-title"><a href="https:\/\/omnster.github.io\/post\/running\/">Бег и/;"	i
+Бег и самостоятельность	tags/turgenev/index.html	/^          <h2 class="post-title"><a href="https:\/\/omnster.github.io\/post\/running\/">Бег и/;"	i
+Большой дайджест за июнь	page/5/index.html	/^          <h2 class="post-title"><a href="https:\/\/omnster.github.io\/post\/endofjune\/">Бол/;"	i
+Большой дайджест за июнь	post/endofjune/index.html	/^          <h2 class="post-title"><a href="https:\/\/omnster.github.io\/post\/endofjune\/">Бол/;"	i
+Большой дайджест за июнь	post/page/5/index.html	/^          <h2 class="post-title"><a href="https:\/\/omnster.github.io\/post\/endofjune\/">Бол/;"	i
+Большой дайджест за июнь	tags/digest/page/2/index.html	/^          <h2 class="post-title"><a href="https:\/\/omnster.github.io\/post\/endofjune\/">Бол/;"	i
+Велик	page/4/index.html	/^          <h2 class="post-title"><a href="https:\/\/omnster.github.io\/post\/sick\/">Велик</;"	i
+Велик	post/page/4/index.html	/^          <h2 class="post-title"><a href="https:\/\/omnster.github.io\/post\/sick\/">Велик</;"	i
+Велик	post/sick/index.html	/^          <h2 class="post-title"><a href="https:\/\/omnster.github.io\/post\/sick\/">Велик</;"	i
+Велик	tags/a-snitsya-nam-nie-rockot-cosmodroma/index.html	/^          <h2 class="post-title"><a href="https:\/\/omnster.github.io\/post\/sick\/">Велик</;"	i
+Велик	tags/sports/index.html	/^          <h2 class="post-title"><a href="https:\/\/omnster.github.io\/post\/sick\/">Велик</;"	i
+Вместо предисловия	page/5/index.html	/^				<h3 id="вместо-предисловия">Вместо предисловия<\/h3>$/;"	j
+Вместо предисловия	post/druzhisctche/index.html	/^            <h3 id="вместо-предисловия">Вместо предисловия<\/h/;"	j
+Вместо предисловия	post/page/5/index.html	/^				<h3 id="вместо-предисловия">Вместо предисловия<\/h3>$/;"	j
+Вместо предисловия	tags/excavator/index.html	/^				<h3 id="вместо-предисловия">Вместо предисловия<\/h3>$/;"	j
+Вместо предисловия	tags/speech/index.html	/^				<h3 id="вместо-предисловия">Вместо предисловия<\/h3>$/;"	j
+Вместо предисловия	tags/zoo/index.html	/^				<h3 id="вместо-предисловия">Вместо предисловия<\/h3>$/;"	j
+Грустная музыка	page/3/index.html	/^<h3 id="грустная-музыка">Грустная музыка<\/h3>$/;"	j
+Грустная музыка	post/page/3/index.html	/^<h3 id="грустная-музыка">Грустная музыка<\/h3>$/;"	j
+Грустная музыка	post/ulia/index.html	/^<h3 id="грустная-музыка">Грустная музыка<\/h3>$/;"	j
+Грустная музыка	tags/guest/index.html	/^<h3 id="грустная-музыка">Грустная музыка<\/h3>$/;"	j
+Грустная музыка	tags/mamulia/index.html	/^<h3 id="грустная-музыка">Грустная музыка<\/h3>$/;"	j
+Да или нет?!	categories/digest/page/2/index.html	/^          <h2 class="post-title"><a href="https:\/\/omnster.github.io\/post\/da-ili-net\/">Да /;"	i
+Да или нет?!	page/3/index.html	/^          <h2 class="post-title"><a href="https:\/\/omnster.github.io\/post\/da-ili-net\/">Да /;"	i
+Да или нет?!	post/da-ili-net/index.html	/^          <h2 class="post-title"><a href="https:\/\/omnster.github.io\/post\/da-ili-net\/">Да /;"	i
+Да или нет?!	post/page/3/index.html	/^          <h2 class="post-title"><a href="https:\/\/omnster.github.io\/post\/da-ili-net\/">Да /;"	i
+Да или нет?!	tags/moj-adres-ne-dom-i-ne-ulitza/index.html	/^          <h2 class="post-title"><a href="https:\/\/omnster.github.io\/post\/da-ili-net\/">Да /;"	i
+Дайджест	page/6/index.html	/^          <h2 class="post-title"><a href="https:\/\/omnster.github.io\/post\/sleep\/">Дайдж/;"	i
+Дайджест	post/page/6/index.html	/^          <h2 class="post-title"><a href="https:\/\/omnster.github.io\/post\/sleep\/">Дайдж/;"	i
+Дайджест	post/sleep/index.html	/^          <h2 class="post-title"><a href="https:\/\/omnster.github.io\/post\/sleep\/">Дайдж/;"	i
+Дайджест	tags/misc/index.html	/^          <h2 class="post-title"><a href="https:\/\/omnster.github.io\/post\/sleep\/">Дайдж/;"	i
+Дайджест	tags/speech/index.html	/^          <h2 class="post-title"><a href="https:\/\/omnster.github.io\/post\/sleep\/">Дайдж/;"	i
+Дайджест за апрель	page/6/index.html	/^          <h2 class="post-title"><a href="https:\/\/omnster.github.io\/post\/april_2\/">Дайд/;"	i
+Дайджест за апрель	post/april_2/index.html	/^          <h2 class="post-title"><a href="https:\/\/omnster.github.io\/post\/april_2\/">Дайд/;"	i
+Дайджест за апрель	post/page/6/index.html	/^          <h2 class="post-title"><a href="https:\/\/omnster.github.io\/post\/april_2\/">Дайд/;"	i
+Дайджест за апрель	tags/misc/index.html	/^          <h2 class="post-title"><a href="https:\/\/omnster.github.io\/post\/april_2\/">Дайд/;"	i
+Дайджест за май	page/6/index.html	/^          <h2 class="post-title"><a href="https:\/\/omnster.github.io\/post\/endofmay\/">Дайд/;"	i
+Дайджест за май	post/endofmay/index.html	/^          <h2 class="post-title"><a href="https:\/\/omnster.github.io\/post\/endofmay\/">Дайд/;"	i
+Дайджест за май	post/page/6/index.html	/^          <h2 class="post-title"><a href="https:\/\/omnster.github.io\/post\/endofmay\/">Дайд/;"	i
+Дайджест за май	tags/digest/page/2/index.html	/^          <h2 class="post-title"><a href="https:\/\/omnster.github.io\/post\/endofmay\/">Дайд/;"	i
+Дайджест за неделю	page/5/index.html	/^          <h2 class="post-title"><a href="https:\/\/omnster.github.io\/post\/badass\/">Дайдж/;"	i
+Дайджест за неделю	post/badass/index.html	/^          <h2 class="post-title"><a href="https:\/\/omnster.github.io\/post\/badass\/">Дайдж/;"	i
+Дайджест за неделю	post/page/5/index.html	/^          <h2 class="post-title"><a href="https:\/\/omnster.github.io\/post\/badass\/">Дайдж/;"	i
+Дайджест за неделю	tags/speech/index.html	/^          <h2 class="post-title"><a href="https:\/\/omnster.github.io\/post\/badass\/">Дайдж/;"	i
+Детский сад и речь	categories/digest/index.html	/^<h3 id="детский-сад-и-речь">Детский сад и речь<\/h3>$/;"	j
+Детский сад и речь	page/2/index.html	/^<h3 id="детский-сад-и-речь">Детский сад и речь<\/h3>$/;"	j
+Детский сад и речь	post/digest_2019-01-17/index.html	/^<h3 id="детский-сад-и-речь">Детский сад и речь<\/h3>$/;"	j
+Детский сад и речь	post/page/2/index.html	/^<h3 id="детский-сад-и-речь">Детский сад и речь<\/h3>$/;"	j
+Детский сад и речь	tags/jei-khvatit-odnoi-intonatsii-khvatit-chtob-plamja-do-njeba-razhzhech/index.html	/^<h3 id="детский-сад-и-речь">Детский сад и речь<\/h3>$/;"	j
+Домино и прочие радости	page/3/index.html	/^          <h2 class="post-title"><a href="https:\/\/omnster.github.io\/post\/boundaries\/">Дом/;"	i
+Домино и прочие радости	post/boundaries/index.html	/^          <h2 class="post-title"><a href="https:\/\/omnster.github.io\/post\/boundaries\/">Дом/;"	i
+Домино и прочие радости	post/page/3/index.html	/^          <h2 class="post-title"><a href="https:\/\/omnster.github.io\/post\/boundaries\/">Дом/;"	i
+Домино и прочие радости	tags/po-pereulkam-brodit-leto-solntse-ljiotsya-priamo-s-krysh/index.html	/^          <h2 class="post-title"><a href="https:\/\/omnster.github.io\/post\/boundaries\/">Дом/;"	i
+Еще про бег, транспорт и мальчика Ваню	page/6/index.html	/^          <h2 class="post-title"><a href="https:\/\/omnster.github.io\/post\/beg\/">Еще про/;"	i
+Еще про бег, транспорт и мальчика Ваню	post/beg/index.html	/^          <h2 class="post-title"><a href="https:\/\/omnster.github.io\/post\/beg\/">Еще про/;"	i
+Еще про бег, транспорт и мальчика Ваню	post/page/6/index.html	/^          <h2 class="post-title"><a href="https:\/\/omnster.github.io\/post\/beg\/">Еще про/;"	i
+Еще про бег, транспорт и мальчика Ваню	tags/morals-and-manners/index.html	/^          <h2 class="post-title"><a href="https:\/\/omnster.github.io\/post\/beg\/">Еще про/;"	i
+Еще про бег, транспорт и мальчика Ваню	tags/sports/index.html	/^          <h2 class="post-title"><a href="https:\/\/omnster.github.io\/post\/beg\/">Еще про/;"	i
+Зачем я здесь	page/7/index.html	/^          <h2 class="post-title"><a href="https:\/\/omnster.github.io\/post\/introduction\/">За/;"	i
+Зачем я здесь	post/introduction/index.html	/^          <h2 class="post-title"><a href="https:\/\/omnster.github.io\/post\/introduction\/">За/;"	i
+Зачем я здесь	post/page/7/index.html	/^          <h2 class="post-title"><a href="https:\/\/omnster.github.io\/post\/introduction\/">За/;"	i
+Земля прощай, в добрый путь	categories/experiences/index.html	/^          <h2 class="post-title"><a href="https:\/\/omnster.github.io\/post\/visatrip\/">Земл/;"	i
+Земля прощай, в добрый путь	page/3/index.html	/^          <h2 class="post-title"><a href="https:\/\/omnster.github.io\/post\/visatrip\/">Земл/;"	i
+Земля прощай, в добрый путь	post/page/3/index.html	/^          <h2 class="post-title"><a href="https:\/\/omnster.github.io\/post\/visatrip\/">Земл/;"	i
+Земля прощай, в добрый путь	post/visatrip/index.html	/^          <h2 class="post-title"><a href="https:\/\/omnster.github.io\/post\/visatrip\/">Земл/;"	i
+Земля прощай, в добрый путь	tags/one-day/index.html	/^          <h2 class="post-title"><a href="https:\/\/omnster.github.io\/post\/visatrip\/">Земл/;"	i
+Земля прощай, в добрый путь	tags/stanj-moei-melodiej-porvannie-struni-ozhivi/index.html	/^          <h2 class="post-title"><a href="https:\/\/omnster.github.io\/post\/visatrip\/">Земл/;"	i
+Зоопарк	page/5/index.html	/^<h3 id="зоопарк">Зоопарк<\/h3>$/;"	j
+Зоопарк	post/druzhisctche/index.html	/^<h3 id="зоопарк">Зоопарк<\/h3>$/;"	j
+Зоопарк	post/page/5/index.html	/^<h3 id="зоопарк">Зоопарк<\/h3>$/;"	j
+Зоопарк	tags/excavator/index.html	/^<h3 id="зоопарк">Зоопарк<\/h3>$/;"	j
+Зоопарк	tags/speech/index.html	/^<h3 id="зоопарк">Зоопарк<\/h3>$/;"	j
+Зоопарк	tags/zoo/index.html	/^<h3 id="зоопарк">Зоопарк<\/h3>$/;"	j
+Кайрат	page/2/index.html	/^          <h2 class="post-title"><a href="https:\/\/omnster.github.io\/post\/kairat\/">Кайра/;"	i
+Кайрат	post/kairat/index.html	/^          <h2 class="post-title"><a href="https:\/\/omnster.github.io\/post\/kairat\/">Кайра/;"	i
+Кайрат	post/page/2/index.html	/^          <h2 class="post-title"><a href="https:\/\/omnster.github.io\/post\/kairat\/">Кайра/;"	i
+Кайрат	tags/mnie-poniatna-tvoja-vekovaia-pechalj-belovezhskaya-pushtcha/index.html	/^          <h2 class="post-title"><a href="https:\/\/omnster.github.io\/post\/kairat\/">Кайра/;"	i
+Кайрат	tags/sports/index.html	/^          <h2 class="post-title"><a href="https:\/\/omnster.github.io\/post\/kairat\/">Кайра/;"	i
+Как мы ездили семьей в Бирмингем	categories/digest/index.html	/^          <h2 class="post-title"><a href="https:\/\/omnster.github.io\/post\/digest_2018-07-09\//;"	i
+Как мы ездили семьей в Бирмингем	page/3/index.html	/^          <h2 class="post-title"><a href="https:\/\/omnster.github.io\/post\/digest_2018-07-09\//;"	i
+Как мы ездили семьей в Бирмингем	post/digest_2018-07-09/index.html	/^          <h2 class="post-title"><a href="https:\/\/omnster.github.io\/post\/digest_2018-07-09\//;"	i
+Как мы ездили семьей в Бирмингем	post/page/3/index.html	/^          <h2 class="post-title"><a href="https:\/\/omnster.github.io\/post\/digest_2018-07-09\//;"	i
+Как мы ездили семьей в Бирмингем	tags/jabloki-na-snegu-rozovie-na-belom/index.html	/^          <h2 class="post-title"><a href="https:\/\/omnster.github.io\/post\/digest_2018-07-09\//;"	i
+Как я провел выходные	post/weekend/index.html	/^          <h1 class="post-title"><a href="https:\/\/omnster.github.io\/post\/weekend\/">Как я/;"	h
+Карантин I	categories/qrntn/index.html	/^          <h2 class="post-title"><a href="https:\/\/omnster.github.io\/post\/2020-03-24\/">Кар/;"	i
+Карантин I	index.html	/^          <h2 class="post-title"><a href="https:\/\/omnster.github.io\/post\/2020-03-24\/">Кар/;"	i
+Карантин I	post/2020-03-24/index.html	/^          <h2 class="post-title"><a href="https:\/\/omnster.github.io\/post\/2020-03-24\/">Кар/;"	i
+Карантин I	post/index.html	/^          <h2 class="post-title"><a href="https:\/\/omnster.github.io\/post\/2020-03-24\/">Кар/;"	i
+Карантин I	tags/zakaliajsja-esli-khochesh-bity-zdorov-postarajsia-pozabyti-pro-doktoroff/index.html	/^          <h2 class="post-title"><a href="https:\/\/omnster.github.io\/post\/2020-03-24\/">Кар/;"	i
+Карантин II	index.html	/^          <h2 class="post-title"><a href="https:\/\/omnster.github.io\/post\/2020-05-10\/">Кар/;"	i
+Карантин II	post/2020-05-10/index.html	/^          <h2 class="post-title"><a href="https:\/\/omnster.github.io\/post\/2020-05-10\/">Кар/;"	i
+Карантин II	post/index.html	/^          <h2 class="post-title"><a href="https:\/\/omnster.github.io\/post\/2020-05-10\/">Кар/;"	i
+Карантин II	tags/temnaja-noch-toliko-puli-svistyat-u-viska/index.html	/^          <h2 class="post-title"><a href="https:\/\/omnster.github.io\/post\/2020-05-10\/">Кар/;"	i
+Карррантин III	index.html	/^          <h2 class="post-title"><a href="https:\/\/omnster.github.io\/post\/%D0%BA%D0%B0%D1%80%/;"	i
+Карррантин III	post/index.html	/^          <h2 class="post-title"><a href="https:\/\/omnster.github.io\/post\/%D0%BA%D0%B0%D1%80%/;"	i
+Карррантин III	post/карррантин/index.html	/^          <h2 class="post-title"><a href="https:\/\/omnster.github.io\/post\/%D0%BA%D0%B0%D1%80%/;"	i
+Карррантин III	tags/nasha-sluzhba-i-opasna-i-trudna-i-na-pierviy-vzgliad-kak-budto-ne-vidna/index.html	/^          <h2 class="post-title"><a href="https:\/\/omnster.github.io\/post\/%D0%BA%D0%B0%D1%80%/;"	i
+Кефирчик	page/7/index.html	/^          <h2 class="post-title"><a href="https:\/\/omnster.github.io\/post\/kefir\/">Кефир/;"	i
+Кефирчик	post/kefir/index.html	/^          <h2 class="post-title"><a href="https:\/\/omnster.github.io\/post\/kefir\/">Кефир/;"	i
+Кефирчик	post/page/7/index.html	/^          <h2 class="post-title"><a href="https:\/\/omnster.github.io\/post\/kefir\/">Кефир/;"	i
+Кефирчик	tags/words/index.html	/^          <h2 class="post-title"><a href="https:\/\/omnster.github.io\/post\/kefir\/">Кефир/;"	i
+Классные парни	page/5/index.html	/^          <h2 class="post-title"><a href="https:\/\/omnster.github.io\/post\/klassnkh_parney\/">/;"	i
+Классные парни	post/klassnkh_parney/index.html	/^          <h2 class="post-title"><a href="https:\/\/omnster.github.io\/post\/klassnkh_parney\/">/;"	i
+Классные парни	post/page/5/index.html	/^          <h2 class="post-title"><a href="https:\/\/omnster.github.io\/post\/klassnkh_parney\/">/;"	i
+Классные парни	tags/speech/index.html	/^          <h2 class="post-title"><a href="https:\/\/omnster.github.io\/post\/klassnkh_parney\/">/;"	i
+Культура	categories/digest/index.html	/^<h3 id="культура">Культура<\/h3>$/;"	j
+Культура	page/2/index.html	/^<h3 id="культура">Культура<\/h3>$/;"	j
+Культура	post/digest_2019-01-17/index.html	/^<h3 id="культура">Культура<\/h3>$/;"	j
+Культура	post/page/2/index.html	/^<h3 id="культура">Культура<\/h3>$/;"	j
+Культура	tags/jei-khvatit-odnoi-intonatsii-khvatit-chtob-plamja-do-njeba-razhzhech/index.html	/^<h3 id="культура">Культура<\/h3>$/;"	j
+Лампочка	page/4/index.html	/^<h3 id="лампочка">Лампочка<\/h3>$/;"	j
+Лампочка	post/hidenseek/index.html	/^<h3 id="лампочка">Лампочка<\/h3>$/;"	j
+Лампочка	post/page/4/index.html	/^<h3 id="лампочка">Лампочка<\/h3>$/;"	j
+Лампочка	tags/digest/index.html	/^<h3 id="лампочка">Лампочка<\/h3>$/;"	j
+Лампочка	tags/vezi-menya-olen/index.html	/^<h3 id="лампочка">Лампочка<\/h3>$/;"	j
+Лето I	index.html	/^          <h2 class="post-title"><a href="https:\/\/omnster.github.io\/post\/2020-07-21\/">Лет/;"	i
+Лето I	post/2020-07-21/index.html	/^          <h2 class="post-title"><a href="https:\/\/omnster.github.io\/post\/2020-07-21\/">Лет/;"	i
+Лето I	post/index.html	/^          <h2 class="post-title"><a href="https:\/\/omnster.github.io\/post\/2020-07-21\/">Лет/;"	i
+Лето I	tags/ogromnoe-nebo-ogromnoe-nebo-ogromnoe-nebo-odno-na-dvoikh/index.html	/^          <h2 class="post-title"><a href="https:\/\/omnster.github.io\/post\/2020-07-21\/">Лет/;"	i
+Лето II	categories/digest/index.html	/^          <h2 class="post-title"><a href="https:\/\/omnster.github.io\/post\/2020-08-14\/">Лет/;"	i
+Лето II	index.html	/^          <h2 class="post-title"><a href="https:\/\/omnster.github.io\/post\/2020-08-14\/">Лет/;"	i
+Лето II	post/2020-08-14/index.html	/^          <h2 class="post-title"><a href="https:\/\/omnster.github.io\/post\/2020-08-14\/">Лет/;"	i
+Лето II	post/index.html	/^          <h2 class="post-title"><a href="https:\/\/omnster.github.io\/post\/2020-08-14\/">Лет/;"	i
+Лето II	tags/bielyi-aist-lietit-nad-beliosim-polesiem-letit/index.html	/^          <h2 class="post-title"><a href="https:\/\/omnster.github.io\/post\/2020-08-14\/">Лет/;"	i
+Мальчик и его Экскаватор	page/6/index.html	/^          <h2 class="post-title"><a href="https:\/\/omnster.github.io\/post\/excavator-2\/">Ма/;"	i
+Мальчик и его Экскаватор	post/excavator-2/index.html	/^          <h2 class="post-title"><a href="https:\/\/omnster.github.io\/post\/excavator-2\/">Ма/;"	i
+Мальчик и его Экскаватор	post/page/6/index.html	/^          <h2 class="post-title"><a href="https:\/\/omnster.github.io\/post\/excavator-2\/">Ма/;"	i
+Мальчик и его Экскаватор	tags/games/index.html	/^          <h2 class="post-title"><a href="https:\/\/omnster.github.io\/post\/excavator-2\/">Ма/;"	i
+Мальчик и его Экскаватор	tags/machinae-supremacy/index.html	/^          <h2 class="post-title"><a href="https:\/\/omnster.github.io\/post\/excavator-2\/">Ма/;"	i
+Мамуля, хлопай в ладошки!	page/6/index.html	/^          <h2 class="post-title"><a href="https:\/\/omnster.github.io\/post\/april\/">Мамул/;"	i
+Мамуля, хлопай в ладошки!	post/april/index.html	/^          <h2 class="post-title"><a href="https:\/\/omnster.github.io\/post\/april\/">Мамул/;"	i
+Мамуля, хлопай в ладошки!	post/page/6/index.html	/^          <h2 class="post-title"><a href="https:\/\/omnster.github.io\/post\/april\/">Мамул/;"	i
+Мамуля, хлопай в ладошки!	tags/misc/index.html	/^          <h2 class="post-title"><a href="https:\/\/omnster.github.io\/post\/april\/">Мамул/;"	i
+Можно вас попросить	page/7/index.html	/^          <h2 class="post-title"><a href="https:\/\/omnster.github.io\/post\/je-ne-parle\/">Мо/;"	i
+Можно вас попросить	post/je ne parle/index.html	/^          <h1 class="post-title"><a href="https:\/\/omnster.github.io\/post\/je%20ne%20parle\/">/;"	h
+Можно вас попросить	post/je-ne-parle/index.html	/^          <h2 class="post-title"><a href="https:\/\/omnster.github.io\/post\/je-ne-parle\/">Мо/;"	i
+Можно вас попросить	post/page/7/index.html	/^          <h2 class="post-title"><a href="https:\/\/omnster.github.io\/post\/je-ne-parle\/">Мо/;"	i
+Можно вас попросить	tags/phrases/index.html	/^          <h2 class="post-title"><a href="https:\/\/omnster.github.io\/post\/je-ne-parle\/">Мо/;"	i
+Можно вас попросить	tags/words/index.html	/^          <h2 class="post-title"><a href="https:\/\/omnster.github.io\/post\/je-ne-parle\/">Мо/;"	i
+Нам пишут - 1	page/5/index.html	/^          <h2 class="post-title"><a href="https:\/\/omnster.github.io\/post\/mom\/">Нам пиш/;"	i
+Нам пишут - 1	post/mom/index.html	/^          <h2 class="post-title"><a href="https:\/\/omnster.github.io\/post\/mom\/">Нам пиш/;"	i
+Нам пишут - 1	post/page/5/index.html	/^          <h2 class="post-title"><a href="https:\/\/omnster.github.io\/post\/mom\/">Нам пиш/;"	i
+Нам пишут - 1	tags/guest/index.html	/^          <h2 class="post-title"><a href="https:\/\/omnster.github.io\/post\/mom\/">Нам пиш/;"	i
+Нам пишут - 1	tags/mamulia/index.html	/^          <h2 class="post-title"><a href="https:\/\/omnster.github.io\/post\/mom\/">Нам пиш/;"	i
+Нам пишут - 2	page/3/index.html	/^          <h2 class="post-title"><a href="https:\/\/omnster.github.io\/post\/ulia\/">Нам пи/;"	i
+Нам пишут - 2	post/page/3/index.html	/^          <h2 class="post-title"><a href="https:\/\/omnster.github.io\/post\/ulia\/">Нам пи/;"	i
+Нам пишут - 2	post/ulia/index.html	/^          <h2 class="post-title"><a href="https:\/\/omnster.github.io\/post\/ulia\/">Нам пи/;"	i
+Нам пишут - 2	tags/guest/index.html	/^          <h2 class="post-title"><a href="https:\/\/omnster.github.io\/post\/ulia\/">Нам пи/;"	i
+Нам пишут - 2	tags/mamulia/index.html	/^          <h2 class="post-title"><a href="https:\/\/omnster.github.io\/post\/ulia\/">Нам пи/;"	i
+Немножко об уменьшительно-ласкательных и всем остальном	page/4/index.html	/^          <h2 class="post-title"><a href="https:\/\/omnster.github.io\/post\/laskat\/">Немно/;"	i
+Немножко об уменьшительно-ласкательных и всем остальном	post/laskat/index.html	/^          <h2 class="post-title"><a href="https:\/\/omnster.github.io\/post\/laskat\/">Немно/;"	i
+Немножко об уменьшительно-ласкательных и всем остальном	post/page/4/index.html	/^          <h2 class="post-title"><a href="https:\/\/omnster.github.io\/post\/laskat\/">Немно/;"	i
+Немножко об уменьшительно-ласкательных и всем остальном	tags/language/index.html	/^          <h2 class="post-title"><a href="https:\/\/omnster.github.io\/post\/laskat\/">Немно/;"	i
+Немножко об уменьшительно-ласкательных и всем остальном	tags/obnimashki/index.html	/^          <h2 class="post-title"><a href="https:\/\/omnster.github.io\/post\/laskat\/">Немно/;"	i
+Немножко об уменьшительно-ласкательных и всем остальном	tags/speech/index.html	/^          <h2 class="post-title"><a href="https:\/\/omnster.github.io\/post\/laskat\/">Немно/;"	i
+Нигилист	page/5/index.html	/^<h3 id="нигилист">Нигилист<\/h3>$/;"	j
+Нигилист	post/druzhisctche/index.html	/^<h3 id="нигилист">Нигилист<\/h3>$/;"	j
+Нигилист	post/page/5/index.html	/^<h3 id="нигилист">Нигилист<\/h3>$/;"	j
+Нигилист	tags/excavator/index.html	/^<h3 id="нигилист">Нигилист<\/h3>$/;"	j
+Нигилист	tags/speech/index.html	/^<h3 id="нигилист">Нигилист<\/h3>$/;"	j
+Нигилист	tags/zoo/index.html	/^<h3 id="нигилист">Нигилист<\/h3>$/;"	j
+Нигилист, Зоопарк и Экскаватор	page/5/index.html	/^          <h2 class="post-title"><a href="https:\/\/omnster.github.io\/post\/druzhisctche\/">Ни/;"	i
+Нигилист, Зоопарк и Экскаватор	post/druzhisctche/index.html	/^          <h2 class="post-title"><a href="https:\/\/omnster.github.io\/post\/druzhisctche\/">Ни/;"	i
+Нигилист, Зоопарк и Экскаватор	post/page/5/index.html	/^          <h2 class="post-title"><a href="https:\/\/omnster.github.io\/post\/druzhisctche\/">Ни/;"	i
+Нигилист, Зоопарк и Экскаватор	tags/excavator/index.html	/^          <h2 class="post-title"><a href="https:\/\/omnster.github.io\/post\/druzhisctche\/">Ни/;"	i
+Нигилист, Зоопарк и Экскаватор	tags/speech/index.html	/^          <h2 class="post-title"><a href="https:\/\/omnster.github.io\/post\/druzhisctche\/">Ни/;"	i
+Нигилист, Зоопарк и Экскаватор	tags/zoo/index.html	/^          <h2 class="post-title"><a href="https:\/\/omnster.github.io\/post\/druzhisctche\/">Ни/;"	i
+Один день из жизни	page/5/index.html	/^          <h2 class="post-title"><a href="https:\/\/omnster.github.io\/post\/one_day\/">Один/;"	i
+Один день из жизни	post/milota/index.html	/^          <h1 class="post-title"><a href="https:\/\/omnster.github.io\/post\/milota\/">Один /;"	h
+Один день из жизни	post/one_day/index.html	/^          <h2 class="post-title"><a href="https:\/\/omnster.github.io\/post\/one_day\/">Один/;"	i
+Один день из жизни	post/page/5/index.html	/^          <h2 class="post-title"><a href="https:\/\/omnster.github.io\/post\/one_day\/">Один/;"	i
+Один день из жизни	tags/misc/index.html	/^          <h2 class="post-title"><a href="https:\/\/omnster.github.io\/post\/one_day\/">Один/;"	i
+Один день из жизни	tags/one-day/index.html	/^          <h2 class="post-title"><a href="https:\/\/omnster.github.io\/post\/one_day\/">Один/;"	i
+Пойдем выигрывать	page/3/index.html	/^<h3 id="пойдем-выигрывать">Пойдем выигрывать<\/h3>$/;"	j
+Пойдем выигрывать	post/page/3/index.html	/^<h3 id="пойдем-выигрывать">Пойдем выигрывать<\/h3>$/;"	j
+Пойдем выигрывать	post/ulia/index.html	/^<h3 id="пойдем-выигрывать">Пойдем выигрывать<\/h3>$/;"	j
+Пойдем выигрывать	tags/guest/index.html	/^<h3 id="пойдем-выигрывать">Пойдем выигрывать<\/h3>$/;"	j
+Пойдем выигрывать	tags/mamulia/index.html	/^<h3 id="пойдем-выигрывать">Пойдем выигрывать<\/h3>$/;"	j
+Помолчим	page/4/index.html	/^          <h2 class="post-title"><a href="https:\/\/omnster.github.io\/post\/shutup\/">Помол/;"	i
+Помолчим	post/page/4/index.html	/^          <h2 class="post-title"><a href="https:\/\/omnster.github.io\/post\/shutup\/">Помол/;"	i
+Помолчим	post/shutup/index.html	/^          <h2 class="post-title"><a href="https:\/\/omnster.github.io\/post\/shutup\/">Помол/;"	i
+Помолчим	tags/budet-zemlya-krasivoy-i-molodoy/index.html	/^          <h2 class="post-title"><a href="https:\/\/omnster.github.io\/post\/shutup\/">Помол/;"	i
+Помолчим	tags/digest/index.html	/^          <h2 class="post-title"><a href="https:\/\/omnster.github.io\/post\/shutup\/">Помол/;"	i
+Потом придумаю	categories/annual/index.html	/^  <h1 class="site-title"><a href="https:\/\/omnster.github.io\/">Потом придумаю<\/a/;"	h
+Потом придумаю	categories/digest/index.html	/^  <h1 class="site-title"><a href="https:\/\/omnster.github.io\/">Потом придумаю<\/a/;"	h
+Потом придумаю	categories/digest/page/2/index.html	/^  <h1 class="site-title"><a href="https:\/\/omnster.github.io\/">Потом придумаю<\/a/;"	h
+Потом придумаю	categories/doge/index.html	/^  <h1 class="site-title"><a href="https:\/\/omnster.github.io\/">Потом придумаю<\/a/;"	h
+Потом придумаю	categories/emotions/index.html	/^  <h1 class="site-title"><a href="https:\/\/omnster.github.io\/">Потом придумаю<\/a/;"	h
+Потом придумаю	categories/engine/index.html	/^  <h1 class="site-title"><a href="https:\/\/omnster.github.io\/">Потом придумаю<\/a/;"	h
+Потом придумаю	categories/experiences/index.html	/^  <h1 class="site-title"><a href="https:\/\/omnster.github.io\/">Потом придумаю<\/a/;"	h
+Потом придумаю	categories/index.html	/^  <h1 class="site-title"><a href="https:\/\/omnster.github.io\/">Потом придумаю<\/a/;"	h
+Потом придумаю	categories/myself/index.html	/^  <h1 class="site-title"><a href="https:\/\/omnster.github.io\/">Потом придумаю<\/a/;"	h
+Потом придумаю	categories/qrntn/index.html	/^  <h1 class="site-title"><a href="https:\/\/omnster.github.io\/">Потом придумаю<\/a/;"	h
+Потом придумаю	categories/tales/index.html	/^  <h1 class="site-title"><a href="https:\/\/omnster.github.io\/">Потом придумаю<\/a/;"	h
+Потом придумаю	index.html	/^  <h1 class="site-title"><a href="https:\/\/omnster.github.io\/">Потом придумаю<\/a/;"	h
+Потом придумаю	page/2/index.html	/^  <h1 class="site-title"><a href="https:\/\/omnster.github.io\/">Потом придумаю<\/a/;"	h
+Потом придумаю	page/3/index.html	/^  <h1 class="site-title"><a href="https:\/\/omnster.github.io\/">Потом придумаю<\/a/;"	h
+Потом придумаю	page/4/index.html	/^  <h1 class="site-title"><a href="https:\/\/omnster.github.io\/">Потом придумаю<\/a/;"	h
+Потом придумаю	page/5/index.html	/^  <h1 class="site-title"><a href="https:\/\/omnster.github.io\/">Потом придумаю<\/a/;"	h
+Потом придумаю	page/6/index.html	/^  <h1 class="site-title"><a href="https:\/\/omnster.github.io\/">Потом придумаю<\/a/;"	h
+Потом придумаю	page/7/index.html	/^  <h1 class="site-title"><a href="https:\/\/omnster.github.io\/">Потом придумаю<\/a/;"	h
+Потом придумаю	post/17_august/index.html	/^  <h1 class="site-title"><a href="https:\/\/omnster.github.io\/">Потом придумаю<\/a/;"	h
+Потом придумаю	post/2017-09-18/index.html	/^  <h1 class="site-title"><a href="https:\/\/omnster.github.io\/">Потом придумаю<\/a/;"	h
+Потом придумаю	post/2017-10-09/index.html	/^  <h1 class="site-title"><a href="https:\/\/omnster.github.io\/">Потом придумаю<\/a/;"	h
+Потом придумаю	post/2018-05-28/index.html	/^  <h1 class="site-title"><a href="https:\/\/omnster.github.io\/">Потом придумаю<\/a/;"	h
+Потом придумаю	post/2018-06-11/index.html	/^  <h1 class="site-title"><a href="https:\/\/omnster.github.io\/">Потом придумаю<\/a/;"	h
+Потом придумаю	post/2018-11-04/index.html	/^  <h1 class="site-title"><a href="https:\/\/omnster.github.io\/">Потом придумаю<\/a/;"	h
+Потом придумаю	post/2020-03-24/index.html	/^  <h1 class="site-title"><a href="https:\/\/omnster.github.io\/">Потом придумаю<\/a/;"	h
+Потом придумаю	post/2020-05-10/index.html	/^  <h1 class="site-title"><a href="https:\/\/omnster.github.io\/">Потом придумаю<\/a/;"	h
+Потом придумаю	post/2020-07-21/index.html	/^  <h1 class="site-title"><a href="https:\/\/omnster.github.io\/">Потом придумаю<\/a/;"	h
+Потом придумаю	post/2020-08-14/index.html	/^  <h1 class="site-title"><a href="https:\/\/omnster.github.io\/">Потом придумаю<\/a/;"	h
+Потом придумаю	post/31/index.html	/^  <h1 class="site-title"><a href="https:\/\/omnster.github.io\/">Потом придумаю<\/a/;"	h
+Потом придумаю	post/april/index.html	/^  <h1 class="site-title"><a href="https:\/\/omnster.github.io\/">Потом придумаю<\/a/;"	h
+Потом придумаю	post/april_2/index.html	/^  <h1 class="site-title"><a href="https:\/\/omnster.github.io\/">Потом придумаю<\/a/;"	h
+Потом придумаю	post/badass/index.html	/^  <h1 class="site-title"><a href="https:\/\/omnster.github.io\/">Потом придумаю<\/a/;"	h
+Потом придумаю	post/beg/index.html	/^  <h1 class="site-title"><a href="https:\/\/omnster.github.io\/">Потом придумаю<\/a/;"	h
+Потом придумаю	post/boundaries/index.html	/^  <h1 class="site-title"><a href="https:\/\/omnster.github.io\/">Потом придумаю<\/a/;"	h
+Потом придумаю	post/da-ili-net/index.html	/^  <h1 class="site-title"><a href="https:\/\/omnster.github.io\/">Потом придумаю<\/a/;"	h
+Потом придумаю	post/digest/index.html	/^  <h1 class="site-title"><a href="https:\/\/omnster.github.io\/">Потом придумаю<\/a/;"	h
+Потом придумаю	post/digest_2018-07-09/index.html	/^  <h1 class="site-title"><a href="https:\/\/omnster.github.io\/">Потом придумаю<\/a/;"	h
+Потом придумаю	post/digest_2018-10-25/index.html	/^  <h1 class="site-title"><a href="https:\/\/omnster.github.io\/">Потом придумаю<\/a/;"	h
+Потом придумаю	post/digest_2019-01-17/index.html	/^  <h1 class="site-title"><a href="https:\/\/omnster.github.io\/">Потом придумаю<\/a/;"	h
+Потом придумаю	post/druzhisctche/index.html	/^  <h1 class="site-title"><a href="https:\/\/omnster.github.io\/">Потом придумаю<\/a/;"	h
+Потом придумаю	post/endofjune/index.html	/^  <h1 class="site-title"><a href="https:\/\/omnster.github.io\/">Потом придумаю<\/a/;"	h
+Потом придумаю	post/endofmay/index.html	/^  <h1 class="site-title"><a href="https:\/\/omnster.github.io\/">Потом придумаю<\/a/;"	h
+Потом придумаю	post/excavator-2/index.html	/^  <h1 class="site-title"><a href="https:\/\/omnster.github.io\/">Потом придумаю<\/a/;"	h
+Потом придумаю	post/excavator/index.html	/^  <h1 class="site-title"><a href="https:\/\/omnster.github.io\/">Потом придумаю<\/a/;"	h
+Потом придумаю	post/frustratio/index.html	/^  <h1 class="site-title"><a href="https:\/\/omnster.github.io\/">Потом придумаю<\/a/;"	h
+Потом придумаю	post/good_day/index.html	/^  <h1 class="site-title"><a href="https:\/\/omnster.github.io\/">Потом придумаю<\/a/;"	h
+Потом придумаю	post/guards guards/index.html	/^  <h1 class="site-title"><a href="https:\/\/omnster.github.io\/">Потом придумаю<\/a/;"	h
+Потом придумаю	post/guards-guards/index.html	/^  <h1 class="site-title"><a href="https:\/\/omnster.github.io\/">Потом придумаю<\/a/;"	h
+Потом придумаю	post/hidenseek/index.html	/^  <h1 class="site-title"><a href="https:\/\/omnster.github.io\/">Потом придумаю<\/a/;"	h
+Потом придумаю	post/hts_dec_2017/index.html	/^  <h1 class="site-title"><a href="https:\/\/omnster.github.io\/">Потом придумаю<\/a/;"	h
+Потом придумаю	post/index.html	/^  <h1 class="site-title"><a href="https:\/\/omnster.github.io\/">Потом придумаю<\/a/;"	h
+Потом придумаю	post/introduction/index.html	/^  <h1 class="site-title"><a href="https:\/\/omnster.github.io\/">Потом придумаю<\/a/;"	h
+Потом придумаю	post/iv/index.html	/^  <h1 class="site-title"><a href="https:\/\/omnster.github.io\/">Потом придумаю<\/a/;"	h
+Потом придумаю	post/je ne parle/index.html	/^  <h1 class="site-title"><a href="https:\/\/omnster.github.io\/">Потом придумаю<\/a/;"	h
+Потом придумаю	post/je-ne-parle/index.html	/^  <h1 class="site-title"><a href="https:\/\/omnster.github.io\/">Потом придумаю<\/a/;"	h
+Потом придумаю	post/kairat/index.html	/^  <h1 class="site-title"><a href="https:\/\/omnster.github.io\/">Потом придумаю<\/a/;"	h
+Потом придумаю	post/kefir/index.html	/^  <h1 class="site-title"><a href="https:\/\/omnster.github.io\/">Потом придумаю<\/a/;"	h
+Потом придумаю	post/klassnkh_parney/index.html	/^  <h1 class="site-title"><a href="https:\/\/omnster.github.io\/">Потом придумаю<\/a/;"	h
+Потом придумаю	post/kompromiss/index.html	/^  <h1 class="site-title"><a href="https:\/\/omnster.github.io\/">Потом придумаю<\/a/;"	h
+Потом придумаю	post/language/index.html	/^  <h1 class="site-title"><a href="https:\/\/omnster.github.io\/">Потом придумаю<\/a/;"	h
+Потом придумаю	post/laskat/index.html	/^  <h1 class="site-title"><a href="https:\/\/omnster.github.io\/">Потом придумаю<\/a/;"	h
+Потом придумаю	post/milota/index.html	/^  <h1 class="site-title"><a href="https:\/\/omnster.github.io\/">Потом придумаю<\/a/;"	h
+Потом придумаю	post/mom/index.html	/^  <h1 class="site-title"><a href="https:\/\/omnster.github.io\/">Потом придумаю<\/a/;"	h
+Потом придумаю	post/music/index.html	/^  <h1 class="site-title"><a href="https:\/\/omnster.github.io\/">Потом придумаю<\/a/;"	h
+Потом придумаю	post/nosochki/index.html	/^  <h1 class="site-title"><a href="https:\/\/omnster.github.io\/">Потом придумаю<\/a/;"	h
+Потом придумаю	post/one_day/index.html	/^  <h1 class="site-title"><a href="https:\/\/omnster.github.io\/">Потом придумаю<\/a/;"	h
+Потом придумаю	post/orchard/index.html	/^  <h1 class="site-title"><a href="https:\/\/omnster.github.io\/">Потом придумаю<\/a/;"	h
+Потом придумаю	post/organ/index.html	/^  <h1 class="site-title"><a href="https:\/\/omnster.github.io\/">Потом придумаю<\/a/;"	h
+Потом придумаю	post/page/2/index.html	/^  <h1 class="site-title"><a href="https:\/\/omnster.github.io\/">Потом придумаю<\/a/;"	h
+Потом придумаю	post/page/3/index.html	/^  <h1 class="site-title"><a href="https:\/\/omnster.github.io\/">Потом придумаю<\/a/;"	h
+Потом придумаю	post/page/4/index.html	/^  <h1 class="site-title"><a href="https:\/\/omnster.github.io\/">Потом придумаю<\/a/;"	h
+Потом придумаю	post/page/5/index.html	/^  <h1 class="site-title"><a href="https:\/\/omnster.github.io\/">Потом придумаю<\/a/;"	h
+Потом придумаю	post/page/6/index.html	/^  <h1 class="site-title"><a href="https:\/\/omnster.github.io\/">Потом придумаю<\/a/;"	h
+Потом придумаю	post/page/7/index.html	/^  <h1 class="site-title"><a href="https:\/\/omnster.github.io\/">Потом придумаю<\/a/;"	h
+Потом придумаю	post/prodolzhim/index.html	/^  <h1 class="site-title"><a href="https:\/\/omnster.github.io\/">Потом придумаю<\/a/;"	h
+Потом придумаю	post/red/index.html	/^  <h1 class="site-title"><a href="https:\/\/omnster.github.io\/">Потом придумаю<\/a/;"	h
+Потом придумаю	post/running/index.html	/^  <h1 class="site-title"><a href="https:\/\/omnster.github.io\/">Потом придумаю<\/a/;"	h
+Потом придумаю	post/shutup/index.html	/^  <h1 class="site-title"><a href="https:\/\/omnster.github.io\/">Потом придумаю<\/a/;"	h
+Потом придумаю	post/sick/index.html	/^  <h1 class="site-title"><a href="https:\/\/omnster.github.io\/">Потом придумаю<\/a/;"	h
+Потом придумаю	post/sleep/index.html	/^  <h1 class="site-title"><a href="https:\/\/omnster.github.io\/">Потом придумаю<\/a/;"	h
+Потом придумаю	post/sobaken/index.html	/^  <h1 class="site-title"><a href="https:\/\/omnster.github.io\/">Потом придумаю<\/a/;"	h
+Потом придумаю	post/sosiska/index.html	/^  <h1 class="site-title"><a href="https:\/\/omnster.github.io\/">Потом придумаю<\/a/;"	h
+Потом придумаю	post/sranda/index.html	/^  <h1 class="site-title"><a href="https:\/\/omnster.github.io\/">Потом придумаю<\/a/;"	h
+Потом придумаю	post/streams/index.html	/^  <h1 class="site-title"><a href="https:\/\/omnster.github.io\/">Потом придумаю<\/a/;"	h
+Потом придумаю	post/technical-update/index.html	/^  <h1 class="site-title"><a href="https:\/\/omnster.github.io\/">Потом придумаю<\/a/;"	h
+Потом придумаю	post/ulia/index.html	/^  <h1 class="site-title"><a href="https:\/\/omnster.github.io\/">Потом придумаю<\/a/;"	h
+Потом придумаю	post/visatrip/index.html	/^  <h1 class="site-title"><a href="https:\/\/omnster.github.io\/">Потом придумаю<\/a/;"	h
+Потом придумаю	post/weekend/index.html	/^  <h1 class="site-title"><a href="https:\/\/omnster.github.io\/">Потом придумаю<\/a/;"	h
+Потом придумаю	post/words/index.html	/^  <h1 class="site-title"><a href="https:\/\/omnster.github.io\/">Потом придумаю<\/a/;"	h
+Потом придумаю	post/xmas2017/index.html	/^  <h1 class="site-title"><a href="https:\/\/omnster.github.io\/">Потом придумаю<\/a/;"	h
+Потом придумаю	post/карррантин/index.html	/^  <h1 class="site-title"><a href="https:\/\/omnster.github.io\/">Потом придумаю<\/a/;"	h
+Потом придумаю	post/хроника-текущих-событий-апрель-2019/index.html	/^  <h1 class="site-title"><a href="https:\/\/omnster.github.io\/">Потом придумаю<\/a/;"	h
+Потом придумаю	post/хроника-текущих-событий-июль-2019/index.html	/^  <h1 class="site-title"><a href="https:\/\/omnster.github.io\/">Потом придумаю<\/a/;"	h
+Потом придумаю	post/хроника-текущих-событий-март-2019/index.html	/^  <h1 class="site-title"><a href="https:\/\/omnster.github.io\/">Потом придумаю<\/a/;"	h
+Потом придумаю	post/хроника-текущих-событий-сентябрь-2019/index.html	/^  <h1 class="site-title"><a href="https:\/\/omnster.github.io\/">Потом придумаю<\/a/;"	h
+Потом придумаю	post/хроника-текущих-событий-февраль-2019/index.html	/^  <h1 class="site-title"><a href="https:\/\/omnster.github.io\/">Потом придумаю<\/a/;"	h
+Потом придумаю	post/хроника-текущих-событий-январь-2020/index.html	/^  <h1 class="site-title"><a href="https:\/\/omnster.github.io\/">Потом придумаю<\/a/;"	h
+Потом придумаю	tags/a-ljubovi-zolotaya-lestnitsa-bez-peril/index.html	/^  <h1 class="site-title"><a href="https:\/\/omnster.github.io\/">Потом придумаю<\/a/;"	h
+Потом придумаю	tags/a-snitsya-nam-nie-rockot-cosmodroma/index.html	/^  <h1 class="site-title"><a href="https:\/\/omnster.github.io\/">Потом придумаю<\/a/;"	h
+Потом придумаю	tags/akh-kakoye-blazhenstvo-akh-kakoye-blazhenstvo-znati-shto-ti-sovershenstvo-znati-shto-ti-ideal/index.html	/^  <h1 class="site-title"><a href="https:\/\/omnster.github.io\/">Потом придумаю<\/a/;"	h
+Потом придумаю	tags/bielyi-aist-lietit-nad-beliosim-polesiem-letit/index.html	/^  <h1 class="site-title"><a href="https:\/\/omnster.github.io\/">Потом придумаю<\/a/;"	h
+Потом придумаю	tags/budet-zemlya-krasivoy-i-molodoy/index.html	/^  <h1 class="site-title"><a href="https:\/\/omnster.github.io\/">Потом придумаю<\/a/;"	h
+Потом придумаю	tags/church/index.html	/^  <h1 class="site-title"><a href="https:\/\/omnster.github.io\/">Потом придумаю<\/a/;"	h
+Потом придумаю	tags/digest/index.html	/^  <h1 class="site-title"><a href="https:\/\/omnster.github.io\/">Потом придумаю<\/a/;"	h
+Потом придумаю	tags/digest/page/2/index.html	/^  <h1 class="site-title"><a href="https:\/\/omnster.github.io\/">Потом придумаю<\/a/;"	h
+Потом придумаю	tags/excavator/index.html	/^  <h1 class="site-title"><a href="https:\/\/omnster.github.io\/">Потом придумаю<\/a/;"	h
+Потом придумаю	tags/experience/index.html	/^  <h1 class="site-title"><a href="https:\/\/omnster.github.io\/">Потом придумаю<\/a/;"	h
+Потом придумаю	tags/games/index.html	/^  <h1 class="site-title"><a href="https:\/\/omnster.github.io\/">Потом придумаю<\/a/;"	h
+Потом придумаю	tags/guest/index.html	/^  <h1 class="site-title"><a href="https:\/\/omnster.github.io\/">Потом придумаю<\/a/;"	h
+Потом придумаю	tags/i-lenin-takoy-molodoy/index.html	/^  <h1 class="site-title"><a href="https:\/\/omnster.github.io\/">Потом придумаю<\/a/;"	h
+Потом придумаю	tags/index.html	/^  <h1 class="site-title"><a href="https:\/\/omnster.github.io\/">Потом придумаю<\/a/;"	h
+Потом придумаю	tags/into-the-orchard-i-walk-peering-way-past-the-gate/index.html	/^  <h1 class="site-title"><a href="https:\/\/omnster.github.io\/">Потом придумаю<\/a/;"	h
+Потом придумаю	tags/ja-bi-prishol-k-vam-na-svidanie-za-polchasa-do-vesni/index.html	/^  <h1 class="site-title"><a href="https:\/\/omnster.github.io\/">Потом придумаю<\/a/;"	h
+Потом придумаю	tags/jabloki-na-snegu-rozovie-na-belom/index.html	/^  <h1 class="site-title"><a href="https:\/\/omnster.github.io\/">Потом придумаю<\/a/;"	h
+Потом придумаю	tags/jei-khvatit-odnoi-intonatsii-khvatit-chtob-plamja-do-njeba-razhzhech/index.html	/^  <h1 class="site-title"><a href="https:\/\/omnster.github.io\/">Потом придумаю<\/a/;"	h
+Потом придумаю	tags/jesli-pravda-na-vsekh-odna-na-vsekh-i-pechal-odna/index.html	/^  <h1 class="site-title"><a href="https:\/\/omnster.github.io\/">Потом придумаю<\/a/;"	h
+Потом придумаю	tags/language/index.html	/^  <h1 class="site-title"><a href="https:\/\/omnster.github.io\/">Потом придумаю<\/a/;"	h
+Потом придумаю	tags/liubov-komsomol-i-vesna/index.html	/^  <h1 class="site-title"><a href="https:\/\/omnster.github.io\/">Потом придумаю<\/a/;"	h
+Потом придумаю	tags/machinae-supremacy/index.html	/^  <h1 class="site-title"><a href="https:\/\/omnster.github.io\/">Потом придумаю<\/a/;"	h
+Потом придумаю	tags/mamulia/index.html	/^  <h1 class="site-title"><a href="https:\/\/omnster.github.io\/">Потом придумаю<\/a/;"	h
+Потом придумаю	tags/misc/index.html	/^  <h1 class="site-title"><a href="https:\/\/omnster.github.io\/">Потом придумаю<\/a/;"	h
+Потом придумаю	tags/mnie-poniatna-tvoja-vekovaia-pechalj-belovezhskaya-pushtcha/index.html	/^  <h1 class="site-title"><a href="https:\/\/omnster.github.io\/">Потом придумаю<\/a/;"	h
+Потом придумаю	tags/moj-address-ne-dom-i-ne-ulitsa-moj-address-sovietskiy-soiyuz/index.html	/^  <h1 class="site-title"><a href="https:\/\/omnster.github.io\/">Потом придумаю<\/a/;"	h
+Потом придумаю	tags/moj-adres-ne-dom-i-ne-ulitza/index.html	/^  <h1 class="site-title"><a href="https:\/\/omnster.github.io\/">Потом придумаю<\/a/;"	h
+Потом придумаю	tags/morals-and-manners/index.html	/^  <h1 class="site-title"><a href="https:\/\/omnster.github.io\/">Потом придумаю<\/a/;"	h
+Потом придумаю	tags/music/index.html	/^  <h1 class="site-title"><a href="https:\/\/omnster.github.io\/">Потом придумаю<\/a/;"	h
+Потом придумаю	tags/nakoli-mne-kupola/index.html	/^  <h1 class="site-title"><a href="https:\/\/omnster.github.io\/">Потом придумаю<\/a/;"	h
+Потом придумаю	tags/nasha-sluzhba-i-opasna-i-trudna-i-na-pierviy-vzgliad-kak-budto-ne-vidna/index.html	/^  <h1 class="site-title"><a href="https:\/\/omnster.github.io\/">Потом придумаю<\/a/;"	h
+Потом придумаю	tags/ne-dumaj-o-sekundakh-svisoka-nastupit-vremija-sam-pojmesh-navernoe/index.html	/^  <h1 class="site-title"><a href="https:\/\/omnster.github.io\/">Потом придумаю<\/a/;"	h
+Потом придумаю	tags/nichto-na-zemle-ne-prohodit-bessledno/index.html	/^  <h1 class="site-title"><a href="https:\/\/omnster.github.io\/">Потом придумаю<\/a/;"	h
+Потом придумаю	tags/obnimashki/index.html	/^  <h1 class="site-title"><a href="https:\/\/omnster.github.io\/">Потом придумаю<\/a/;"	h
+Потом придумаю	tags/odin-glupij-lesorub-znaete-takogo-zahotel-sebe-tulup-sdelat-bez-portnogo/index.html	/^  <h1 class="site-title"><a href="https:\/\/omnster.github.io\/">Потом придумаю<\/a/;"	h
+Потом придумаю	tags/ogromnoe-nebo-ogromnoe-nebo-ogromnoe-nebo-odno-na-dvoikh/index.html	/^  <h1 class="site-title"><a href="https:\/\/omnster.github.io\/">Потом придумаю<\/a/;"	h
+Потом придумаю	tags/on-okruzhen-liudskoj-molvoj-on-ne-igrushka-on-zhivoj/index.html	/^  <h1 class="site-title"><a href="https:\/\/omnster.github.io\/">Потом придумаю<\/a/;"	h
+Потом придумаю	tags/one-day/index.html	/^  <h1 class="site-title"><a href="https:\/\/omnster.github.io\/">Потом придумаю<\/a/;"	h
+Потом придумаю	tags/otchizne-v-dar-ostanutsja-rabochiej-slavy-stancii/index.html	/^  <h1 class="site-title"><a href="https:\/\/omnster.github.io\/">Потом придумаю<\/a/;"	h
+Потом придумаю	tags/phrases/index.html	/^  <h1 class="site-title"><a href="https:\/\/omnster.github.io\/">Потом придумаю<\/a/;"	h
+Потом придумаю	tags/places/index.html	/^  <h1 class="site-title"><a href="https:\/\/omnster.github.io\/">Потом придумаю<\/a/;"	h
+Потом придумаю	tags/po-pereulkam-brodit-leto-solntse-ljiotsya-priamo-s-krysh/index.html	/^  <h1 class="site-title"><a href="https:\/\/omnster.github.io\/">Потом придумаю<\/a/;"	h
+Потом придумаю	tags/podbjeru-muziku-k-tebje-podbjeru-muziku-k-glazam/index.html	/^  <h1 class="site-title"><a href="https:\/\/omnster.github.io\/">Потом придумаю<\/a/;"	h
+Потом придумаю	tags/pozvoni-mne-pozvoni/index.html	/^  <h1 class="site-title"><a href="https:\/\/omnster.github.io\/">Потом придумаю<\/a/;"	h
+Потом придумаю	tags/predannej-sobaki-veselej-sobaki-laskovej-sobaki-netu-suschchestva/index.html	/^  <h1 class="site-title"><a href="https:\/\/omnster.github.io\/">Потом придумаю<\/a/;"	h
+Потом придумаю	tags/prekrasnoe-daleko-ne-bud-ko-mne-zhestoko/index.html	/^  <h1 class="site-title"><a href="https:\/\/omnster.github.io\/">Потом придумаю<\/a/;"	h
+Потом придумаю	tags/scales-of-justice/index.html	/^  <h1 class="site-title"><a href="https:\/\/omnster.github.io\/">Потом придумаю<\/a/;"	h
+Потом придумаю	tags/shiroka-strana-moya-rodnaya/index.html	/^  <h1 class="site-title"><a href="https:\/\/omnster.github.io\/">Потом придумаю<\/a/;"	h
+Потом придумаю	tags/short/index.html	/^  <h1 class="site-title"><a href="https:\/\/omnster.github.io\/">Потом придумаю<\/a/;"	h
+Потом придумаю	tags/speech/index.html	/^  <h1 class="site-title"><a href="https:\/\/omnster.github.io\/">Потом придумаю<\/a/;"	h
+Потом придумаю	tags/sports/index.html	/^  <h1 class="site-title"><a href="https:\/\/omnster.github.io\/">Потом придумаю<\/a/;"	h
+Потом придумаю	tags/stanj-moei-melodiej-porvannie-struni-ozhivi/index.html	/^  <h1 class="site-title"><a href="https:\/\/omnster.github.io\/">Потом придумаю<\/a/;"	h
+Потом придумаю	tags/temnaja-noch-toliko-puli-svistyat-u-viska/index.html	/^  <h1 class="site-title"><a href="https:\/\/omnster.github.io\/">Потом придумаю<\/a/;"	h
+Потом придумаю	tags/toys/index.html	/^  <h1 class="site-title"><a href="https:\/\/omnster.github.io\/">Потом придумаю<\/a/;"	h
+Потом придумаю	tags/turgenev/index.html	/^  <h1 class="site-title"><a href="https:\/\/omnster.github.io\/">Потом придумаю<\/a/;"	h
+Потом придумаю	tags/uvezu-tebia-ja-v-tundru/index.html	/^  <h1 class="site-title"><a href="https:\/\/omnster.github.io\/">Потом придумаю<\/a/;"	h
+Потом придумаю	tags/uzhe-zoviet-menya-v-poliyot-moj-delitaplan-moj-delitaplan/index.html	/^  <h1 class="site-title"><a href="https:\/\/omnster.github.io\/">Потом придумаю<\/a/;"	h
+Потом придумаю	tags/ves-mir-u-nas-v-rukah-mi-zvezdi-kontinentov/index.html	/^  <h1 class="site-title"><a href="https:\/\/omnster.github.io\/">Потом придумаю<\/a/;"	h
+Потом придумаю	tags/vezi-menya-olen/index.html	/^  <h1 class="site-title"><a href="https:\/\/omnster.github.io\/">Потом придумаю<\/a/;"	h
+Потом придумаю	tags/volny-kholodnoi-reki-nashi-khoroniat-mechty/index.html	/^  <h1 class="site-title"><a href="https:\/\/omnster.github.io\/">Потом придумаю<\/a/;"	h
+Потом придумаю	tags/words/index.html	/^  <h1 class="site-title"><a href="https:\/\/omnster.github.io\/">Потом придумаю<\/a/;"	h
+Потом придумаю	tags/zakaliajsja-esli-khochesh-bity-zdorov-postarajsia-pozabyti-pro-doktoroff/index.html	/^  <h1 class="site-title"><a href="https:\/\/omnster.github.io\/">Потом придумаю<\/a/;"	h
+Потом придумаю	tags/zdravstvuj-zdravstvuj-siyayesh-siyayu-kotorij-tschas-dvenadtsatij-primerno/index.html	/^  <h1 class="site-title"><a href="https:\/\/omnster.github.io\/">Потом придумаю<\/a/;"	h
+Потом придумаю	tags/zoo/index.html	/^  <h1 class="site-title"><a href="https:\/\/omnster.github.io\/">Потом придумаю<\/a/;"	h
+Потом придумаю	tags/zovi-menija-s-soboj-v-stranu-nesbyvshikhsija-snov/index.html	/^  <h1 class="site-title"><a href="https:\/\/omnster.github.io\/">Потом придумаю<\/a/;"	h
+Про кота	categories/digest/index.html	/^<h3 id="про-кота">Про кота<\/h3>$/;"	j
+Про кота	page/2/index.html	/^<h3 id="про-кота">Про кота<\/h3>$/;"	j
+Про кота	post/digest_2019-01-17/index.html	/^<h3 id="про-кота">Про кота<\/h3>$/;"	j
+Про кота	post/page/2/index.html	/^<h3 id="про-кота">Про кота<\/h3>$/;"	j
+Про кота	tags/jei-khvatit-odnoi-intonatsii-khvatit-chtob-plamja-do-njeba-razhzhech/index.html	/^<h3 id="про-кота">Про кота<\/h3>$/;"	j
+Про спрос и предложение	page/4/index.html	/^<h3 id="про-спрос-и-предложение">Про спрос и предложение/;"	j
+Про спрос и предложение	post/page/4/index.html	/^<h3 id="про-спрос-и-предложение">Про спрос и предложение/;"	j
+Про спрос и предложение	post/xmas2017/index.html	/^<h3 id="про-спрос-и-предложение">Про спрос и предложение/;"	j
+Про спрос и предложение	tags/digest/index.html	/^<h3 id="про-спрос-и-предложение">Про спрос и предложение/;"	j
+Про спрос и предложение	tags/shiroka-strana-moya-rodnaya/index.html	/^<h3 id="про-спрос-и-предложение">Про спрос и предложение/;"	j
+Продолжим	page/6/index.html	/^          <h2 class="post-title"><a href="https:\/\/omnster.github.io\/post\/prodolzhim\/">Про/;"	i
+Продолжим	post/page/6/index.html	/^          <h2 class="post-title"><a href="https:\/\/omnster.github.io\/post\/prodolzhim\/">Про/;"	i
+Продолжим	post/prodolzhim/index.html	/^          <h2 class="post-title"><a href="https:\/\/omnster.github.io\/post\/prodolzhim\/">Про/;"	i
+Продолжим	tags/words/index.html	/^          <h2 class="post-title"><a href="https:\/\/omnster.github.io\/post\/prodolzhim\/">Про/;"	i
+Прятки	page/4/index.html	/^				<h3 id="прятки">Прятки<\/h3>$/;"	j
+Прятки	post/hidenseek/index.html	/^            <h3 id="прятки">Прятки<\/h3>$/;"	j
+Прятки	post/page/4/index.html	/^				<h3 id="прятки">Прятки<\/h3>$/;"	j
+Прятки	tags/digest/index.html	/^				<h3 id="прятки">Прятки<\/h3>$/;"	j
+Прятки	tags/vezi-menya-olen/index.html	/^				<h3 id="прятки">Прятки<\/h3>$/;"	j
+Прятки и лампочка	page/4/index.html	/^          <h2 class="post-title"><a href="https:\/\/omnster.github.io\/post\/hidenseek\/">Пря/;"	i
+Прятки и лампочка	post/hidenseek/index.html	/^          <h2 class="post-title"><a href="https:\/\/omnster.github.io\/post\/hidenseek\/">Пря/;"	i
+Прятки и лампочка	post/page/4/index.html	/^          <h2 class="post-title"><a href="https:\/\/omnster.github.io\/post\/hidenseek\/">Пря/;"	i
+Прятки и лампочка	tags/digest/index.html	/^          <h2 class="post-title"><a href="https:\/\/omnster.github.io\/post\/hidenseek\/">Пря/;"	i
+Прятки и лампочка	tags/vezi-menya-olen/index.html	/^          <h2 class="post-title"><a href="https:\/\/omnster.github.io\/post\/hidenseek\/">Пря/;"	i
+Работы по дереву или Мебель из говна и палок	page/2/index.html	/^          <h2 class="post-title"><a href="https:\/\/omnster.github.io\/post\/2018-11-04\/">Раб/;"	i
+Работы по дереву или Мебель из говна и палок	post/2018-11-04/index.html	/^          <h2 class="post-title"><a href="https:\/\/omnster.github.io\/post\/2018-11-04\/">Раб/;"	i
+Работы по дереву или Мебель из говна и палок	post/page/2/index.html	/^          <h2 class="post-title"><a href="https:\/\/omnster.github.io\/post\/2018-11-04\/">Раб/;"	i
+Работы по дереву или Мебель из говна и палок	tags/odin-glupij-lesorub-znaete-takogo-zahotel-sebe-tulup-sdelat-bez-portnogo/index.html	/^          <h2 class="post-title"><a href="https:\/\/omnster.github.io\/post\/2018-11-04\/">Раб/;"	i
+Разное	page/4/index.html	/^<h3 id="разное">Разное<\/h3>$/;"	j
+Разное	post/page/4/index.html	/^<h3 id="разное">Разное<\/h3>$/;"	j
+Разное	post/xmas2017/index.html	/^<h3 id="разное">Разное<\/h3>$/;"	j
+Разное	tags/digest/index.html	/^<h3 id="разное">Разное<\/h3>$/;"	j
+Разное	tags/shiroka-strana-moya-rodnaya/index.html	/^<h3 id="разное">Разное<\/h3>$/;"	j
+Рань Собачья	categories/doge/index.html	/^          <h2 class="post-title"><a href="https:\/\/omnster.github.io\/post\/sobaken\/">Рань/;"	i
+Рань Собачья	index.html	/^          <h2 class="post-title"><a href="https:\/\/omnster.github.io\/post\/sobaken\/">Рань/;"	i
+Рань Собачья	post/index.html	/^          <h2 class="post-title"><a href="https:\/\/omnster.github.io\/post\/sobaken\/">Рань/;"	i
+Рань Собачья	post/sobaken/index.html	/^          <h2 class="post-title"><a href="https:\/\/omnster.github.io\/post\/sobaken\/">Рань/;"	i
+Рань Собачья	tags/predannej-sobaki-veselej-sobaki-laskovej-sobaki-netu-suschchestva/index.html	/^          <h2 class="post-title"><a href="https:\/\/omnster.github.io\/post\/sobaken\/">Рань/;"	i
+Сад	page/2/index.html	/^          <h2 class="post-title"><a href="https:\/\/omnster.github.io\/post\/orchard\/">Сад<\//;"	i
+Сад	post/orchard/index.html	/^          <h2 class="post-title"><a href="https:\/\/omnster.github.io\/post\/orchard\/">Сад<\//;"	i
+Сад	post/page/2/index.html	/^          <h2 class="post-title"><a href="https:\/\/omnster.github.io\/post\/orchard\/">Сад<\//;"	i
+Сад	tags/a-ljubovi-zolotaya-lestnitsa-bez-peril/index.html	/^          <h2 class="post-title"><a href="https:\/\/omnster.github.io\/post\/orchard\/">Сад<\//;"	i
+Сад	tags/into-the-orchard-i-walk-peering-way-past-the-gate/index.html	/^          <h2 class="post-title"><a href="https:\/\/omnster.github.io\/post\/orchard\/">Сад<\//;"	i
+Сад, цирк, язык, труд, май	page/3/index.html	/^          <h2 class="post-title"><a href="https:\/\/omnster.github.io\/post\/language\/">Сад,/;"	i
+Сад, цирк, язык, труд, май	post/language/index.html	/^          <h2 class="post-title"><a href="https:\/\/omnster.github.io\/post\/language\/">Сад,/;"	i
+Сад, цирк, язык, труд, май	post/page/3/index.html	/^          <h2 class="post-title"><a href="https:\/\/omnster.github.io\/post\/language\/">Сад,/;"	i
+Сад, цирк, язык, труд, май	tags/ves-mir-u-nas-v-rukah-mi-zvezdi-kontinentov/index.html	/^          <h2 class="post-title"><a href="https:\/\/omnster.github.io\/post\/language\/">Сад,/;"	i
+Сказки	page/4/index.html	/^<h3 id="сказки">Сказки<\/h3>$/;"	j
+Сказки	post/page/4/index.html	/^<h3 id="сказки">Сказки<\/h3>$/;"	j
+Сказки	post/streams/index.html	/^<h3 id="сказки">Сказки<\/h3>$/;"	j
+Сказки	tags/digest/index.html	/^<h3 id="сказки">Сказки<\/h3>$/;"	j
+Сказки	tags/pozvoni-mne-pozvoni/index.html	/^<h3 id="сказки">Сказки<\/h3>$/;"	j
+Слова	page/7/index.html	/^          <h2 class="post-title"><a href="https:\/\/omnster.github.io\/post\/words\/">Слова/;"	i
+Слова	post/page/7/index.html	/^          <h2 class="post-title"><a href="https:\/\/omnster.github.io\/post\/words\/">Слова/;"	i
+Слова	post/words/index.html	/^          <h2 class="post-title"><a href="https:\/\/omnster.github.io\/post\/words\/">Слова/;"	i
+Смотрите! Смотрите!	page/7/index.html	/^          <h2 class="post-title"><a href="https:\/\/omnster.github.io\/post\/guards-guards\/">С/;"	i
+Смотрите! Смотрите!	post/guards guards/index.html	/^          <h1 class="post-title"><a href="https:\/\/omnster.github.io\/post\/guards%20guards\/">/;"	h
+Смотрите! Смотрите!	post/guards-guards/index.html	/^          <h2 class="post-title"><a href="https:\/\/omnster.github.io\/post\/guards-guards\/">С/;"	i
+Смотрите! Смотрите!	post/page/7/index.html	/^          <h2 class="post-title"><a href="https:\/\/omnster.github.io\/post\/guards-guards\/">С/;"	i
+Смотрите! Смотрите!	tags/words/index.html	/^          <h2 class="post-title"><a href="https:\/\/omnster.github.io\/post\/guards-guards\/">С/;"	i
+Сосиска	categories/tales/index.html	/^          <h2 class="post-title"><a href="https:\/\/omnster.github.io\/post\/sosiska\/">Соси/;"	i
+Сосиска	page/7/index.html	/^          <h2 class="post-title"><a href="https:\/\/omnster.github.io\/post\/sosiska\/">Соси/;"	i
+Сосиска	post/page/7/index.html	/^          <h2 class="post-title"><a href="https:\/\/omnster.github.io\/post\/sosiska\/">Соси/;"	i
+Сосиска	post/sosiska/index.html	/^          <h2 class="post-title"><a href="https:\/\/omnster.github.io\/post\/sosiska\/">Соси/;"	i
+Сранда	index.html	/^          <h2 class="post-title"><a href="https:\/\/omnster.github.io\/post\/sranda\/">Сранд/;"	i
+Сранда	post/index.html	/^          <h2 class="post-title"><a href="https:\/\/omnster.github.io\/post\/sranda\/">Сранд/;"	i
+Сранда	post/sranda/index.html	/^          <h2 class="post-title"><a href="https:\/\/omnster.github.io\/post\/sranda\/">Сранд/;"	i
+Сранда	tags/ne-dumaj-o-sekundakh-svisoka-nastupit-vremija-sam-pojmesh-navernoe/index.html	/^          <h2 class="post-title"><a href="https:\/\/omnster.github.io\/post\/sranda\/">Сранд/;"	i
+Техническое	categories/engine/index.html	/^          <h2 class="post-title"><a href="https:\/\/omnster.github.io\/post\/technical-update\/"/;"	i
+Техническое	page/2/index.html	/^          <h2 class="post-title"><a href="https:\/\/omnster.github.io\/post\/technical-update\/"/;"	i
+Техническое	post/page/2/index.html	/^          <h2 class="post-title"><a href="https:\/\/omnster.github.io\/post\/technical-update\/"/;"	i
+Техническое	post/technical-update/index.html	/^          <h2 class="post-title"><a href="https:\/\/omnster.github.io\/post\/technical-update\/"/;"	i
+Фрустрация	categories/emotions/index.html	/^          <h2 class="post-title"><a href="https:\/\/omnster.github.io\/post\/frustratio\/">Фру/;"	i
+Фрустрация	page/3/index.html	/^          <h2 class="post-title"><a href="https:\/\/omnster.github.io\/post\/frustratio\/">Фру/;"	i
+Фрустрация	post/frustratio/index.html	/^          <h2 class="post-title"><a href="https:\/\/omnster.github.io\/post\/frustratio\/">Фру/;"	i
+Фрустрация	post/page/3/index.html	/^          <h2 class="post-title"><a href="https:\/\/omnster.github.io\/post\/frustratio\/">Фру/;"	i
+Фрустрация	tags/jesli-pravda-na-vsekh-odna-na-vsekh-i-pechal-odna/index.html	/^          <h2 class="post-title"><a href="https:\/\/omnster.github.io\/post\/frustratio\/">Фру/;"	i
+Хороший день	page/7/index.html	/^          <h2 class="post-title"><a href="https:\/\/omnster.github.io\/post\/good_day\/">Хоро/;"	i
+Хороший день	post/good_day/index.html	/^          <h2 class="post-title"><a href="https:\/\/omnster.github.io\/post\/good_day\/">Хоро/;"	i
+Хороший день	post/page/7/index.html	/^          <h2 class="post-title"><a href="https:\/\/omnster.github.io\/post\/good_day\/">Хоро/;"	i
+Хроника Текущих Событий. Май 2018	categories/digest/page/2/index.html	/^          <h2 class="post-title"><a href="https:\/\/omnster.github.io\/post\/2018-05-28\/">Хро/;"	i
+Хроника Текущих Событий. Май 2018	page/3/index.html	/^          <h2 class="post-title"><a href="https:\/\/omnster.github.io\/post\/2018-05-28\/">Хро/;"	i
+Хроника Текущих Событий. Май 2018	post/2018-05-28/index.html	/^          <h2 class="post-title"><a href="https:\/\/omnster.github.io\/post\/2018-05-28\/">Хро/;"	i
+Хроника Текущих Событий. Май 2018	post/page/3/index.html	/^          <h2 class="post-title"><a href="https:\/\/omnster.github.io\/post\/2018-05-28\/">Хро/;"	i
+Хроника Текущих Событий. Май 2018	tags/nichto-na-zemle-ne-prohodit-bessledno/index.html	/^          <h2 class="post-title"><a href="https:\/\/omnster.github.io\/post\/2018-05-28\/">Хро/;"	i
+Хроника Текущих Событий: Апрель 2019	categories/digest/index.html	/^          <h2 class="post-title"><a href="https:\/\/omnster.github.io\/post\/%D1%85%D1%80%D0%BE%/;"	i
+Хроника Текущих Событий: Апрель 2019	page/2/index.html	/^          <h2 class="post-title"><a href="https:\/\/omnster.github.io\/post\/%D1%85%D1%80%D0%BE%/;"	i
+Хроника Текущих Событий: Апрель 2019	post/page/2/index.html	/^          <h2 class="post-title"><a href="https:\/\/omnster.github.io\/post\/%D1%85%D1%80%D0%BE%/;"	i
+Хроника Текущих Событий: Апрель 2019	post/хроника-текущих-событий-апрель-2019/index.html	/^          <h2 class="post-title"><a href="https:\/\/omnster.github.io\/post\/%D1%85%D1%80%D0%BE%/;"	i
+Хроника Текущих Событий: Апрель 2019	tags/zovi-menija-s-soboj-v-stranu-nesbyvshikhsija-snov/index.html	/^          <h2 class="post-title"><a href="https:\/\/omnster.github.io\/post\/%D1%85%D1%80%D0%BE%/;"	i
+Хроника Текущих Событий: Июль 2019	categories/digest/index.html	/^          <h2 class="post-title"><a href="https:\/\/omnster.github.io\/post\/%D1%85%D1%80%D0%BE%/;"	i
+Хроника Текущих Событий: Июль 2019	index.html	/^          <h2 class="post-title"><a href="https:\/\/omnster.github.io\/post\/%D1%85%D1%80%D0%BE%/;"	i
+Хроника Текущих Событий: Июль 2019	post/index.html	/^          <h2 class="post-title"><a href="https:\/\/omnster.github.io\/post\/%D1%85%D1%80%D0%BE%/;"	i
+Хроника Текущих Событий: Июль 2019	post/хроника-текущих-событий-июль-2019/index.html	/^          <h2 class="post-title"><a href="https:\/\/omnster.github.io\/post\/%D1%85%D1%80%D0%BE%/;"	i
+Хроника Текущих Событий: Июль 2019	tags/moj-address-ne-dom-i-ne-ulitsa-moj-address-sovietskiy-soiyuz/index.html	/^          <h2 class="post-title"><a href="https:\/\/omnster.github.io\/post\/%D1%85%D1%80%D0%BE%/;"	i
+Хроника Текущих Событий: Июль 2019	tags/uzhe-zoviet-menya-v-poliyot-moj-delitaplan-moj-delitaplan/index.html	/^          <h2 class="post-title"><a href="https:\/\/omnster.github.io\/post\/%D1%85%D1%80%D0%BE%/;"	i
+Хроника Текущих Событий: Март 2019	categories/digest/index.html	/^          <h2 class="post-title"><a href="https:\/\/omnster.github.io\/post\/%D1%85%D1%80%D0%BE%/;"	i
+Хроника Текущих Событий: Март 2019	page/2/index.html	/^          <h2 class="post-title"><a href="https:\/\/omnster.github.io\/post\/%D1%85%D1%80%D0%BE%/;"	i
+Хроника Текущих Событий: Март 2019	post/page/2/index.html	/^          <h2 class="post-title"><a href="https:\/\/omnster.github.io\/post\/%D1%85%D1%80%D0%BE%/;"	i
+Хроника Текущих Событий: Март 2019	post/хроника-текущих-событий-март-2019/index.html	/^          <h2 class="post-title"><a href="https:\/\/omnster.github.io\/post\/%D1%85%D1%80%D0%BE%/;"	i
+Хроника Текущих Событий: Март 2019	tags/akh-kakoye-blazhenstvo-akh-kakoye-blazhenstvo-znati-shto-ti-sovershenstvo-znati-shto-ti-ideal/index.html	/^          <h2 class="post-title"><a href="https:\/\/omnster.github.io\/post\/%D1%85%D1%80%D0%BE%/;"	i
+Хроника Текущих Событий: Сентябрь 2019	categories/digest/index.html	/^          <h2 class="post-title"><a href="https:\/\/omnster.github.io\/post\/%D1%85%D1%80%D0%BE%/;"	i
+Хроника Текущих Событий: Сентябрь 2019	index.html	/^          <h2 class="post-title"><a href="https:\/\/omnster.github.io\/post\/%D1%85%D1%80%D0%BE%/;"	i
+Хроника Текущих Событий: Сентябрь 2019	post/index.html	/^          <h2 class="post-title"><a href="https:\/\/omnster.github.io\/post\/%D1%85%D1%80%D0%BE%/;"	i
+Хроника Текущих Событий: Сентябрь 2019	post/хроника-текущих-событий-сентябрь-2019/index.html	/^          <h2 class="post-title"><a href="https:\/\/omnster.github.io\/post\/%D1%85%D1%80%D0%BE%/;"	i
+Хроника Текущих Событий: Сентябрь 2019	tags/otchizne-v-dar-ostanutsja-rabochiej-slavy-stancii/index.html	/^          <h2 class="post-title"><a href="https:\/\/omnster.github.io\/post\/%D1%85%D1%80%D0%BE%/;"	i
+Хроника Текущих Событий: Февраль 2019	categories/digest/index.html	/^          <h2 class="post-title"><a href="https:\/\/omnster.github.io\/post\/%D1%85%D1%80%D0%BE%/;"	i
+Хроника Текущих Событий: Февраль 2019	page/2/index.html	/^          <h2 class="post-title"><a href="https:\/\/omnster.github.io\/post\/%D1%85%D1%80%D0%BE%/;"	i
+Хроника Текущих Событий: Февраль 2019	post/page/2/index.html	/^          <h2 class="post-title"><a href="https:\/\/omnster.github.io\/post\/%D1%85%D1%80%D0%BE%/;"	i
+Хроника Текущих Событий: Февраль 2019	post/хроника-текущих-событий-февраль-2019/index.html	/^          <h2 class="post-title"><a href="https:\/\/omnster.github.io\/post\/%D1%85%D1%80%D0%BE%/;"	i
+Хроника Текущих Событий: Февраль 2019	tags/on-okruzhen-liudskoj-molvoj-on-ne-igrushka-on-zhivoj/index.html	/^          <h2 class="post-title"><a href="https:\/\/omnster.github.io\/post\/%D1%85%D1%80%D0%BE%/;"	i
+Хроника Текущих Событий: Январь 2020	categories/digest/index.html	/^          <h2 class="post-title"><a href="https:\/\/omnster.github.io\/post\/%D1%85%D1%80%D0%BE%/;"	i
+Хроника Текущих Событий: Январь 2020	index.html	/^          <h2 class="post-title"><a href="https:\/\/omnster.github.io\/post\/%D1%85%D1%80%D0%BE%/;"	i
+Хроника Текущих Событий: Январь 2020	post/index.html	/^          <h2 class="post-title"><a href="https:\/\/omnster.github.io\/post\/%D1%85%D1%80%D0%BE%/;"	i
+Хроника Текущих Событий: Январь 2020	post/хроника-текущих-событий-январь-2020/index.html	/^          <h2 class="post-title"><a href="https:\/\/omnster.github.io\/post\/%D1%85%D1%80%D0%BE%/;"	i
+Хроника Текущих Событий: Январь 2020	tags/podbjeru-muziku-k-tebje-podbjeru-muziku-k-glazam/index.html	/^          <h2 class="post-title"><a href="https:\/\/omnster.github.io\/post\/%D1%85%D1%80%D0%BE%/;"	i
+Хроника текущих событий: Рождество 2017	page/4/index.html	/^          <h2 class="post-title"><a href="https:\/\/omnster.github.io\/post\/xmas2017\/">Хрон/;"	i
+Хроника текущих событий: Рождество 2017	post/page/4/index.html	/^          <h2 class="post-title"><a href="https:\/\/omnster.github.io\/post\/xmas2017\/">Хрон/;"	i
+Хроника текущих событий: Рождество 2017	post/xmas2017/index.html	/^          <h2 class="post-title"><a href="https:\/\/omnster.github.io\/post\/xmas2017\/">Хрон/;"	i
+Хроника текущих событий: Рождество 2017	tags/digest/index.html	/^          <h2 class="post-title"><a href="https:\/\/omnster.github.io\/post\/xmas2017\/">Хрон/;"	i
+Хроника текущих событий: Рождество 2017	tags/shiroka-strana-moya-rodnaya/index.html	/^          <h2 class="post-title"><a href="https:\/\/omnster.github.io\/post\/xmas2017\/">Хрон/;"	i
+Хроника текущих событий: апрель 2018	categories/digest/page/2/index.html	/^          <h2 class="post-title"><a href="https:\/\/omnster.github.io\/post\/digest\/">Хрони/;"	i
+Хроника текущих событий: апрель 2018	page/3/index.html	/^          <h2 class="post-title"><a href="https:\/\/omnster.github.io\/post\/digest\/">Хрони/;"	i
+Хроника текущих событий: апрель 2018	post/digest/index.html	/^          <h2 class="post-title"><a href="https:\/\/omnster.github.io\/post\/digest\/">Хрони/;"	i
+Хроника текущих событий: апрель 2018	post/page/3/index.html	/^          <h2 class="post-title"><a href="https:\/\/omnster.github.io\/post\/digest\/">Хрони/;"	i
+Хроника текущих событий: апрель 2018	tags/uvezu-tebia-ja-v-tundru/index.html	/^          <h2 class="post-title"><a href="https:\/\/omnster.github.io\/post\/digest\/">Хрони/;"	i
+Хроника текущих событий: декабрь 2017	page/4/index.html	/^          <h2 class="post-title"><a href="https:\/\/omnster.github.io\/post\/hts_dec_2017\/">Хр/;"	i
+Хроника текущих событий: декабрь 2017	post/hts_dec_2017/index.html	/^          <h2 class="post-title"><a href="https:\/\/omnster.github.io\/post\/hts_dec_2017\/">Хр/;"	i
+Хроника текущих событий: декабрь 2017	post/page/4/index.html	/^          <h2 class="post-title"><a href="https:\/\/omnster.github.io\/post\/hts_dec_2017\/">Хр/;"	i
+Хроника текущих событий: декабрь 2017	tags/digest/index.html	/^          <h2 class="post-title"><a href="https:\/\/omnster.github.io\/post\/hts_dec_2017\/">Хр/;"	i
+Хроника текущих событий: декабрь 2017	tags/liubov-komsomol-i-vesna/index.html	/^          <h2 class="post-title"><a href="https:\/\/omnster.github.io\/post\/hts_dec_2017\/">Хр/;"	i
+Хроника текущих событий: декабрь 2017	tags/speech/index.html	/^          <h2 class="post-title"><a href="https:\/\/omnster.github.io\/post\/hts_dec_2017\/">Хр/;"	i
+Хроника текущих событий: июль 2017	page/5/index.html	/^          <h2 class="post-title"><a href="https:\/\/omnster.github.io\/post\/17_august\/">Хро/;"	i
+Хроника текущих событий: июль 2017	post/17_august/index.html	/^          <h2 class="post-title"><a href="https:\/\/omnster.github.io\/post\/17_august\/">Хро/;"	i
+Хроника текущих событий: июль 2017	post/page/5/index.html	/^          <h2 class="post-title"><a href="https:\/\/omnster.github.io\/post\/17_august\/">Хро/;"	i
+Хроника текущих событий: июль 2017	tags/digest/page/2/index.html	/^          <h2 class="post-title"><a href="https:\/\/omnster.github.io\/post\/17_august\/">Хро/;"	i
+Хроника текущих событий: июнь 2018	categories/digest/page/2/index.html	/^          <h2 class="post-title"><a href="https:\/\/omnster.github.io\/post\/2018-06-11\/">Хро/;"	i
+Хроника текущих событий: июнь 2018	page/3/index.html	/^          <h2 class="post-title"><a href="https:\/\/omnster.github.io\/post\/2018-06-11\/">Хро/;"	i
+Хроника текущих событий: июнь 2018	post/2018-06-11/index.html	/^          <h2 class="post-title"><a href="https:\/\/omnster.github.io\/post\/2018-06-11\/">Хро/;"	i
+Хроника текущих событий: июнь 2018	post/page/3/index.html	/^          <h2 class="post-title"><a href="https:\/\/omnster.github.io\/post\/2018-06-11\/">Хро/;"	i
+Хроника текущих событий: июнь 2018	tags/ja-bi-prishol-k-vam-na-svidanie-za-polchasa-do-vesni/index.html	/^          <h2 class="post-title"><a href="https:\/\/omnster.github.io\/post\/2018-06-11\/">Хро/;"	i
+Хроника текущих событий: ноябрь 2017	page/4/index.html	/^          <h2 class="post-title"><a href="https:\/\/omnster.github.io\/post\/red\/">Хроник/;"	i
+Хроника текущих событий: ноябрь 2017	post/page/4/index.html	/^          <h2 class="post-title"><a href="https:\/\/omnster.github.io\/post\/red\/">Хроник/;"	i
+Хроника текущих событий: ноябрь 2017	post/red/index.html	/^          <h2 class="post-title"><a href="https:\/\/omnster.github.io\/post\/red\/">Хроник/;"	i
+Хроника текущих событий: ноябрь 2017	tags/digest/index.html	/^          <h2 class="post-title"><a href="https:\/\/omnster.github.io\/post\/red\/">Хроник/;"	i
+Хроника текущих событий: ноябрь 2017	tags/i-lenin-takoy-molodoy/index.html	/^          <h2 class="post-title"><a href="https:\/\/omnster.github.io\/post\/red\/">Хроник/;"	i
+Хроника текущих событий: ноябрь 2017	tags/short/index.html	/^          <h2 class="post-title"><a href="https:\/\/omnster.github.io\/post\/red\/">Хроник/;"	i
+Хроника текущих событий: октябрь 2017	page/5/index.html	/^          <h2 class="post-title"><a href="https:\/\/omnster.github.io\/post\/2017-10-09\/">Хро/;"	i
+Хроника текущих событий: октябрь 2017	post/2017-10-09/index.html	/^          <h2 class="post-title"><a href="https:\/\/omnster.github.io\/post\/2017-10-09\/">Хро/;"	i
+Хроника текущих событий: октябрь 2017	post/page/5/index.html	/^          <h2 class="post-title"><a href="https:\/\/omnster.github.io\/post\/2017-10-09\/">Хро/;"	i
+Хроника текущих событий: октябрь 2017	tags/digest/index.html	/^          <h2 class="post-title"><a href="https:\/\/omnster.github.io\/post\/2017-10-09\/">Хро/;"	i
+Хроника текущих событий: октябрь 2017 (продолжение)	page/5/index.html	/^          <h2 class="post-title"><a href="https:\/\/omnster.github.io\/post\/kompromiss\/">Хро/;"	i
+Хроника текущих событий: октябрь 2017 (продолжение)	post/kompromiss/index.html	/^          <h2 class="post-title"><a href="https:\/\/omnster.github.io\/post\/kompromiss\/">Хро/;"	i
+Хроника текущих событий: октябрь 2017 (продолжение)	post/page/5/index.html	/^          <h2 class="post-title"><a href="https:\/\/omnster.github.io\/post\/kompromiss\/">Хро/;"	i
+Хроника текущих событий: октябрь 2017 (продолжение)	tags/digest/index.html	/^          <h2 class="post-title"><a href="https:\/\/omnster.github.io\/post\/kompromiss\/">Хро/;"	i
+Хроника текущих событий: октябрь 2017 (продолжение)	tags/speech/index.html	/^          <h2 class="post-title"><a href="https:\/\/omnster.github.io\/post\/kompromiss\/">Хро/;"	i
+Хроника текущих событий: сентябрь 2017	page/5/index.html	/^          <h2 class="post-title"><a href="https:\/\/omnster.github.io\/post\/2017-09-18\/">Хро/;"	i
+Хроника текущих событий: сентябрь 2017	post/2017-09-18/index.html	/^          <h2 class="post-title"><a href="https:\/\/omnster.github.io\/post\/2017-09-18\/">Хро/;"	i
+Хроника текущих событий: сентябрь 2017	post/page/5/index.html	/^          <h2 class="post-title"><a href="https:\/\/omnster.github.io\/post\/2017-09-18\/">Хро/;"	i
+Хроника текущих событий: сентябрь 2017	tags/digest/index.html	/^          <h2 class="post-title"><a href="https:\/\/omnster.github.io\/post\/2017-09-18\/">Хро/;"	i
+Хроника текущих событий: сентябрь 2017	tags/misc/index.html	/^          <h2 class="post-title"><a href="https:\/\/omnster.github.io\/post\/2017-09-18\/">Хро/;"	i
+Хроника текущих событий: сентябрь 2017	tags/speech/index.html	/^          <h2 class="post-title"><a href="https:\/\/omnster.github.io\/post\/2017-09-18\/">Хро/;"	i
+Хроника текущих событий: сентябрь-октябрь 2018	categories/digest/index.html	/^          <h2 class="post-title"><a href="https:\/\/omnster.github.io\/post\/digest_2018-10-25\//;"	i
+Хроника текущих событий: сентябрь-октябрь 2018	page/2/index.html	/^          <h2 class="post-title"><a href="https:\/\/omnster.github.io\/post\/digest_2018-10-25\//;"	i
+Хроника текущих событий: сентябрь-октябрь 2018	post/digest_2018-10-25/index.html	/^          <h2 class="post-title"><a href="https:\/\/omnster.github.io\/post\/digest_2018-10-25\//;"	i
+Хроника текущих событий: сентябрь-октябрь 2018	post/page/2/index.html	/^          <h2 class="post-title"><a href="https:\/\/omnster.github.io\/post\/digest_2018-10-25\//;"	i
+Хроника текущих событий: сентябрь-октябрь 2018	tags/scales-of-justice/index.html	/^          <h2 class="post-title"><a href="https:\/\/omnster.github.io\/post\/digest_2018-10-25\//;"	i
+Хроника текущих событий: сентябрь-октябрь 2018	tags/volny-kholodnoi-reki-nashi-khoroniat-mechty/index.html	/^          <h2 class="post-title"><a href="https:\/\/omnster.github.io\/post\/digest_2018-10-25\//;"	i
+Хроника текущих событий: февраль 2018	page/4/index.html	/^          <h2 class="post-title"><a href="https:\/\/omnster.github.io\/post\/nosochki\/">Хрон/;"	i
+Хроника текущих событий: февраль 2018	post/nosochki/index.html	/^          <h2 class="post-title"><a href="https:\/\/omnster.github.io\/post\/nosochki\/">Хрон/;"	i
+Хроника текущих событий: февраль 2018	post/page/4/index.html	/^          <h2 class="post-title"><a href="https:\/\/omnster.github.io\/post\/nosochki\/">Хрон/;"	i
+Хроника текущих событий: февраль 2018	tags/digest/index.html	/^          <h2 class="post-title"><a href="https:\/\/omnster.github.io\/post\/nosochki\/">Хрон/;"	i
+Хроника текущих событий: февраль 2018	tags/prekrasnoe-daleko-ne-bud-ko-mne-zhestoko/index.html	/^          <h2 class="post-title"><a href="https:\/\/omnster.github.io\/post\/nosochki\/">Хрон/;"	i
+Хроника текущих событий: январь 2018	page/4/index.html	/^          <h2 class="post-title"><a href="https:\/\/omnster.github.io\/post\/streams\/">Хрон/;"	i
+Хроника текущих событий: январь 2018	post/page/4/index.html	/^          <h2 class="post-title"><a href="https:\/\/omnster.github.io\/post\/streams\/">Хрон/;"	i
+Хроника текущих событий: январь 2018	post/streams/index.html	/^          <h2 class="post-title"><a href="https:\/\/omnster.github.io\/post\/streams\/">Хрон/;"	i
+Хроника текущих событий: январь 2018	tags/digest/index.html	/^          <h2 class="post-title"><a href="https:\/\/omnster.github.io\/post\/streams\/">Хрон/;"	i
+Хроника текущих событий: январь 2018	tags/pozvoni-mne-pozvoni/index.html	/^          <h2 class="post-title"><a href="https:\/\/omnster.github.io\/post\/streams\/">Хрон/;"	i
+Хроника текущих событий: январь 2019	categories/digest/index.html	/^          <h2 class="post-title"><a href="https:\/\/omnster.github.io\/post\/digest_2019-01-17\//;"	i
+Хроника текущих событий: январь 2019	page/2/index.html	/^          <h2 class="post-title"><a href="https:\/\/omnster.github.io\/post\/digest_2019-01-17\//;"	i
+Хроника текущих событий: январь 2019	post/digest_2019-01-17/index.html	/^          <h2 class="post-title"><a href="https:\/\/omnster.github.io\/post\/digest_2019-01-17\//;"	i
+Хроника текущих событий: январь 2019	post/page/2/index.html	/^          <h2 class="post-title"><a href="https:\/\/omnster.github.io\/post\/digest_2019-01-17\//;"	i
+Хроника текущих событий: январь 2019	tags/jei-khvatit-odnoi-intonatsii-khvatit-chtob-plamja-do-njeba-razhzhech/index.html	/^          <h2 class="post-title"><a href="https:\/\/omnster.github.io\/post\/digest_2019-01-17\//;"	i
+Церковь	page/6/index.html	/^          <h2 class="post-title"><a href="https:\/\/omnster.github.io\/post\/organ\/">Церко/;"	i
+Церковь	post/organ/index.html	/^          <h2 class="post-title"><a href="https:\/\/omnster.github.io\/post\/organ\/">Церко/;"	i
+Церковь	post/page/6/index.html	/^          <h2 class="post-title"><a href="https:\/\/omnster.github.io\/post\/organ\/">Церко/;"	i
+Церковь	tags/church/index.html	/^          <h2 class="post-title"><a href="https:\/\/omnster.github.io\/post\/organ\/">Церко/;"	i
+Церковь	tags/experience/index.html	/^          <h2 class="post-title"><a href="https:\/\/omnster.github.io\/post\/organ\/">Церко/;"	i
+Церковь	tags/places/index.html	/^          <h2 class="post-title"><a href="https:\/\/omnster.github.io\/post\/organ\/">Церко/;"	i
+Экскаватор	page/5/index.html	/^<h3 id="экскаватор">Экскаватор<\/h3>$/;"	j
+Экскаватор	page/6/index.html	/^          <h2 class="post-title"><a href="https:\/\/omnster.github.io\/post\/excavator\/">Экс/;"	i
+Экскаватор	post/druzhisctche/index.html	/^<h3 id="экскаватор">Экскаватор<\/h3>$/;"	j
+Экскаватор	post/excavator/index.html	/^          <h2 class="post-title"><a href="https:\/\/omnster.github.io\/post\/excavator\/">Экс/;"	i
+Экскаватор	post/page/5/index.html	/^<h3 id="экскаватор">Экскаватор<\/h3>$/;"	j
+Экскаватор	post/page/6/index.html	/^          <h2 class="post-title"><a href="https:\/\/omnster.github.io\/post\/excavator\/">Экс/;"	i
+Экскаватор	tags/excavator/index.html	/^<h3 id="экскаватор">Экскаватор<\/h3>$/;"	j
+Экскаватор	tags/speech/index.html	/^<h3 id="экскаватор">Экскаватор<\/h3>$/;"	j
+Экскаватор	tags/toys/index.html	/^          <h2 class="post-title"><a href="https:\/\/omnster.github.io\/post\/excavator\/">Экс/;"	i
+Экскаватор	tags/zoo/index.html	/^<h3 id="экскаватор">Экскаватор<\/h3>$/;"	j
+вместо-предисловия	page/5/index.html	/^				<h3 id="вместо-предисловия">Вместо предисловия<\/h3>$/;"	I
+вместо-предисловия	post/druzhisctche/index.html	/^            <h3 id="вместо-предисловия">Вместо предисловия<\/h/;"	I
+вместо-предисловия	post/page/5/index.html	/^				<h3 id="вместо-предисловия">Вместо предисловия<\/h3>$/;"	I
+вместо-предисловия	tags/excavator/index.html	/^				<h3 id="вместо-предисловия">Вместо предисловия<\/h3>$/;"	I
+вместо-предисловия	tags/speech/index.html	/^				<h3 id="вместо-предисловия">Вместо предисловия<\/h3>$/;"	I
+вместо-предисловия	tags/zoo/index.html	/^				<h3 id="вместо-предисловия">Вместо предисловия<\/h3>$/;"	I
+грустная-музыка	page/3/index.html	/^<h3 id="грустная-музыка">Грустная музыка<\/h3>$/;"	I
+грустная-музыка	post/page/3/index.html	/^<h3 id="грустная-музыка">Грустная музыка<\/h3>$/;"	I
+грустная-музыка	post/ulia/index.html	/^<h3 id="грустная-музыка">Грустная музыка<\/h3>$/;"	I
+грустная-музыка	tags/guest/index.html	/^<h3 id="грустная-музыка">Грустная музыка<\/h3>$/;"	I
+грустная-музыка	tags/mamulia/index.html	/^<h3 id="грустная-музыка">Грустная музыка<\/h3>$/;"	I
+детский-сад-и-речь	categories/digest/index.html	/^<h3 id="детский-сад-и-речь">Детский сад и речь<\/h3>$/;"	I
+детский-сад-и-речь	page/2/index.html	/^<h3 id="детский-сад-и-речь">Детский сад и речь<\/h3>$/;"	I
+детский-сад-и-речь	post/digest_2019-01-17/index.html	/^<h3 id="детский-сад-и-речь">Детский сад и речь<\/h3>$/;"	I
+детский-сад-и-речь	post/page/2/index.html	/^<h3 id="детский-сад-и-речь">Детский сад и речь<\/h3>$/;"	I
+детский-сад-и-речь	tags/jei-khvatit-odnoi-intonatsii-khvatit-chtob-plamja-do-njeba-razhzhech/index.html	/^<h3 id="детский-сад-и-речь">Детский сад и речь<\/h3>$/;"	I
+зоопарк	page/5/index.html	/^<h3 id="зоопарк">Зоопарк<\/h3>$/;"	I
+зоопарк	post/druzhisctche/index.html	/^<h3 id="зоопарк">Зоопарк<\/h3>$/;"	I
+зоопарк	post/page/5/index.html	/^<h3 id="зоопарк">Зоопарк<\/h3>$/;"	I
+зоопарк	tags/excavator/index.html	/^<h3 id="зоопарк">Зоопарк<\/h3>$/;"	I
+зоопарк	tags/speech/index.html	/^<h3 id="зоопарк">Зоопарк<\/h3>$/;"	I
+зоопарк	tags/zoo/index.html	/^<h3 id="зоопарк">Зоопарк<\/h3>$/;"	I
+культура	categories/digest/index.html	/^<h3 id="культура">Культура<\/h3>$/;"	I
+культура	page/2/index.html	/^<h3 id="культура">Культура<\/h3>$/;"	I
+культура	post/digest_2019-01-17/index.html	/^<h3 id="культура">Культура<\/h3>$/;"	I
+культура	post/page/2/index.html	/^<h3 id="культура">Культура<\/h3>$/;"	I
+культура	tags/jei-khvatit-odnoi-intonatsii-khvatit-chtob-plamja-do-njeba-razhzhech/index.html	/^<h3 id="культура">Культура<\/h3>$/;"	I
+лампочка	page/4/index.html	/^<h3 id="лампочка">Лампочка<\/h3>$/;"	I
+лампочка	post/hidenseek/index.html	/^<h3 id="лампочка">Лампочка<\/h3>$/;"	I
+лампочка	post/page/4/index.html	/^<h3 id="лампочка">Лампочка<\/h3>$/;"	I
+лампочка	tags/digest/index.html	/^<h3 id="лампочка">Лампочка<\/h3>$/;"	I
+лампочка	tags/vezi-menya-olen/index.html	/^<h3 id="лампочка">Лампочка<\/h3>$/;"	I
+нигилист	page/5/index.html	/^<h3 id="нигилист">Нигилист<\/h3>$/;"	I
+нигилист	post/druzhisctche/index.html	/^<h3 id="нигилист">Нигилист<\/h3>$/;"	I
+нигилист	post/page/5/index.html	/^<h3 id="нигилист">Нигилист<\/h3>$/;"	I
+нигилист	tags/excavator/index.html	/^<h3 id="нигилист">Нигилист<\/h3>$/;"	I
+нигилист	tags/speech/index.html	/^<h3 id="нигилист">Нигилист<\/h3>$/;"	I
+нигилист	tags/zoo/index.html	/^<h3 id="нигилист">Нигилист<\/h3>$/;"	I
+пойдем-выигрывать	page/3/index.html	/^<h3 id="пойдем-выигрывать">Пойдем выигрывать<\/h3>$/;"	I
+пойдем-выигрывать	post/page/3/index.html	/^<h3 id="пойдем-выигрывать">Пойдем выигрывать<\/h3>$/;"	I
+пойдем-выигрывать	post/ulia/index.html	/^<h3 id="пойдем-выигрывать">Пойдем выигрывать<\/h3>$/;"	I
+пойдем-выигрывать	tags/guest/index.html	/^<h3 id="пойдем-выигрывать">Пойдем выигрывать<\/h3>$/;"	I
+пойдем-выигрывать	tags/mamulia/index.html	/^<h3 id="пойдем-выигрывать">Пойдем выигрывать<\/h3>$/;"	I
+про-кота	categories/digest/index.html	/^<h3 id="про-кота">Про кота<\/h3>$/;"	I
+про-кота	page/2/index.html	/^<h3 id="про-кота">Про кота<\/h3>$/;"	I
+про-кота	post/digest_2019-01-17/index.html	/^<h3 id="про-кота">Про кота<\/h3>$/;"	I
+про-кота	post/page/2/index.html	/^<h3 id="про-кота">Про кота<\/h3>$/;"	I
+про-кота	tags/jei-khvatit-odnoi-intonatsii-khvatit-chtob-plamja-do-njeba-razhzhech/index.html	/^<h3 id="про-кота">Про кота<\/h3>$/;"	I
+про-спрос-и-предложение	page/4/index.html	/^<h3 id="про-спрос-и-предложение">Про спрос и предложение/;"	I
+про-спрос-и-предложение	post/page/4/index.html	/^<h3 id="про-спрос-и-предложение">Про спрос и предложение/;"	I
+про-спрос-и-предложение	post/xmas2017/index.html	/^<h3 id="про-спрос-и-предложение">Про спрос и предложение/;"	I
+про-спрос-и-предложение	tags/digest/index.html	/^<h3 id="про-спрос-и-предложение">Про спрос и предложение/;"	I
+про-спрос-и-предложение	tags/shiroka-strana-moya-rodnaya/index.html	/^<h3 id="про-спрос-и-предложение">Про спрос и предложение/;"	I
+прятки	page/4/index.html	/^				<h3 id="прятки">Прятки<\/h3>$/;"	I
+прятки	post/hidenseek/index.html	/^            <h3 id="прятки">Прятки<\/h3>$/;"	I
+прятки	post/page/4/index.html	/^				<h3 id="прятки">Прятки<\/h3>$/;"	I
+прятки	tags/digest/index.html	/^				<h3 id="прятки">Прятки<\/h3>$/;"	I
+прятки	tags/vezi-menya-olen/index.html	/^				<h3 id="прятки">Прятки<\/h3>$/;"	I
+разное	page/4/index.html	/^<h3 id="разное">Разное<\/h3>$/;"	I
+разное	post/page/4/index.html	/^<h3 id="разное">Разное<\/h3>$/;"	I
+разное	post/xmas2017/index.html	/^<h3 id="разное">Разное<\/h3>$/;"	I
+разное	tags/digest/index.html	/^<h3 id="разное">Разное<\/h3>$/;"	I
+разное	tags/shiroka-strana-moya-rodnaya/index.html	/^<h3 id="разное">Разное<\/h3>$/;"	I
+сказки	page/4/index.html	/^<h3 id="сказки">Сказки<\/h3>$/;"	I
+сказки	post/page/4/index.html	/^<h3 id="сказки">Сказки<\/h3>$/;"	I
+сказки	post/streams/index.html	/^<h3 id="сказки">Сказки<\/h3>$/;"	I
+сказки	tags/digest/index.html	/^<h3 id="сказки">Сказки<\/h3>$/;"	I
+сказки	tags/pozvoni-mne-pozvoni/index.html	/^<h3 id="сказки">Сказки<\/h3>$/;"	I
+экскаватор	page/5/index.html	/^<h3 id="экскаватор">Экскаватор<\/h3>$/;"	I
+экскаватор	post/druzhisctche/index.html	/^<h3 id="экскаватор">Экскаватор<\/h3>$/;"	I
+экскаватор	post/page/5/index.html	/^<h3 id="экскаватор">Экскаватор<\/h3>$/;"	I
+экскаватор	tags/excavator/index.html	/^<h3 id="экскаватор">Экскаватор<\/h3>$/;"	I
+экскаватор	tags/speech/index.html	/^<h3 id="экскаватор">Экскаватор<\/h3>$/;"	I
+экскаватор	tags/zoo/index.html	/^<h3 id="экскаватор">Экскаватор<\/h3>$/;"	I
