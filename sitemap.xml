@@ -1,735 +1,449 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
-  
   <url>
     <loc>https://omnster.github.io/post/</loc>
-    <lastmod>2021-03-03T06:00:00+01:00</lastmod>
-  </url>
-  
-  <url>
+    <lastmod>2021-04-24T21:32:45+02:00</lastmod>
+  </url><url>
+    <loc>https://omnster.github.io/tags/</loc>
+    <lastmod>2021-04-24T21:32:45+02:00</lastmod>
+  </url><url>
+    <loc>https://omnster.github.io/tags/wir-vergessen-nicht-was-war/</loc>
+    <lastmod>2021-04-24T21:32:45+02:00</lastmod>
+  </url><url>
+    <loc>https://omnster.github.io/post/2021-04-24/</loc>
+    <lastmod>2021-04-24T21:32:45+02:00</lastmod>
+  </url><url>
     <loc>https://omnster.github.io/</loc>
-    <lastmod>2021-03-03T06:00:00+01:00</lastmod>
-  </url>
-  
-  <url>
+    <lastmod>2021-04-24T21:32:45+02:00</lastmod>
+  </url><url>
     <loc>https://omnster.github.io/post/2021-03-03/</loc>
     <lastmod>2021-03-03T06:00:00+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://omnster.github.io/tags/jesli-b-nje-bilo-zimy/</loc>
     <lastmod>2021-02-12T06:00:00+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://omnster.github.io/tags/</loc>
-    <lastmod>2021-02-12T06:00:00+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://omnster.github.io/post/2021-01-30/</loc>
     <lastmod>2021-02-12T06:00:00+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://omnster.github.io/tags/nasha-sluzhba-i-opasna-i-trudna-i-na-pierviy-vzgliad-kak-budto-ne-vidna/</loc>
     <lastmod>2020-11-30T08:00:00+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://omnster.github.io/post/%D0%BA%D0%B0%D1%80%D1%80%D1%80%D0%B0%D0%BD%D1%82%D0%B8%D0%BD/</loc>
     <lastmod>2020-11-30T08:00:00+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://omnster.github.io/tags/bielyi-aist-lietit-nad-beliosim-polesiem-letit/</loc>
     <lastmod>2020-08-18T03:00:00+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://omnster.github.io/categories/</loc>
     <lastmod>2020-08-18T03:00:00+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://omnster.github.io/categories/digest/</loc>
     <lastmod>2020-08-18T03:00:00+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://omnster.github.io/post/2020-08-14/</loc>
     <lastmod>2020-08-18T03:00:00+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://omnster.github.io/tags/ogromnoe-nebo-ogromnoe-nebo-ogromnoe-nebo-odno-na-dvoikh/</loc>
     <lastmod>2020-07-28T06:00:00+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://omnster.github.io/post/2020-07-21/</loc>
     <lastmod>2020-07-28T06:00:00+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://omnster.github.io/tags/temnaja-noch-toliko-puli-svistyat-u-viska/</loc>
     <lastmod>2020-05-10T21:36:27+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://omnster.github.io/post/2020-05-10/</loc>
     <lastmod>2020-05-10T21:36:27+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://omnster.github.io/categories/qrntn/</loc>
     <lastmod>2020-03-24T21:55:01+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://omnster.github.io/tags/zakaliajsja-esli-khochesh-bity-zdorov-postarajsia-pozabyti-pro-doktoroff/</loc>
     <lastmod>2020-03-24T21:55:01+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://omnster.github.io/post/2020-03-24/</loc>
     <lastmod>2020-03-24T21:55:01+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://omnster.github.io/tags/ne-dumaj-o-sekundakh-svisoka-nastupit-vremija-sam-pojmesh-navernoe/</loc>
     <lastmod>2020-02-08T15:41:33+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://omnster.github.io/post/sranda/</loc>
     <lastmod>2020-02-08T15:41:33+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://omnster.github.io/tags/podbjeru-muziku-k-tebje-podbjeru-muziku-k-glazam/</loc>
     <lastmod>2020-01-19T23:31:53+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://omnster.github.io/post/%D1%85%D1%80%D0%BE%D0%BD%D0%B8%D0%BA%D0%B0-%D1%82%D0%B5%D0%BA%D1%83%D1%89%D0%B8%D1%85-%D1%81%D0%BE%D0%B1%D1%8B%D1%82%D0%B8%D0%B9-%D1%8F%D0%BD%D0%B2%D0%B0%D1%80%D1%8C-2020/</loc>
     <lastmod>2020-01-19T23:31:53+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://omnster.github.io/tags/otchizne-v-dar-ostanutsja-rabochiej-slavy-stancii/</loc>
     <lastmod>2019-09-30T06:00:00+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://omnster.github.io/post/%D1%85%D1%80%D0%BE%D0%BD%D0%B8%D0%BA%D0%B0-%D1%82%D0%B5%D0%BA%D1%83%D1%89%D0%B8%D1%85-%D1%81%D0%BE%D0%B1%D1%8B%D1%82%D0%B8%D0%B9-%D1%81%D0%B5%D0%BD%D1%82%D1%8F%D0%B1%D1%80%D1%8C-2019/</loc>
     <lastmod>2019-09-30T06:00:00+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://omnster.github.io/categories/doge/</loc>
     <lastmod>2019-08-12T10:38:08+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://omnster.github.io/tags/predannej-sobaki-veselej-sobaki-laskovej-sobaki-netu-suschchestva/</loc>
     <lastmod>2019-08-12T10:38:08+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://omnster.github.io/post/sobaken/</loc>
     <lastmod>2019-08-12T10:38:08+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://omnster.github.io/tags/uzhe-zoviet-menya-v-poliyot-moj-delitaplan-moj-delitaplan/</loc>
     <lastmod>2019-07-01T06:00:00+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://omnster.github.io/post/%D1%85%D1%80%D0%BE%D0%BD%D0%B8%D0%BA%D0%B0-%D1%82%D0%B5%D0%BA%D1%83%D1%89%D0%B8%D1%85-%D1%81%D0%BE%D0%B1%D1%8B%D1%82%D0%B8%D0%B9-%D0%B8%D1%8E%D0%BB%D1%8C-2019/</loc>
     <lastmod>2019-07-01T06:00:00+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://omnster.github.io/tags/zovi-menija-s-soboj-v-stranu-nesbyvshikhsija-snov/</loc>
     <lastmod>2019-04-23T06:00:00+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://omnster.github.io/post/%D1%85%D1%80%D0%BE%D0%BD%D0%B8%D0%BA%D0%B0-%D1%82%D0%B5%D0%BA%D1%83%D1%89%D0%B8%D1%85-%D1%81%D0%BE%D0%B1%D1%8B%D1%82%D0%B8%D0%B9-%D0%B0%D0%BF%D1%80%D0%B5%D0%BB%D1%8C-2019/</loc>
     <lastmod>2019-04-23T06:00:00+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://omnster.github.io/categories/engine/</loc>
     <lastmod>2019-03-14T11:01:56+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://omnster.github.io/post/technical-update/</loc>
     <lastmod>2019-03-14T11:01:56+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://omnster.github.io/tags/akh-kakoye-blazhenstvo-akh-kakoye-blazhenstvo-znati-shto-ti-sovershenstvo-znati-shto-ti-ideal/</loc>
     <lastmod>2019-03-04T06:00:00+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://omnster.github.io/post/%D1%85%D1%80%D0%BE%D0%BD%D0%B8%D0%BA%D0%B0-%D1%82%D0%B5%D0%BA%D1%83%D1%89%D0%B8%D1%85-%D1%81%D0%BE%D0%B1%D1%8B%D1%82%D0%B8%D0%B9-%D0%BC%D0%B0%D1%80%D1%82-2019/</loc>
     <lastmod>2019-03-04T06:00:00+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://omnster.github.io/tags/on-okruzhen-liudskoj-molvoj-on-ne-igrushka-on-zhivoj/</loc>
     <lastmod>2019-02-04T06:00:00+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://omnster.github.io/post/%D1%85%D1%80%D0%BE%D0%BD%D0%B8%D0%BA%D0%B0-%D1%82%D0%B5%D0%BA%D1%83%D1%89%D0%B8%D1%85-%D1%81%D0%BE%D0%B1%D1%8B%D1%82%D0%B8%D0%B9-%D1%84%D0%B5%D0%B2%D1%80%D0%B0%D0%BB%D1%8C-2019/</loc>
     <lastmod>2019-02-04T06:00:00+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://omnster.github.io/categories/annual/</loc>
     <lastmod>2019-01-28T06:00:00+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://omnster.github.io/post/iv/</loc>
     <lastmod>2019-01-28T06:00:00+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://omnster.github.io/tags/zdravstvuj-zdravstvuj-siyayesh-siyayu-kotorij-tschas-dvenadtsatij-primerno/</loc>
     <lastmod>2019-01-28T06:00:00+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://omnster.github.io/tags/jei-khvatit-odnoi-intonatsii-khvatit-chtob-plamja-do-njeba-razhzhech/</loc>
     <lastmod>2019-01-17T23:01:01+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://omnster.github.io/post/digest_2019-01-17/</loc>
     <lastmod>2019-01-17T23:01:01+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://omnster.github.io/tags/mnie-poniatna-tvoja-vekovaia-pechalj-belovezhskaya-pushtcha/</loc>
     <lastmod>2018-11-16T20:37:55+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://omnster.github.io/tags/sports/</loc>
     <lastmod>2018-11-16T20:37:55+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://omnster.github.io/post/kairat/</loc>
     <lastmod>2018-11-16T20:37:55+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://omnster.github.io/tags/odin-glupij-lesorub-znaete-takogo-zahotel-sebe-tulup-sdelat-bez-portnogo/</loc>
     <lastmod>2018-11-04T16:21:43+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://omnster.github.io/post/2018-11-04/</loc>
     <lastmod>2018-11-04T16:21:43+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://omnster.github.io/tags/scales-of-justice/</loc>
     <lastmod>2018-10-25T21:33:59+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://omnster.github.io/tags/volny-kholodnoi-reki-nashi-khoroniat-mechty/</loc>
     <lastmod>2018-10-25T21:33:59+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://omnster.github.io/post/digest_2018-10-25/</loc>
     <lastmod>2018-10-25T21:33:59+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://omnster.github.io/tags/a-ljubovi-zolotaya-lestnitsa-bez-peril/</loc>
     <lastmod>2018-09-25T18:00:17+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://omnster.github.io/tags/into-the-orchard-i-walk-peering-way-past-the-gate/</loc>
     <lastmod>2018-09-25T18:00:17+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://omnster.github.io/post/orchard/</loc>
     <lastmod>2018-09-25T18:00:17+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://omnster.github.io/tags/guest/</loc>
     <lastmod>2018-09-19T22:17:15+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://omnster.github.io/tags/mamulia/</loc>
     <lastmod>2018-09-19T22:17:15+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://omnster.github.io/post/ulia/</loc>
     <lastmod>2018-09-19T22:17:15+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://omnster.github.io/tags/jabloki-na-snegu-rozovie-na-belom/</loc>
     <lastmod>2018-08-25T15:25:35+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://omnster.github.io/post/digest_2018-07-09/</loc>
     <lastmod>2018-08-25T15:25:35+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://omnster.github.io/tags/ves-mir-u-nas-v-rukah-mi-zvezdi-kontinentov/</loc>
     <lastmod>2018-07-02T14:09:12+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://omnster.github.io/post/language/</loc>
     <lastmod>2018-07-02T14:09:12+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://omnster.github.io/categories/experiences/</loc>
     <lastmod>2018-06-25T23:34:22+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://omnster.github.io/tags/one-day/</loc>
     <lastmod>2018-06-25T23:34:22+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://omnster.github.io/tags/stanj-moei-melodiej-porvannie-struni-ozhivi/</loc>
     <lastmod>2018-06-25T23:34:22+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://omnster.github.io/post/visatrip/</loc>
     <lastmod>2018-06-25T23:34:22+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://omnster.github.io/tags/po-pereulkam-brodit-leto-solntse-ljiotsya-priamo-s-krysh/</loc>
     <lastmod>2018-06-18T23:25:02+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://omnster.github.io/post/boundaries/</loc>
     <lastmod>2018-06-18T23:25:02+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://omnster.github.io/tags/ja-bi-prishol-k-vam-na-svidanie-za-polchasa-do-vesni/</loc>
     <lastmod>2018-06-11T17:54:30+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://omnster.github.io/post/2018-06-11/</loc>
     <lastmod>2018-06-11T17:54:30+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://omnster.github.io/categories/emotions/</loc>
     <lastmod>2018-06-04T22:27:14+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://omnster.github.io/tags/jesli-pravda-na-vsekh-odna-na-vsekh-i-pechal-odna/</loc>
     <lastmod>2018-06-04T22:27:14+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://omnster.github.io/post/frustratio/</loc>
     <lastmod>2018-06-04T22:27:14+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://omnster.github.io/tags/nichto-na-zemle-ne-prohodit-bessledno/</loc>
     <lastmod>2018-05-28T23:52:56+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://omnster.github.io/post/2018-05-28/</loc>
     <lastmod>2018-05-28T23:52:56+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://omnster.github.io/tags/moj-adres-ne-dom-i-ne-ulitza/</loc>
     <lastmod>2018-05-04T21:07:04+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://omnster.github.io/post/da-ili-net/</loc>
     <lastmod>2018-05-04T21:07:04+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://omnster.github.io/tags/uvezu-tebia-ja-v-tundru/</loc>
     <lastmod>2018-04-21T15:29:58+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://omnster.github.io/post/digest/</loc>
     <lastmod>2018-04-21T15:29:58+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://omnster.github.io/tags/a-snitsya-nam-nie-rockot-cosmodroma/</loc>
     <lastmod>2018-03-06T11:54:36+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://omnster.github.io/post/sick/</loc>
     <lastmod>2018-03-06T11:54:36+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://omnster.github.io/tags/budet-zemlya-krasivoy-i-molodoy/</loc>
     <lastmod>2018-02-20T09:49:43+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://omnster.github.io/tags/digest/</loc>
     <lastmod>2018-02-20T09:49:43+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://omnster.github.io/post/shutup/</loc>
     <lastmod>2018-02-20T09:49:43+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://omnster.github.io/tags/prekrasnoe-daleko-ne-bud-ko-mne-zhestoko/</loc>
     <lastmod>2018-02-05T20:17:08+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://omnster.github.io/post/nosochki/</loc>
     <lastmod>2018-02-05T20:17:08+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://omnster.github.io/tags/vezi-menya-olen/</loc>
     <lastmod>2018-01-30T00:02:38+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://omnster.github.io/post/hidenseek/</loc>
     <lastmod>2018-01-30T00:02:38+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://omnster.github.io/tags/pozvoni-mne-pozvoni/</loc>
     <lastmod>2018-01-20T15:01:05+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://omnster.github.io/post/streams/</loc>
     <lastmod>2018-01-20T15:01:05+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://omnster.github.io/tags/shiroka-strana-moya-rodnaya/</loc>
     <lastmod>2017-12-23T10:25:47+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://omnster.github.io/post/xmas2017/</loc>
     <lastmod>2017-12-23T10:25:47+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://omnster.github.io/post/31/</loc>
     <lastmod>2017-12-11T21:19:41+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://omnster.github.io/categories/myself/</loc>
     <lastmod>2017-12-11T21:19:41+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://omnster.github.io/tags/nakoli-mne-kupola/</loc>
     <lastmod>2017-12-11T21:19:41+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://omnster.github.io/tags/liubov-komsomol-i-vesna/</loc>
     <lastmod>2017-12-08T23:09:53+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://omnster.github.io/tags/speech/</loc>
     <lastmod>2017-12-08T23:09:53+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://omnster.github.io/post/hts_dec_2017/</loc>
     <lastmod>2017-12-08T23:09:53+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://omnster.github.io/tags/i-lenin-takoy-molodoy/</loc>
     <lastmod>2017-11-15T21:49:46+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://omnster.github.io/tags/short/</loc>
     <lastmod>2017-11-15T21:49:46+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://omnster.github.io/post/red/</loc>
     <lastmod>2017-11-15T21:49:46+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://omnster.github.io/tags/language/</loc>
     <lastmod>2017-11-08T00:05:55+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://omnster.github.io/tags/obnimashki/</loc>
     <lastmod>2017-11-08T00:05:55+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://omnster.github.io/post/laskat/</loc>
     <lastmod>2017-11-08T00:05:55+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://omnster.github.io/post/kompromiss/</loc>
     <lastmod>2017-10-31T22:46:24+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://omnster.github.io/tags/excavator/</loc>
     <lastmod>2017-10-16T15:21:36+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://omnster.github.io/tags/zoo/</loc>
     <lastmod>2017-10-16T15:21:36+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://omnster.github.io/post/druzhisctche/</loc>
     <lastmod>2017-10-16T15:21:36+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://omnster.github.io/post/2017-10-09/</loc>
     <lastmod>2017-10-11T20:41:53+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://omnster.github.io/tags/misc/</loc>
     <lastmod>2017-09-18T20:14:34+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://omnster.github.io/post/2017-09-18/</loc>
     <lastmod>2017-09-18T20:14:34+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://omnster.github.io/post/one_day/</loc>
     <lastmod>2017-09-11T20:14:12+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://omnster.github.io/post/badass/</loc>
     <lastmod>2017-09-04T23:18:20+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://omnster.github.io/post/klassnkh_parney/</loc>
     <lastmod>2017-08-28T13:33:53+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://omnster.github.io/post/17_august/</loc>
     <lastmod>2017-08-21T23:56:32+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://omnster.github.io/post/mom/</loc>
     <lastmod>2017-08-19T12:38:53+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://omnster.github.io/post/endofjune/</loc>
     <lastmod>2017-07-06T14:27:37+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://omnster.github.io/tags/games/</loc>
     <lastmod>2017-06-27T00:05:56+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://omnster.github.io/tags/machinae-supremacy/</loc>
     <lastmod>2017-06-27T00:05:56+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://omnster.github.io/post/excavator-2/</loc>
     <lastmod>2017-06-27T00:05:56+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://omnster.github.io/tags/morals-and-manners/</loc>
     <lastmod>2017-06-20T23:26:11+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://omnster.github.io/post/beg/</loc>
     <lastmod>2017-06-20T23:26:11+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://omnster.github.io/tags/turgenev/</loc>
     <lastmod>2017-06-07T13:45:02+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://omnster.github.io/post/running/</loc>
     <lastmod>2017-06-07T13:45:02+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://omnster.github.io/post/endofmay/</loc>
     <lastmod>2017-05-27T00:08:48+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://omnster.github.io/tags/church/</loc>
     <lastmod>2017-05-07T22:38:06+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://omnster.github.io/tags/experience/</loc>
     <lastmod>2017-05-07T22:38:06+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://omnster.github.io/tags/places/</loc>
     <lastmod>2017-05-07T22:38:06+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://omnster.github.io/post/organ/</loc>
     <lastmod>2017-05-07T22:38:06+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://omnster.github.io/post/april_2/</loc>
     <lastmod>2017-05-05T22:31:02+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://omnster.github.io/post/april/</loc>
     <lastmod>2017-04-05T12:33:25+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://omnster.github.io/post/sleep/</loc>
     <lastmod>2017-03-14T22:24:28+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://omnster.github.io/tags/toys/</loc>
     <lastmod>2017-02-18T23:25:43+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://omnster.github.io/post/excavator/</loc>
     <lastmod>2017-02-18T23:25:43+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://omnster.github.io/tags/words/</loc>
     <lastmod>2017-02-14T22:54:23+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://omnster.github.io/post/prodolzhim/</loc>
     <lastmod>2017-02-14T22:54:23+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://omnster.github.io/categories/tales/</loc>
     <lastmod>2017-02-05T22:21:38+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://omnster.github.io/post/sosiska/</loc>
     <lastmod>2017-02-05T22:21:38+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://omnster.github.io/post/kefir/</loc>
     <lastmod>2017-01-31T00:26:43+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://omnster.github.io/tags/music/</loc>
     <lastmod>2017-01-19T16:04:23+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://omnster.github.io/post/music/</loc>
     <lastmod>2017-01-19T16:04:23+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://omnster.github.io/post/guards-guards/</loc>
     <lastmod>2017-01-15T23:34:10+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://omnster.github.io/tags/phrases/</loc>
     <lastmod>2017-01-04T22:28:30+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://omnster.github.io/post/je-ne-parle/</loc>
     <lastmod>2017-01-04T22:28:30+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://omnster.github.io/post/good_day/</loc>
     <lastmod>2016-12-31T00:39:22+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://omnster.github.io/post/words/</loc>
     <lastmod>2016-12-14T00:26:09+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://omnster.github.io/post/introduction/</loc>
     <lastmod>2016-12-14T00:11:26+01:00</lastmod>
   </url>
-  
 </urlset>
