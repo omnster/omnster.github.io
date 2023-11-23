@@ -6,16 +6,15 @@
     <description>Recent content in engine on Потом придумаю</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ru-ru</language>
-    <lastBuildDate>Thu, 14 Mar 2019 11:01:56 +0100</lastBuildDate><atom:link href="https://omnster.github.io/categories/engine/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 14 Mar 2019 11:01:56 +0100</lastBuildDate>
+    <atom:link href="https://omnster.github.io/categories/engine/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Техническое</title>
       <link>https://omnster.github.io/post/technical-update/</link>
       <pubDate>Thu, 14 Mar 2019 11:01:56 +0100</pubDate>
-      
       <guid>https://omnster.github.io/post/technical-update/</guid>
       <description>Ретивые читатели, буде таковые найдутся, отныне могут скачать архив этого сайта в pdf.
 Скачать бесплатно без смс и регистрации</description>
     </item>
-    
   </channel>
 </rss>

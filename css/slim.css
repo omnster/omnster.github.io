@@ -1,3 +1,8 @@
+:root { font-family: 'Inter', sans-serif; }
+@supports (font-variation-settings: normal) {
+  :root { font-family: 'Inter var', sans-serif; }
+}
+
 html {
   box-sizing: border-box; }
 
@@ -41,7 +46,7 @@ tbody tr:nth-child(odd) th {
 
 body {
   color: #555;
-  font-family: 'Source Sans Pro', 'Helvetica Neue', Helvetica, 'PingFang SC', 'Hiragino Sans GB', 'Microsoft YaHei', 'WenQuanYi Micro Hei', Arial, Serif;
+  font-family: 'Inter', 'Source Sans Pro', 'Helvetica Neue', Helvetica, Arial, Serif;
   font-size: 100%;
   font-weight: 400;
   line-height: 1.85;
