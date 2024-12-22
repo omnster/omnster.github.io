@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>zoo on Потом придумаю</title>
+    <title>Zoo on Потом придумаю</title>
     <link>https://omnster.github.io/tags/zoo/</link>
-    <description>Recent content in zoo on Потом придумаю</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <description>Recent content in Zoo on Потом придумаю</description>
+    <generator>Hugo</generator>
     <language>ru-ru</language>
     <lastBuildDate>Mon, 16 Oct 2017 15:21:36 +0200</lastBuildDate>
     <atom:link href="https://omnster.github.io/tags/zoo/index.xml" rel="self" type="application/rss+xml" />
@@ -13,7 +13,7 @@
       <link>https://omnster.github.io/post/druzhisctche/</link>
       <pubDate>Mon, 16 Oct 2017 15:21:36 +0200</pubDate>
       <guid>https://omnster.github.io/post/druzhisctche/</guid>
-      <description>Вместо предисловия Дорогие друзья, в нижеследующем тексте встречаются описания того, что иногда в родителеориентированных текстах из интернета называют &amp;ldquo;кризисом двух годиков&amp;rdquo;. Я, наверно, напишу про него отдельно потом, а пока надо только отметить, что уже где-то месяца полтора и, в особенности, последние примерно две недели у нас дома полная гармония. А кризис, судя по тому, как из него вышел я, был кризисом мальчика тридцати годиков, но это, как водится, другая история.</description>
+      <description>&lt;h3 id=&#34;вместо-предисловия&#34;&gt;Вместо предисловия&lt;/h3&gt;&#xA;&lt;p&gt;Дорогие друзья, в нижеследующем тексте встречаются описания того, что иногда в родителеориентированных текстах из интернета называют &amp;ldquo;кризисом двух годиков&amp;rdquo;.  Я, наверно, напишу про него отдельно потом, а пока надо только отметить, что уже где-то месяца полтора и, в особенности, последние примерно две недели у нас дома полная гармония.  А кризис, судя по тому, как из него вышел я, был кризисом мальчика тридцати годиков, но это, как водится, другая история.&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

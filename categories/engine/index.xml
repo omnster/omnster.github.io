@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>engine on Потом придумаю</title>
+    <title>Engine on Потом придумаю</title>
     <link>https://omnster.github.io/categories/engine/</link>
-    <description>Recent content in engine on Потом придумаю</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <description>Recent content in Engine on Потом придумаю</description>
+    <generator>Hugo</generator>
     <language>ru-ru</language>
     <lastBuildDate>Thu, 14 Mar 2019 11:01:56 +0100</lastBuildDate>
     <atom:link href="https://omnster.github.io/categories/engine/index.xml" rel="self" type="application/rss+xml" />
@@ -13,8 +13,7 @@
       <link>https://omnster.github.io/post/technical-update/</link>
       <pubDate>Thu, 14 Mar 2019 11:01:56 +0100</pubDate>
       <guid>https://omnster.github.io/post/technical-update/</guid>
-      <description>Ретивые читатели, буде таковые найдутся, отныне могут скачать архив этого сайта в pdf.
-Скачать бесплатно без смс и регистрации</description>
+      <description>&lt;p&gt;Ретивые читатели, буде таковые найдутся, отныне могут скачать архив этого сайта в pdf.&lt;/p&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://omnster.github.io/pdf/posts.pdf&#34;&gt;Скачать бесплатно без смс и регистрации&lt;/a&gt;&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
